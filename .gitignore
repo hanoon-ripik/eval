@@ -1,2 +1,5 @@
 *.mp4
 eval
+.env
+*.zip
+*.png

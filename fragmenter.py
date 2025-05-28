@@ -110,7 +110,6 @@ def main():
     print("Video Fragmenter")
     print("================")
     
-    # Check if ffmpeg is available
     if not check_ffmpeg():
         print("Error: ffmpeg is not installed or not found in PATH.")
         print("Please install ffmpeg first:")
@@ -126,7 +125,6 @@ def main():
     print(f"Fragment duration: {fragment_minutes} minutes")
     print()
     
-    # Fragment the video
     success = fragment_video(video_path, fragment_minutes)
     
     return 0 if success else 1
