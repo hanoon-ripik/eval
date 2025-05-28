@@ -1,14 +1,16 @@
 from typing import List, Tuple, Dict
 import argparse
 import torch
+
 # Fix for PyTorch 2.6+ weights_only security issue with YOLOv8
-torch.serialization.add_safe_globals([
-    'ultralytics.nn.tasks.SegmentationModel',
-    'ultralytics.nn.tasks.DetectionModel',
-    'ultralytics.nn.tasks.ClassificationModel',
-    'ultralytics.nn.tasks.PoseModel',
-    'ultralytics.nn.tasks.RTDETRDetectionModel',
-])
+# Set torch.load to use weights_only=False by default for YOLOv8 compatibility
+original_torch_load = torch.load
+def patched_torch_load(*args, **kwargs):
+    if 'weights_only' not in kwargs:
+        kwargs['weights_only'] = False
+    return original_torch_load(*args, **kwargs)
+torch.load = patched_torch_load
+
 from ultralytics import YOLO
 import supervision as sv
 import utils.supervision_mods as svm
@@ -84,9 +86,7 @@ class DIP:
         line_counter = svm.LineZone(start=self.LINE_START, end=self.LINE_END)
         line_annotator = sv.LineZoneAnnotator(thickness=2, text_thickness=2, text_scale=1)
         box_annotator = sv.BoxAnnotator(
-            thickness=2,
-            text_thickness=1,
-            text_scale=0.5
+            thickness=2
         )
 
         mask_annotator = sv.MaskAnnotator()
