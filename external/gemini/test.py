@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
 """
-Test script for Gemini models with OCR functionality
+Test script for Gemini models with OCR functionality on folder of images
 """
 
+import os
+import glob
+from pathlib import Path
 from models import gemini_2_5_pro_preview, gemini_2_5_flash_preview, gemini_2_0_flash
 
 # Configuration
 MODEL_TO_USE = gemini_2_0_flash 
-IMAGE_PATH = "1740420075465_2501240027.png"
+FOLDER_PATH = "/Users/hanoon/Documents/eval/direct/clipped"  # Change this to your folder path
+SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp']
 
 # System instruction for OCR tasks
 SYSTEM_INSTRUCTION = """You are an expert OCR (Optical Character Recognition) assistant. Your task is to:
@@ -20,62 +24,107 @@ SYSTEM_INSTRUCTION = """You are an expert OCR (Optical Character Recognition) as
 # Test prompt
 TEST_PROMPT = "Please perform OCR on this image and extract all visible text. Organize the extracted text clearly and mention any areas where the text might be unclear or difficult to read."
 
-def test_gemini_ocr():
-    """Test the selected Gemini model with OCR functionality"""
-    print(f"Testing {MODEL_TO_USE.__name__} with OCR...")
-    print(f"Image: {IMAGE_PATH}")
-    print("-" * 60)
+def get_image_files(folder_path):
+    """Get all image files from the specified folder"""
+    image_files = []
+    for ext in SUPPORTED_EXTENSIONS:
+        pattern = os.path.join(folder_path, f"*{ext}")
+        image_files.extend(glob.glob(pattern))
+    return sorted(image_files)
+
+def test_single_image(image_path):
+    """Test OCR on a single image"""
+    print(f"\n{'='*100}")
+    print(f"📸 IMAGE: {os.path.basename(image_path)}")
+    print(f"{'='*100}")
     
     try:
-        # Call the model with image
         response = MODEL_TO_USE(
             system_instruction=SYSTEM_INSTRUCTION,
             prompt=TEST_PROMPT,
-            image_path=IMAGE_PATH
+            image_path=image_path
         )
         
-        print("OCR Results:")
-        print("=" * 60)
+        print("📝 OCR RESULTS:")
+        print("-" * 80)
         print(response)
-        print("=" * 60)
+        print("-" * 80)
+        print("✅ SUCCESS")
         
     except Exception as e:
-        print(f"Error occurred: {e}")
+        print(f"❌ ERROR: {e}")
+    
+    print(f"{'='*100}\n")
 
-def test_all_models():
-    """Test all available models with OCR"""
+def test_folder_ocr():
+    """Test OCR on all images in the specified folder"""
+    print(f"🔍 Testing {MODEL_TO_USE.__name__} with OCR on folder: {FOLDER_PATH}")
+    print(f"📁 Scanning for images with extensions: {', '.join(SUPPORTED_EXTENSIONS)}")
+    
+    # Get all image files
+    image_files = get_image_files(FOLDER_PATH)
+    
+    if not image_files:
+        print(f"❌ No image files found in {FOLDER_PATH}")
+        return
+    
+    print(f"📊 Found {len(image_files)} image(s) to process")
+    print(f"🤖 Using model: {MODEL_TO_USE.__name__}")
+    
+    # Process each image
+    for i, image_path in enumerate(image_files, 1):
+        print(f"\n🔄 Processing image {i}/{len(image_files)}...")
+        test_single_image(image_path)
+    
+    print(f"🎉 Completed OCR processing for {len(image_files)} images!")
+
+def test_all_models_on_folder():
+    """Test all available models with OCR on the folder"""
     models = [
         ("Gemini 2.5 Pro Preview", gemini_2_5_pro_preview),
         ("Gemini 2.5 Flash Preview", gemini_2_5_flash_preview),
         ("Gemini 2.0 Flash", gemini_2_0_flash)
     ]
     
+    image_files = get_image_files(FOLDER_PATH)
+    
+    if not image_files:
+        print(f"❌ No image files found in {FOLDER_PATH}")
+        return
+    
+    print(f"📊 Found {len(image_files)} image(s) to process with {len(models)} models")
+    
     for model_name, model_func in models:
-        print(f"\n{'='*80}")
-        print(f"Testing {model_name}")
-        print(f"{'='*80}")
+        print(f"\n{'🚀'*50}")
+        print(f"🤖 Testing {model_name}")
+        print(f"{'🚀'*50}")
         
-        try:
-            response = model_func(
-                system_instruction=SYSTEM_INSTRUCTION,
-                prompt=TEST_PROMPT,
-                image_path=IMAGE_PATH
-            )
+        for i, image_path in enumerate(image_files, 1):
+            print(f"\n📸 Image {i}/{len(image_files)}: {os.path.basename(image_path)}")
+            print("-" * 80)
             
-            print("OCR Results:")
-            print("-" * 60)
-            print(response)
-            print("-" * 60)
+            try:
+                response = model_func(
+                    system_instruction=SYSTEM_INSTRUCTION,
+                    prompt=TEST_PROMPT,
+                    image_path=image_path
+                )
+                
+                print("📝 OCR Results:")
+                print(response)
+                print("✅ SUCCESS")
+                
+            except Exception as e:
+                print(f"❌ Error with {model_name}: {e}")
             
-        except Exception as e:
-            print(f"Error with {model_name}: {e}")
+            print("-" * 80)
 
 if __name__ == "__main__":
     print("Gemini OCR Test Script")
     print("=" * 60)
     
-    # Test single model
-    test_gemini_ocr()
+    # Test single model on folder
+    test_folder_ocr()
     
-    # Test all
-    # test_all_models()
+    # Uncomment to test all models on folder
+    # test_all_models_on_folder()
