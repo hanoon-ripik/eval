@@ -9,7 +9,7 @@ ds-info:
     y:
       - 0
       - 1080
-  pipe-model: 'models/best_seg_207.pt'
+  pipe-model: 'yolov8n-seg.pt'  # Using basic YOLOv8 nano segmentation model (auto-download)
   line-start: 
     - 830
     - 1080

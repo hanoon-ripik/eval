@@ -1,5 +1,14 @@
 from typing import List, Tuple, Dict
 import argparse
+import torch
+# Fix for PyTorch 2.6+ weights_only security issue with YOLOv8
+torch.serialization.add_safe_globals([
+    'ultralytics.nn.tasks.SegmentationModel',
+    'ultralytics.nn.tasks.DetectionModel',
+    'ultralytics.nn.tasks.ClassificationModel',
+    'ultralytics.nn.tasks.PoseModel',
+    'ultralytics.nn.tasks.RTDETRDetectionModel',
+])
 from ultralytics import YOLO
 import supervision as sv
 import utils.supervision_mods as svm
