@@ -1,16 +1,12 @@
 from typing import List, Tuple, Dict
 import argparse
 import torch
-
-# Fix for PyTorch 2.6+ weights_only security issue with YOLOv8
-# Set torch.load to use weights_only=False by default for YOLOv8 compatibility
-original_torch_load = torch.load
-def patched_torch_load(*args, **kwargs):
-    if 'weights_only' not in kwargs:
-        kwargs['weights_only'] = False
-    return original_torch_load(*args, **kwargs)
-torch.load = patched_torch_load
-
+import torch
+try:
+    from ultralytics.nn.tasks import SegmentationModel, DetectionModel, ClassificationModel
+    torch.serialization.add_safe_globals([SegmentationModel, DetectionModel, ClassificationModel])
+except ImportError:
+    pass
 from ultralytics import YOLO
 import supervision as sv
 import utils.supervision_mods as svm
@@ -19,7 +15,6 @@ import time
 from datetime import datetime
 import cv2
 import json
-
 from rtsp.reader import RTSPReader
 
 from utils.logging import logger
@@ -33,8 +28,21 @@ from data.config import read_cam_config
 class DIP:
 
     def __init__(self, config: Dict, clientId: str, produce: str) -> None:
-        
-        self.model : YOLO = YOLO(config['ds-info']['pipe-model'])
+        model_path = config['ds-info']['pipe-model']
+        original_load = torch.load
+        def load_with_weights_only_false(f, map_location=None, pickle_module=None, weights_only=None, **kwargs):
+            return original_load(f, map_location=map_location, pickle_module=pickle_module, weights_only=False, **kwargs)
+        torch.load = load_with_weights_only_false
+        try:
+            print(f"Loading custom pipe detection model: {model_path}")
+            self.model : YOLO = YOLO(model_path)
+            print("Custom pipe detection model loaded successfully!")
+        except Exception as e:
+            print(f"Failed to load custom model: {e}")
+            print("Falling back to generic YOLO model...")
+            self.model : YOLO = YOLO('yolov8n-seg.pt')
+        finally:
+            torch.load = original_load
         self.LINE_START : sv.Point = sv.Point(
             config['ds-info']['line-start'][0],
             config['ds-info']['line-start'][1]
@@ -43,7 +51,6 @@ class DIP:
             config['ds-info']['line-end'][0],
             config['ds-info']['line-end'][1]
         )
-
         self.cross_point : int = config['ds-info']['line-start'][0]
 
         self.cap : RTSPReader = RTSPReader(config['conn-string'])
@@ -61,9 +68,6 @@ class DIP:
 
         self.dia_handler : DiameterHandler = DiameterHandler(config['ds-info']['dia-handler'], config['ds-info']['ratios'], config['ds-info']['possible_dias'])
         self.this_shift_ids = set()
-
-        # Remove queue_url dependency since we're not using S3/SQS
-        # self.queue_url = config['queue-url']
 
         self.cropping = config['ds-info']['cropping']
 

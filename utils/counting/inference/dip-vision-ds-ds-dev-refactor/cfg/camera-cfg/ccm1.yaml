@@ -1,5 +1,5 @@
 cam-id: 208
-conn-string: 0.mp4
+conn-string: /Users/hanoon/Documents/eval/00000000017000000.mp4
 analysis-time-delta: 0.25
 ds-info:
   cropping:
@@ -9,7 +9,7 @@ ds-info:
     y:
       - 0
       - 720
-  pipe-model: 'yolov8n-seg.pt'  # Using basic YOLOv8 nano segmentation model (auto-download)
+  pipe-model: 'models/best_seg_208.pt'  # Using basic YOLOv8 nano segmentation model (auto-download)
   line-start: 
     - 400
     - 1280

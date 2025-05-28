@@ -3,3 +3,5 @@ eval
 .env
 *.zip
 *.png
+*.DS_Store
+*.pt
