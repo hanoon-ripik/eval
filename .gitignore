@@ -1,7 +1,8 @@
 *.mp4
 eval
-.env
+*.env
 *.zip
 *.png
 *.DS_Store
 *.pt
+*.jpg
