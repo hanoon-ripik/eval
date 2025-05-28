@@ -112,7 +112,7 @@ class DIP:
 
             timestamp_curr = get_ist_timestamp()
 
-            result = self.model.track(frame, persist=True, retina_masks=True, device=0)[0]
+            result = self.model.track(frame, persist=True, retina_masks=True, device='cpu')[0]
             shift = get_shift()
 
             line_annotator.custom_in_text = f"Shift {shift} in"
@@ -123,22 +123,23 @@ class DIP:
             if result.boxes.id is not None:
                 detections.tracker_id = result.boxes.id.cpu().numpy().astype(int)
 
-            labels = [
-                f"{tracker_id} {self.model.model.names[class_id]} {confidence:0.2f}"
-                for _, _, confidence, class_id, tracker_id
-                in detections
-            ]
+            # Create labels with proper unpacking based on detection structure
+            labels = []
+            for i, detection in enumerate(detections):
+                class_id = int(detection[3]) if len(detection) > 3 else 0
+                confidence = float(detection[2]) if len(detection) > 2 else 0.0
+                tracker_id = detections.tracker_id[i] if detections.tracker_id is not None and i < len(detections.tracker_id) else "N/A"
+                class_name = self.model.model.names.get(class_id, "unknown")
+                labels.append(f"{tracker_id} {class_name} {confidence:0.2f}")
 
             frame = mask_annotator.annotate(
                 scene=frame,
-                detections=detections,
-                opacity=0.5
+                detections=detections
             )
 
             frame = box_annotator.annotate(
                 scene=frame,
-                detections=detections,
-                labels=labels
+                detections=detections
             )
 
             line_annotator.annotate(frame=frame, line_counter=line_counter)
