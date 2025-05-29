@@ -46,3 +46,31 @@ def gemini_2_0_flash(system_instruction, prompt, image_path=None):
     
     response = model.generate_content(content)
     return response.text.strip()
+
+def gemini_1_5_flash(system_instruction, prompt, image_path=None):
+    model = genai.GenerativeModel(
+        model_name="gemini-1.5-flash",
+        system_instruction=system_instruction
+    )
+    
+    content = [prompt]
+    if image_path:
+        image = Image.open(image_path)
+        content = [prompt, image]
+    
+    response = model.generate_content(content)
+    return response.text.strip()
+
+def gemini_1_5_pro(system_instruction, prompt, image_path=None):
+    model = genai.GenerativeModel(
+        model_name="gemini-1.5-pro",
+        system_instruction=system_instruction
+    )
+    
+    content = [prompt]
+    if image_path:
+        image = Image.open(image_path)
+        content = [prompt, image]
+    
+    response = model.generate_content(content)
+    return response.text.strip()

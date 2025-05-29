@@ -16,10 +16,10 @@ models_dir = "/Users/hanoon/Documents/eval/external/gemini"
 if models_dir not in sys.path:
     sys.path.insert(0, models_dir)
 
-from models import gemini_2_5_pro_preview, gemini_2_5_flash_preview, gemini_2_0_flash
+from models import gemini_1_5_flash, gemini_1_5_pro
 
 # Configuration
-MODEL_TO_USE = gemini_2_0_flash 
+MODEL_TO_USE = gemini_1_5_flash 
 FOLDER_PATH = "/Users/hanoon/Documents/eval/utils/ocr/data/number_plate_recognition/downloads"  # Change this to your folder path
 SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp']
 
@@ -111,9 +111,8 @@ def test_folder_ocr():
 def test_all_models_on_folder():
     """Test all available models with number plate recognition on the folder"""
     models = [
-        ("gemini_2_5_pro_preview", gemini_2_5_pro_preview),
-        ("gemini_2_5_flash_preview", gemini_2_5_flash_preview),
-        ("gemini_2_0_flash", gemini_2_0_flash)
+        ("gemini_1_5_flash", gemini_1_5_flash),
+        ("gemini_1_5_pro", gemini_1_5_pro),
     ]
     
     image_files = get_image_files(FOLDER_PATH)
