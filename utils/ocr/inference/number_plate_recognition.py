@@ -35,7 +35,7 @@ def get_image_files(folder_path):
     for ext in SUPPORTED_EXTENSIONS:
         pattern = os.path.join(folder_path, f"*{ext}")
         image_files.extend(glob.glob(pattern))
-    return sorted(image_files[:10])
+    return image_files
 
 def test_single_image(image_path):
     """Test number plate recognition on a single image"""
@@ -68,8 +68,11 @@ def test_single_image(image_path):
                 last_4_digits = "XXXX"
         
         # Wrap the number plate digits in JSON format
+        filename = os.path.basename(image_path)
+        image_id = int(os.path.splitext(filename)[0])
+                
         ocr_result = {
-            "data": os.path.basename(image_path),
+            "id": image_id,
             "ocr_predicted": last_4_digits
         }
         
@@ -154,8 +157,12 @@ def test_all_models_on_folder():
                         last_4_digits = "XXXX"
                 
                 # Wrap the number plate digits in JSON format without model field
+                filename = os.path.basename(image_path)
+                image_id = int(os.path.splitext(filename)[0])
+                
+                # Wrap the number plate digits in JSON format without model field
                 ocr_result = {
-                    "data": os.path.basename(image_path), 
+                    "id": image_id,
                     "ocr_predicted": last_4_digits
                 }
                 
