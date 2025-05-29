@@ -16,7 +16,7 @@ models_dir = "/Users/hanoon/Documents/eval/external/gemini"
 if models_dir not in sys.path:
     sys.path.insert(0, models_dir)
 
-from models import gemini_1_5_flash, gemini_1_5_pro
+from models import gemini_1_5_flash, gemini_1_5_pro, gemini_2_0_flash, gemini_2_5_pro_preview
 
 # Configuration
 MODEL_TO_USE = gemini_1_5_flash 
@@ -24,10 +24,10 @@ FOLDER_PATH = "/Users/hanoon/Documents/eval/utils/ocr/data/digital_meter_reading
 SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp']
 
 # System instruction for tonnage recognition
-SYSTEM_INSTRUCTION = """You are a tonnage reading assistant. Your ONLY task is to extract tonnage values from digital meter images. You must ONLY return the tonnage number without the 't' suffix and nothing else - no explanations, no formatting, no additional words, no styling, no markdown. Just the tonnage value with commas if present."""
+SYSTEM_INSTRUCTION = """You are a tonnage reading assistant. Your ONLY task is to extract tonnage values from digital meter images. You must ONLY return the tonnage number as a string float/int value without the 't' suffix and nothing else - no explanations, no formatting, no additional words, no styling, no markdown. Convert comma-separated values to decimal format (e.g., "15,720" becomes "15.72")."""
 
 # Test prompt
-TEST_PROMPT = """Look at this image and find the tonnage value. The tonnage is usually present as XXXXXXt (with 't' indicating tonnage) and is typically next to the text "Total". Extract ONLY the tonnage number without the 't' suffix. For example, if you see "15,360t", return only "15,360". If you cannot find a tonnage value clearly, return an empty string."""
+TEST_PROMPT = """Look at this image and find the tonnage value. The tonnage is usually present as XXXXXXt (with 't' indicating tonnage) and is typically next to the text "Total". Extract ONLY the tonnage number without the 't' suffix and convert it to decimal format. For example, if you see "15,720t", return only "15.72" as a string. Remove trailing zeros after decimal point. Return only the string float/int value. If you cannot find a tonnage value clearly, return an empty string."""
 
 def get_image_files(folder_path):
     """Get all image files from the specified folder"""
@@ -36,6 +36,41 @@ def get_image_files(folder_path):
         pattern = os.path.join(folder_path, f"*{ext}")
         image_files.extend(glob.glob(pattern))
     return image_files
+
+def convert_tonnage_to_decimal(tonnage_str):
+    """Convert comma-separated tonnage to decimal format (xx,xxx -> xx.xx)"""
+    if not tonnage_str or tonnage_str == "":
+        return ""
+    
+    try:
+        # Remove any 't' suffix if present
+        clean_tonnage = tonnage_str.lower().replace('t', '').strip()
+        
+        # Handle comma-separated format (e.g., "15,720" -> "15.72")
+        if ',' in clean_tonnage:
+            parts = clean_tonnage.split(',')
+            if len(parts) == 2:
+                # Convert xx,xxx to xx.xx format
+                integer_part = parts[0]
+                decimal_part = parts[1][:2]  # Take only first 2 digits after comma
+                converted = f"{integer_part}.{decimal_part}"
+                
+                # Convert to float to remove trailing zeros, then back to string
+                float_val = float(converted)
+                if float_val == int(float_val):
+                    return str(int(float_val))
+                else:
+                    return str(float_val).rstrip('0').rstrip('.')
+        
+        # If no comma, try to convert directly
+        float_val = float(clean_tonnage)
+        if float_val == int(float_val):
+            return str(int(float_val))
+        else:
+            return str(float_val).rstrip('0').rstrip('.')
+            
+    except (ValueError, IndexError):
+        return tonnage_str  # Return original if conversion fails
 
 def test_single_image(image_path):
     """Test tonnage recognition on a single image"""
@@ -49,11 +84,8 @@ def test_single_image(image_path):
         # Clean the response and extract tonnage value
         clean_response = response.strip()
         
-        # Extract tonnage value (remove 't' suffix if present)
-        if clean_response.lower().endswith('t'):
-            tonnage_value = clean_response[:-1]
-        else:
-            tonnage_value = clean_response
+        # Convert tonnage value to decimal format
+        tonnage_value = convert_tonnage_to_decimal(clean_response)
         
         # Return empty string if no valid tonnage found
         if not tonnage_value or tonnage_value.lower() in ['none', 'n/a', 'not found']:
@@ -103,7 +135,7 @@ def test_folder_ocr():
 def test_all_models_on_folder():
     """Test all available models with tonnage recognition on the folder"""
     models = [
-        ("gemini_1_5_pro", gemini_1_5_pro),
+        ("gemini_2_5_pro_preview", gemini_2_5_pro_preview),
     ]
     
     image_files = get_image_files(FOLDER_PATH)
@@ -125,14 +157,9 @@ def test_all_models_on_folder():
                     image_path=image_path
                 )
                 
-                # Clean the response and extract tonnage value
+                # Clean the response and convert tonnage value to decimal format
                 clean_response = response.strip()
-                
-                # Extract tonnage value (remove 't' suffix if present)
-                if clean_response.lower().endswith('t'):
-                    tonnage_value = clean_response[:-1]
-                else:
-                    tonnage_value = clean_response
+                tonnage_value = convert_tonnage_to_decimal(clean_response)
                 
                 # Return empty string if no valid tonnage found
                 if not tonnage_value or tonnage_value.lower() in ['none', 'n/a', 'not found']:
