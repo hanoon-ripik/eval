@@ -122,13 +122,12 @@ def load_and_evaluate_json(json_path):
     print("OCR EVALUATION RESULTS")
     print("=" * 60)
     print(f"Total Samples Evaluated: {total_rows}")
-    print(f"Total Exact Matches: {exact_matches} out of {total_rows} ({match_percentage:.2f}%)")
     print()
     
     print("1. OCR METRICS:")
     print("-" * 30)
     print(f"   Average CER (Character Error Rate): {average_cer:.4f}")
-    print(f"   Exact Match Rate: {exact_matches}/{total_rows}")
+    print(f"   Exact Match Count: {exact_matches}/{total_rows}")
     print()
     
     print("2. GENERAL METRICS:")
