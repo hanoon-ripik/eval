@@ -166,8 +166,8 @@ def process_raw_json_and_download():
     
     print(f"Found {len(raw_data)} items in raw.json")
     
-    # Limit to first 100 items
-    items_to_process = raw_data[:100]
+    # Limit to first 110 items
+    items_to_process = raw_data[:150]
     print(f"Processing first {len(items_to_process)} items")
     
     # Get AWS credentials
@@ -213,8 +213,10 @@ def process_raw_json_and_download():
             "id": i,
             "original_image": original_image_url,
             "download_image": custom_filename if downloaded_path else "",
-            "ocr_predicted": item.get('ocr_data', ''),
-            "ocr_annotated": ""
+            "ocr_tonnage_predicted": item.get('tonnage', '') or '',
+            "ocr_tonnage_annotated": "",
+            "ocr_cycle_predicted": item.get('cycle', '') or '',
+            "ocr_cycle_annotated": ""
         }
         
         clean_data.append(clean_entry)
