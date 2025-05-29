@@ -1,0 +1,19 @@
+[
+  {"data": "1.png", "true": "2501240023", "predicted": "2501240027"},
+  {"data": "2.png", "true": "2501340090", "predicted": "2501340050"},
+  {"data": "3.png", "true": "2501410054", "predicted": "2504410054"},
+  {"data": "4.png", "true": "2501430036", "predicted": "2501470025"},
+  {"data": "5.png", "true": "2501470019", "predicted": "2501470015"},
+  {"data": "6.png", "true": "2501560030", "predicted": "2501550030"},
+  {"data": "7.png", "true": "2501740018", "predicted": "2504740018"},
+  {"data": "8.png", "true": "2501760123", "predicted": "2504760123"},
+  {"data": "9.png", "true": "2501820045", "predicted": "2501820042"},
+  {"data": "10.png", "true": "2501840069", "predicted": "2501840063"},
+  {"data": "11.png", "true": "2501850084", "predicted": "2501650054"},
+  {"data": "12.png", "true": "2501910039", "predicted": "2501190039"},
+  {"data": "13.png", "true": "2501910105", "predicted": "2504910105"},
+  {"data": "14.png", "true": "2501940065", "predicted": "2501340065"},
+  {"data": "15.png", "true": "2502040018", "predicted": "2501240018"},
+  {"data": "16.png", "true": "2502060066", "predicted": "2500060055"},
+  {"data": "17.png", "true": "2502180049", "predicted": "2502180045"}
+]

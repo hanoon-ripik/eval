@@ -1,8 +1,8 @@
-import csv
+import json
 import os
 
-# CSV file path - modify this variable to point to your CSV file
-CSV_FILE_PATH = "test_data.csv"
+# JSON file path - modify this variable to point to your JSON file
+JSON_FILE_PATH = "test_data.json"
 
 def levenshtein_distance(s1, s2):
     """
@@ -40,42 +40,26 @@ def calculate_cer(reference, prediction):
     distance = levenshtein_distance(reference, prediction)
     return distance / len(reference)
 
-def load_and_evaluate_csv(csv_path):
+def load_and_evaluate_json(json_path):
     """
-    Load CSV file and calculate CER for each row, along with exact match count.
+    Load JSON file and calculate CER for each entry, along with exact match count.
     """
-    if not os.path.exists(csv_path):
-        print(f"Error: CSV file '{csv_path}' not found.")
+    if not os.path.exists(json_path):
+        print(f"Error: JSON file '{json_path}' not found.")
         return
     
     total_cer = 0.0
     exact_matches = 0
     total_rows = 0
     
-    print(f"Loading CSV file: {csv_path}")
-    print("-" * 60)
-    
-    with open(csv_path, 'r', newline='', encoding='utf-8') as csvfile:
-        # Skip the first line if it's a comment
-        first_line = csvfile.readline().strip()
-        if first_line.startswith('//'):
-            csvfile.readline()  # Skip the header line too
-        else:
-            csvfile.seek(0)  # Reset to beginning if first line wasn't a comment
-            csvfile.readline()  # Skip header
+    with open(json_path, 'r', encoding='utf-8') as jsonfile:
+        data = json.load(jsonfile)
         
-        reader = csv.reader(csvfile)
-        
-        for row_num, row in enumerate(reader, 1):
-            if len(row) < 3:
-                continue
-                
-            # Parse the row (remove quotes and whitespace)
-            data_file = row[0].strip().strip('"')
-            true_value = row[1].strip().strip('"')
-            predicted_value = row[2].strip().strip('"')
+        for entry in data:
+            true_value = entry["true"]
+            predicted_value = entry["predicted"]
             
-            # Calculate CER for this row
+            # Calculate CER for this entry
             cer = calculate_cer(true_value, predicted_value)
             total_cer += cer
             
@@ -85,33 +69,23 @@ def load_and_evaluate_csv(csv_path):
                 exact_matches += 1
             
             total_rows += 1
-            
-            # Print details for each row
-            print(f"Row {row_num:2d} | File: {data_file:8s} | True: {true_value:12s} | Predicted: {predicted_value:12s} | CER: {cer:.4f} | Exact: {'✓' if is_exact_match else '✗'}")
     
     if total_rows == 0:
-        print("No data rows found in CSV file.")
+        print("No data found in JSON file.")
         return
     
     # Calculate averages
     average_cer = total_cer / total_rows
-    exact_match_percentage = (exact_matches / total_rows) * 100
     
-    print("-" * 60)
-    print(f"SUMMARY RESULTS:")
-    print(f"Total rows processed: {total_rows}")
-    print(f"Average CER: {average_cer:.4f} ({average_cer * 100:.2f}%)")
-    print(f"Exact matches: {exact_matches}/{total_rows} ({exact_match_percentage:.2f}%)")
+    print(f"Average CER: {average_cer:.4f}")
+    print(f"Total Absolute Matches: {exact_matches}")
 
 def main():
     """
     Main function to run the CER evaluation.
     """
-    print("Character Error Rate (CER) Evaluation")
-    print("=" * 60)
-    
-    # Load and evaluate the CSV file
-    load_and_evaluate_csv(CSV_FILE_PATH)
+    # Load and evaluate the JSON file
+    load_and_evaluate_json(JSON_FILE_PATH)
 
 if __name__ == "__main__":
     main()

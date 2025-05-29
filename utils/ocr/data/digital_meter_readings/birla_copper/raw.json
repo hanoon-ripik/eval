@@ -1,1500 +1,1500 @@
 [{
   "_id": {
-    "$oid": "6836ff52b829dca53728e34e"
+    "$oid": "6837f915b829dca53728f3fb"
   },
-  "timestamp": 1748434741,
+  "timestamp": 1748498706,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434749.jpg",
-  "tonnage": 30.64,
-  "cycle": 2,
-  "ocr_data": "TOTAL\n30, 640t\n02\nveigroup.com",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498707.jpg",
+  "tonnage": 0,
+  "cycle": 6,
+  "ocr_data": "TOTAL\n0. 000t\n06\nveigroup.com",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434741.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498706.jpg"
 },
 {
   "_id": {
-    "$oid": "6836ff51b829dca53728e34d"
+    "$oid": "6837f914b829dca53728f3fa"
   },
-  "timestamp": 1748434741,
+  "timestamp": 1748498706,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434748.jpg",
-  "tonnage": 30.64,
-  "cycle": 2,
-  "ocr_data": "TOTAL\n30, 640t\n02\nvelgroop.com",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498707.jpg",
+  "tonnage": 0,
+  "cycle": 6,
+  "ocr_data": "TOTAL\n0. 000t\n06\nveigroup.com",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434741.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498706.jpg"
 },
 {
   "_id": {
-    "$oid": "6836ff51b829dca53728e34c"
+    "$oid": "6837f914b829dca53728f3f9"
   },
-  "timestamp": 1748434741,
+  "timestamp": 1748498706,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434746.jpg",
-  "tonnage": 30.64,
-  "cycle": 2,
-  "ocr_data": "TOTAL\n30, 640t\n02\nveigroup.com",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498707.jpg",
+  "tonnage": 0,
+  "cycle": 6,
+  "ocr_data": "TOTAL\n0. 000t\n06\nveigroup.com",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434741.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498706.jpg"
 },
 {
   "_id": {
-    "$oid": "6836ff50b829dca53728e34b"
+    "$oid": "6837f8d8b829dca53728f3f8"
   },
-  "timestamp": 1748434736,
+  "timestamp": 1748498616,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434744.jpg",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498623.jpg",
+  "tonnage": null,
+  "cycle": 5,
+  "ocr_data": "TOTAL\n5,910\n05",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498616.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f8d8b829dca53728f3f7"
+  },
+  "timestamp": 1748498616,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498622.jpg",
+  "tonnage": 5.91,
+  "cycle": 5,
+  "ocr_data": "TOTAL\n5,910t\n05",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498616.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f8d7b829dca53728f3f6"
+  },
+  "timestamp": 1748498616,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498621.jpg",
+  "tonnage": null,
+  "cycle": 5,
+  "ocr_data": "TOTAL\n5,910\n05",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498616.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f85cb829dca53728f3f2"
+  },
+  "timestamp": 1748498511,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498519.jpg",
+  "tonnage": null,
+  "cycle": 5,
+  "ocr_data": "TOTAL\n0,000\n05",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498511.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f85cb829dca53728f3f1"
+  },
+  "timestamp": 1748498511,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498518.jpg",
+  "tonnage": 0,
+  "cycle": 5,
+  "ocr_data": "TOTAL\n0, 000t\n05\nvelgroup Com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498511.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f85bb829dca53728f3f0"
+  },
+  "timestamp": 1748498511,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498517.jpg",
+  "tonnage": 0,
+  "cycle": 5,
+  "ocr_data": "TOTAL\n0, 000t\n05\nveignoop.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498511.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f85ab829dca53728f3ef"
+  },
+  "timestamp": 1748498501,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498509.jpg",
+  "tonnage": null,
+  "cycle": 5,
+  "ocr_data": "TOTAL\n0, 000\n05\nvenyroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498501.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f85ab829dca53728f3ee"
+  },
+  "timestamp": 1748498501,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498508.jpg",
+  "tonnage": null,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n14, 470\n04\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498501.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f859b829dca53728f3ed"
+  },
+  "timestamp": 1748498501,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498506.jpg",
+  "tonnage": null,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n14,470\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498501.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f858b829dca53728f3ec"
+  },
+  "timestamp": 1748498491,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498499.jpg",
+  "tonnage": 14.47,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n14, 470t\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498491.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f858b829dca53728f3eb"
+  },
+  "timestamp": 1748498491,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498497.jpg",
+  "tonnage": 14.47,
+  "cycle": 4,
+  "ocr_data": "TOTAL 14,470t\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498491.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f857b829dca53728f3ea"
+  },
+  "timestamp": 1748498491,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498496.jpg",
+  "tonnage": 14.47004,
+  "cycle": 4,
+  "ocr_data": "TOTAL 14,470\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498491.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f857b829dca53728f3e9"
+  },
+  "timestamp": 1748498486,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498494.jpg",
+  "tonnage": 14.47,
+  "cycle": 4,
+  "ocr_data": "TOTAL 14, 470t\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498486.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f856b829dca53728f3e8"
+  },
+  "timestamp": 1748498486,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498492.jpg",
+  "tonnage": 14.47,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n14,470t\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498486.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f856b829dca53728f3e7"
+  },
+  "timestamp": 1748498486,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498491.jpg",
+  "tonnage": 14.47,
+  "cycle": 4,
+  "ocr_data": "TOTAL 14, 470t\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498486.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f7bab829dca53728f3e6"
+  },
+  "timestamp": 1748498341,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498348.jpg",
+  "tonnage": null,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n7,040\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498341.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f7bab829dca53728f3e5"
+  },
+  "timestamp": 1748498341,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498347.jpg",
+  "tonnage": 7.04,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n7,040t\n04\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498341.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f7bab829dca53728f3e4"
+  },
+  "timestamp": 1748498341,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498346.jpg",
+  "tonnage": 7.04,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n7,040t\n04\nimgroop.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498341.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f7b8b829dca53728f3e3"
+  },
+  "timestamp": 1748498331,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498339.jpg",
+  "tonnage": 7.04,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n7,040t\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498331.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f7b8b829dca53728f3e2"
+  },
+  "timestamp": 1748498331,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498338.jpg",
+  "tonnage": 7.04,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n7,040t\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498331.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f7b7b829dca53728f3e1"
+  },
+  "timestamp": 1748498331,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498337.jpg",
+  "tonnage": 7.04,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n7,040t\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498331.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f7b7b829dca53728f3e0"
+  },
+  "timestamp": 1748498326,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498334.jpg",
+  "tonnage": null,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n7,040\n04 and",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498326.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f7b6b829dca53728f3df"
+  },
+  "timestamp": 1748498326,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498333.jpg",
+  "tonnage": null,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n7,040\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498326.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f7b6b829dca53728f3de"
+  },
+  "timestamp": 1748498326,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498332.jpg",
+  "tonnage": 7.04,
+  "cycle": 4,
+  "ocr_data": "TOTAL\n7,040t\n04",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498326.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f712b829dca53728f3dd"
+  },
+  "timestamp": 1748498191,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498192.jpg",
+  "tonnage": null,
+  "cycle": 3,
+  "ocr_data": "TOTAL 30. 210\n03 .........\nthe",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498191.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f711b829dca53728f3dc"
+  },
+  "timestamp": 1748498191,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498192.jpg",
+  "tonnage": null,
+  "cycle": 3,
+  "ocr_data": "TOTAL 30. 210\n03 .........\nthe",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498191.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f711b829dca53728f3db"
+  },
+  "timestamp": 1748498191,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498192.jpg",
+  "tonnage": null,
+  "cycle": 3,
+  "ocr_data": "TOTAL 30. 210\n03 .........\nthe",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498191.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f70cb829dca53728f3da"
+  },
+  "timestamp": 1748498186,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498187.jpg",
+  "tonnage": 30.21,
+  "cycle": 3,
+  "ocr_data": "TOTAL 30 210t\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498186.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f70cb829dca53728f3d9"
+  },
+  "timestamp": 1748498186,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498187.jpg",
+  "tonnage": 30.21,
+  "cycle": 3,
+  "ocr_data": "TOTAL 30 210t\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498186.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f70cb829dca53728f3d8"
+  },
+  "timestamp": 1748498186,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498187.jpg",
+  "tonnage": 30.21,
+  "cycle": 3,
+  "ocr_data": "TOTAL 30 210t\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498186.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f6c3b829dca53728f3d7"
+  },
+  "timestamp": 1748498086,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498093.jpg",
+  "tonnage": 23.18,
+  "cycle": 3,
+  "ocr_data": "TOTAL\n23, 180t\n03\nviligroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498086.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f6c3b829dca53728f3d6"
+  },
+  "timestamp": 1748498086,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498092.jpg",
+  "tonnage": null,
+  "cycle": 3,
+  "ocr_data": "TOTAL\n23, 180\n03\nvetgroup com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498086.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f6c2b829dca53728f3d5"
+  },
+  "timestamp": 1748498086,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498091.jpg",
+  "tonnage": null,
+  "cycle": 3,
+  "ocr_data": "TOTAL\n23, 180\n03\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498086.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f6c1b829dca53728f3d4"
+  },
+  "timestamp": 1748498081,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498088.jpg",
+  "tonnage": 23.18,
+  "cycle": 3,
+  "ocr_data": "TOTAL\n23, 180t\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498081.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f6c1b829dca53728f3d3"
+  },
+  "timestamp": 1748498081,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498087.jpg",
+  "tonnage": 23.180103,
+  "cycle": 3,
+  "ocr_data": "TOTAL 23.1801\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498081.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f6c0b829dca53728f3d2"
+  },
+  "timestamp": 1748498081,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498086.jpg",
+  "tonnage": 23.18003,
+  "cycle": 3,
+  "ocr_data": "TOTAL 23, 180l\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498081.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f69fb829dca53728f3d1"
+  },
+  "timestamp": 1748498076,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498077.jpg",
+  "tonnage": 23.180103,
+  "cycle": 3,
+  "ocr_data": "TOTAL 23, 1801\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498076.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f69eb829dca53728f3d0"
+  },
+  "timestamp": 1748498076,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498077.jpg",
+  "tonnage": 23.180103,
+  "cycle": 3,
+  "ocr_data": "TOTAL 23, 1801\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498076.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f69eb829dca53728f3cf"
+  },
+  "timestamp": 1748498076,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748498077.jpg",
+  "tonnage": 23.180103,
+  "cycle": 3,
+  "ocr_data": "TOTAL 23, 1801\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748498076.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f64bb829dca53728f3ce"
+  },
+  "timestamp": 1748497966,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497974.jpg",
+  "tonnage": 15.38,
+  "cycle": 3,
+  "ocr_data": "TOTAL\n15, 380t\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497966.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f64bb829dca53728f3cd"
+  },
+  "timestamp": 1748497966,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497972.jpg",
+  "tonnage": 15.38,
+  "cycle": 3,
+  "ocr_data": "TOTAL\n15, 380t\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497966.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f64ab829dca53728f3cc"
+  },
+  "timestamp": 1748497966,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497971.jpg",
+  "tonnage": 15.38,
+  "cycle": 3,
+  "ocr_data": "TOTAL\n15. 380t\n03",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497966.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f649b829dca53728f3cb"
+  },
+  "timestamp": 1748497961,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497969.jpg",
+  "tonnage": 15.38,
+  "cycle": 3,
+  "ocr_data": "TOTAL\n15, 380t\n03\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497961.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f649b829dca53728f3ca"
+  },
+  "timestamp": 1748497961,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497967.jpg",
+  "tonnage": 15.38,
+  "cycle": 3,
+  "ocr_data": "MIRR\nTOTAL\n15, 380t\n03\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497961.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f648b829dca53728f3c9"
+  },
+  "timestamp": 1748497961,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497966.jpg",
+  "tonnage": null,
+  "cycle": 3,
+  "ocr_data": "TOTAL\n15, 380\n03\nveignoup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497961.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f627b829dca53728f3c8"
+  },
+  "timestamp": 1748497956,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497957.jpg",
+  "tonnage": null,
+  "cycle": null,
+  "ocr_data": "TOTAL\n15, 3801\nOZ",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497956.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f627b829dca53728f3c7"
+  },
+  "timestamp": 1748497956,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497957.jpg",
+  "tonnage": null,
+  "cycle": null,
+  "ocr_data": "TOTAL\n15, 3801\nOZ",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497956.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f626b829dca53728f3c6"
+  },
+  "timestamp": 1748497956,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497957.jpg",
+  "tonnage": null,
+  "cycle": null,
+  "ocr_data": "TOTAL\n15, 3801\nOZ",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497956.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f5bab829dca53728f3c5"
+  },
+  "timestamp": 1748497821,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497829.jpg",
+  "tonnage": 38.52,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n38, 520t\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497821.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f5b9b829dca53728f3c4"
+  },
+  "timestamp": 1748497821,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497827.jpg",
+  "tonnage": 38.52,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n38, 520t\n02\nveigroap.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497821.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f5b9b829dca53728f3c3"
+  },
+  "timestamp": 1748497821,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497826.jpg",
+  "tonnage": 38.52,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n38 520t\n02\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497821.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f5b8b829dca53728f3c2"
+  },
+  "timestamp": 1748497816,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497823.jpg",
+  "tonnage": 38.52002,
+  "cycle": 2,
+  "ocr_data": "TOTAL 38, 520\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497816.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f5b8b829dca53728f3c1"
+  },
+  "timestamp": 1748497816,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497822.jpg",
+  "tonnage": 38.52,
+  "cycle": 2,
+  "ocr_data": "TOTAL 38, 520t\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497816.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f5b7b829dca53728f3c0"
+  },
+  "timestamp": 1748497816,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497821.jpg",
+  "tonnage": 38.52,
+  "cycle": 2,
+  "ocr_data": "TOTAL 38 520t\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497816.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f596b829dca53728f3bf"
+  },
+  "timestamp": 1748497811,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497812.jpg",
+  "tonnage": 38.52,
+  "cycle": 7520,
+  "ocr_data": "TOTAL\n38, 520\nPARTIAL\n7,520",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497811.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f595b829dca53728f3be"
+  },
+  "timestamp": 1748497811,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497812.jpg",
+  "tonnage": 38.52,
+  "cycle": 7520,
+  "ocr_data": "TOTAL\n38, 520\nPARTIAL\n7,520",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497811.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f595b829dca53728f3bd"
+  },
+  "timestamp": 1748497811,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497812.jpg",
+  "tonnage": 38.52,
+  "cycle": 7520,
+  "ocr_data": "TOTAL\n38, 520\nPARTIAL\n7,520",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497811.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f547b829dca53728f3bc"
+  },
+  "timestamp": 1748497706,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497713.jpg",
+  "tonnage": 31,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n31, 000t\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497706.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f547b829dca53728f3bb"
+  },
+  "timestamp": 1748497706,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497712.jpg",
+  "tonnage": 31,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n31,000t\n02\nvelgroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497706.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f546b829dca53728f3ba"
+  },
+  "timestamp": 1748497706,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497711.jpg",
+  "tonnage": 31,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n31 = 000t\n02\nvergroup com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497706.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f545b829dca53728f3b9"
+  },
+  "timestamp": 1748497701,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497708.jpg",
+  "tonnage": 31,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n31 000t\n02\nveigroap.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497701.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f545b829dca53728f3b8"
+  },
+  "timestamp": 1748497701,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497707.jpg",
   "tonnage": null,
   "cycle": 2,
-  "ocr_data": "TOTAL\n30, 6401\n02",
+  "ocr_data": "TOTAL\n31, 000\n02\nvalgroup.com",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434736.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497701.jpg"
 },
 {
   "_id": {
-    "$oid": "6836ff4fb829dca53728e34a"
+    "$oid": "6837f544b829dca53728f3b7"
   },
-  "timestamp": 1748434736,
+  "timestamp": 1748497701,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434742.jpg",
-  "tonnage": null,
-  "cycle": 2,
-  "ocr_data": "TOTAL 30.640\n02 .............",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434736.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836ff4fb829dca53728e349"
-  },
-  "timestamp": 1748434736,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434741.jpg",
-  "tonnage": 30.64,
-  "cycle": 2,
-  "ocr_data": "TOTAL 30,640t\n02",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434736.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836ff06b829dca53728e348"
-  },
-  "timestamp": 1748434670,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434678.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434670.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836ff06b829dca53728e347"
-  },
-  "timestamp": 1748434670,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434676.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434670.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836ff05b829dca53728e346"
-  },
-  "timestamp": 1748434670,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434675.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434670.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836ff04b829dca53728e345"
-  },
-  "timestamp": 1748434660,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434667.jpg",
-  "tonnage": 131.2,
-  "cycle": null,
-  "ocr_data": "TOTAL 131, 200t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434660.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836ff04b829dca53728e344"
-  },
-  "timestamp": 1748434660,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434666.jpg",
-  "tonnage": 131.2,
-  "cycle": null,
-  "ocr_data": "TOTAL 131,200t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434660.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836ff03b829dca53728e343"
-  },
-  "timestamp": 1748434660,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434665.jpg",
-  "tonnage": 131.2,
-  "cycle": null,
-  "ocr_data": "TOTAL 131, 200t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434660.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fefbb829dca53728e342"
-  },
-  "timestamp": 1748434656,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434664.jpg",
-  "tonnage": 22.93,
-  "cycle": 2,
-  "ocr_data": "TOTAL\n22, 930t\n02\nvergroup.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434656.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fefab829dca53728e341"
-  },
-  "timestamp": 1748434656,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434663.jpg",
-  "tonnage": 22.93,
-  "cycle": 2,
-  "ocr_data": "TOTAL\n22, 930t\n02",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434656.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fefab829dca53728e340"
-  },
-  "timestamp": 1748434656,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434661.jpg",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497706.jpg",
   "tonnage": 0.02,
   "cycle": 2,
-  "ocr_data": "TOTAI\n22 9301\n02\nVeigroup.com",
+  "ocr_data": "02 TOTAL\n.............. 31,000",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434656.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497701.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fee2b829dca53728e33f"
+    "$oid": "6837f523b829dca53728f3b6"
   },
-  "timestamp": 1748434655,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434656.jpg",
-  "tonnage": 131.2,
-  "cycle": null,
-  "ocr_data": "TOTAL 131, 200t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434655.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fee1b829dca53728e33e"
-  },
-  "timestamp": 1748434655,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434656.jpg",
-  "tonnage": 131.2,
-  "cycle": null,
-  "ocr_data": "TOTAL 131, 200t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434655.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fee1b829dca53728e33d"
-  },
-  "timestamp": 1748434655,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434656.jpg",
-  "tonnage": 131.2,
-  "cycle": null,
-  "ocr_data": "TOTAL 131, 200t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434655.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe84b829dca53728e33c"
-  },
-  "timestamp": 1748434535,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434543.jpg",
-  "tonnage": 0.8,
-  "cycle": null,
-  "ocr_data": "GT OVER 80%\nPREP. TO DELETE",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434535.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe84b829dca53728e33b"
-  },
-  "timestamp": 1748434535,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434542.jpg",
-  "tonnage": null,
-  "cycle": 1050210115,
-  "ocr_data": "MINI DYN\nv1.0.50 21-01-15",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434535.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe83b829dca53728e33a"
-  },
-  "timestamp": 1748434535,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434541.jpg",
-  "tonnage": null,
-  "cycle": 1050210115,
-  "ocr_data": "MINI DYN\nv1.0.50 21-01-15",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434535.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe82b829dca53728e339"
-  },
-  "timestamp": 1748434530,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434538.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434530.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe82b829dca53728e338"
-  },
-  "timestamp": 1748434530,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434537.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434530.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe81b829dca53728e337"
-  },
-  "timestamp": 1748434530,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434536.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434530.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe52b829dca53728e336"
-  },
-  "timestamp": 1748434485,
+  "timestamp": 1748497696,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434493.jpg",
-  "tonnage": 7.27,
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497697.jpg",
+  "tonnage": 7.64,
+  "cycle": 7640,
+  "ocr_data": "TOTAL\n31 000\nPARTIAL\n7,640t",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497696.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f522b829dca53728f3b5"
+  },
+  "timestamp": 1748497696,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497697.jpg",
+  "tonnage": 7.64,
+  "cycle": 7640,
+  "ocr_data": "TOTAL\n31 000\nPARTIAL\n7,640t",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497696.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f522b829dca53728f3b4"
+  },
+  "timestamp": 1748497696,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497697.jpg",
+  "tonnage": 7.64,
+  "cycle": 7640,
+  "ocr_data": "TOTAL\n31 000\nPARTIAL\n7,640t",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497696.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f4eab829dca53728f3b3"
+  },
+  "timestamp": 1748497621,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497628.jpg",
+  "tonnage": 23.36,
   "cycle": 2,
-  "ocr_data": "TOTAL\n7,270t\n02\nvergroap com",
+  "ocr_data": "TOTAL\n23, 360t\n02",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434485.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497621.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fe52b829dca53728e335"
+    "$oid": "6837f4eab829dca53728f3b2"
   },
-  "timestamp": 1748434485,
+  "timestamp": 1748497621,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434492.jpg",
-  "tonnage": 7.27,
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497627.jpg",
+  "tonnage": 23.36,
   "cycle": 2,
-  "ocr_data": "TOTAL\n7,270t\n02\nveigroup.com",
+  "ocr_data": "TOTAL\n23, 360t\n02",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434485.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497621.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fe51b829dca53728e334"
+    "$oid": "6837f4e9b829dca53728f3b1"
   },
-  "timestamp": 1748434485,
+  "timestamp": 1748497621,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434491.jpg",
-  "tonnage": 7.27,
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497626.jpg",
+  "tonnage": 23.36,
   "cycle": 2,
-  "ocr_data": "TOTAL\n7,270t\n02\nvelgroup.com",
+  "ocr_data": "TOTAL\n23, 360t\n02",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434485.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497621.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fe51b829dca53728e333"
+    "$oid": "6837f4e8b829dca53728f3b0"
   },
-  "timestamp": 1748434480,
+  "timestamp": 1748497611,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434488.jpg",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497619.jpg",
+  "tonnage": 23.36,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n23, 360t\n02\nveigraup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497611.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f4e8b829dca53728f3af"
+  },
+  "timestamp": 1748497611,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497618.jpg",
   "tonnage": null,
   "cycle": 2,
-  "ocr_data": "TOTAL\n7,270\n02",
+  "ocr_data": "TOTAL\n23, 360\n02",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434480.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497611.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fe50b829dca53728e332"
+    "$oid": "6837f4e7b829dca53728f3ae"
   },
-  "timestamp": 1748434480,
+  "timestamp": 1748497611,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434487.jpg",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497617.jpg",
   "tonnage": null,
   "cycle": 2,
-  "ocr_data": "TOTAL\n7,270\n02",
+  "ocr_data": "TOTAL\nDE\nTHE\n02",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434480.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497611.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fe50b829dca53728e331"
+    "$oid": "6837f4e6b829dca53728f3ac"
   },
-  "timestamp": 1748434480,
+  "timestamp": 1748497606,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434485.jpg",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497613.jpg",
+  "tonnage": null,
+  "cycle": null,
+  "ocr_data": "TOTO",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497606.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f4e6b829dca53728f3ab"
+  },
+  "timestamp": 1748497606,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497612.jpg",
   "tonnage": null,
   "cycle": 2,
-  "ocr_data": "TOTAL\n7:270\n02",
+  "ocr_data": "TOTAL\n23g 3301\n02",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434480.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497606.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fe04b829dca53728e330"
+    "$oid": "6837f493b829dca53728f3aa"
   },
-  "timestamp": 1748434415,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434423.jpg",
+  "timestamp": 1748497526,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497533.jpg",
+  "tonnage": 15.98,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n15, 980t\n02\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497526.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f493b829dca53728f3a9"
+  },
+  "timestamp": 1748497526,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497532.jpg",
+  "tonnage": 15.98,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n15, 980t\n02\nvergroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497526.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f492b829dca53728f3a8"
+  },
+  "timestamp": 1748497526,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497531.jpg",
   "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434415.jpg"
+  "cycle": 2,
+  "ocr_data": "TOTAL\n15, 9801\n02\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497526.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fe03b829dca53728e32f"
+    "$oid": "6837f491b829dca53728f3a7"
   },
-  "timestamp": 1748434415,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434422.jpg",
+  "timestamp": 1748497521,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497528.jpg",
+  "tonnage": 15.98,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n15, 980t\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497521.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f491b829dca53728f3a6"
+  },
+  "timestamp": 1748497521,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497527.jpg",
   "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434415.jpg"
+  "cycle": 2,
+  "ocr_data": "TOTAL\n15.990\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497521.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fe03b829dca53728e32e"
+    "$oid": "6837f490b829dca53728f3a5"
   },
-  "timestamp": 1748434415,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434420.jpg",
+  "timestamp": 1748497521,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497526.jpg",
+  "tonnage": 21.01,
+  "cycle": 21010,
+  "ocr_data": "02 1010",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497521.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f43eb829dca53728f3a4"
+  },
+  "timestamp": 1748497441,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497449.jpg",
   "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434415.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe02b829dca53728e32d"
-  },
-  "timestamp": 1748434405,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434413.jpg",
-  "tonnage": 115.8,
-  "cycle": null,
-  "ocr_data": "TOTAL 115, 800t\nPRESS с",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434405.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe01b829dca53728e32c"
-  },
-  "timestamp": 1748434405,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434411.jpg",
-  "tonnage": 115.8,
-  "cycle": null,
-  "ocr_data": "TOTAL 115, 800t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434405.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe01b829dca53728e32b"
-  },
-  "timestamp": 1748434405,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434410.jpg",
-  "tonnage": 115.8,
-  "cycle": null,
-  "ocr_data": "TOTAL 115, 800t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434405.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe00b829dca53728e32a"
-  },
-  "timestamp": 1748434400,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434407.jpg",
-  "tonnage": 115.8,
-  "cycle": null,
-  "ocr_data": "TOTAL 115, 800t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434400.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fe00b829dca53728e329"
-  },
-  "timestamp": 1748434400,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434406.jpg",
-  "tonnage": 115.8,
-  "cycle": null,
-  "ocr_data": "TOTAL 115, 800t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434400.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fdffb829dca53728e328"
-  },
-  "timestamp": 1748434400,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434405.jpg",
-  "tonnage": 115.8,
-  "cycle": null,
-  "ocr_data": "TOTAL 115, 800t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434400.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fdddb829dca53728e327"
-  },
-  "timestamp": 1748434395,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434396.jpg",
-  "tonnage": 115.8,
-  "cycle": null,
-  "ocr_data": "TOTAL 115, 800t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434395.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fdddb829dca53728e326"
-  },
-  "timestamp": 1748434395,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434396.jpg",
-  "tonnage": 115.8,
-  "cycle": null,
-  "ocr_data": "TOTAL 115, 800t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434395.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fdddb829dca53728e325"
-  },
-  "timestamp": 1748434395,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434396.jpg",
-  "tonnage": 115.8,
-  "cycle": null,
-  "ocr_data": "TOTAL 115, 800t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434395.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fdb2b829dca53728e324"
-  },
-  "timestamp": 1748434325,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434333.jpg",
-  "tonnage": 105.82,
-  "cycle": 1,
-  "ocr_data": "TOTAL 105, 820t\n01\nvetgroup com",
+  "cycle": 2,
+  "ocr_data": "TOTAL\n8,010\n02\ncom",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434325.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497441.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fdb2b829dca53728e323"
+    "$oid": "6837f43db829dca53728f3a3"
   },
-  "timestamp": 1748434325,
+  "timestamp": 1748497441,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434332.jpg",
-  "tonnage": 105.82,
-  "cycle": 1,
-  "ocr_data": "TOTAL 105, 820t\n01\nveigroup.com",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497448.jpg",
+  "tonnage": 8.01,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n8,010t\n02",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434325.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497441.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fdb1b829dca53728e322"
+    "$oid": "6837f43db829dca53728f3a2"
   },
-  "timestamp": 1748434325,
+  "timestamp": 1748497441,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434330.jpg",
-  "tonnage": 105.82,
-  "cycle": 1,
-  "ocr_data": "TOTAL 105. 820t\n01",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497446.jpg",
+  "tonnage": 8.01,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n8,010t\n02",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434325.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497441.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fdb0b829dca53728e321"
+    "$oid": "6837f43cb829dca53728f3a1"
   },
-  "timestamp": 1748434320,
+  "timestamp": 1748497436,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434328.jpg",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497444.jpg",
+  "tonnage": 8.01,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n8,010t\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497436.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f43cb829dca53728f3a0"
+  },
+  "timestamp": 1748497436,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497442.jpg",
+  "tonnage": 8.01,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n8,010t\n02\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497436.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f43bb829dca53728f39f"
+  },
+  "timestamp": 1748497436,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497441.jpg",
+  "tonnage": null,
+  "cycle": 2,
+  "ocr_data": "TOTAL\n8,010\n02\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497436.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f41ab829dca53728f39e"
+  },
+  "timestamp": 1748497431,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497432.jpg",
+  "tonnage": 0.01,
+  "cycle": 2,
+  "ocr_data": "TOTAL e.010t\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497431.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f419b829dca53728f39d"
+  },
+  "timestamp": 1748497431,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497432.jpg",
+  "tonnage": 0.01,
+  "cycle": 2,
+  "ocr_data": "TOTAL e.010t\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497431.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f419b829dca53728f39c"
+  },
+  "timestamp": 1748497431,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497432.jpg",
+  "tonnage": 0.01,
+  "cycle": 2,
+  "ocr_data": "TOTAL e.010t\n02",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497431.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f3dbb829dca53728f39b"
+  },
+  "timestamp": 1748497341,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497349.jpg",
   "tonnage": 0,
   "cycle": 1,
-  "ocr_data": "TOTAL 165.828\n01\nthe",
+  "ocr_data": "TOTAL 113, 950\n01\nveigroup.com",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434320.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497341.jpg"
 },
 {
   "_id": {
-    "$oid": "6836fdb0b829dca53728e320"
+    "$oid": "6837f3dab829dca53728f39a"
   },
-  "timestamp": 1748434320,
+  "timestamp": 1748497341,
   "camera_id": "loader-5",
   "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434327.jpg",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497347.jpg",
+  "tonnage": 113.95,
+  "cycle": 1,
+  "ocr_data": "TOTAL 113, 950t\n01\nvoigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497341.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f3d9b829dca53728f399"
+  },
+  "timestamp": 1748497341,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497346.jpg",
+  "tonnage": 113.9501,
+  "cycle": 1,
+  "ocr_data": "TOTAL 113, 9501\n01",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497341.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f3d9b829dca53728f398"
+  },
+  "timestamp": 1748497336,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497343.jpg",
+  "tonnage": 113.95,
+  "cycle": 1,
+  "ocr_data": "TOTAL 113, 950\n01",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497336.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f3d8b829dca53728f397"
+  },
+  "timestamp": 1748497336,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497342.jpg",
+  "tonnage": 113.95,
+  "cycle": 1,
+  "ocr_data": "TOTAL 113, 950t\n01",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497336.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f3d8b829dca53728f396"
+  },
+  "timestamp": 1748497336,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497341.jpg",
+  "tonnage": 113.95,
+  "cycle": 1,
+  "ocr_data": "TOTAL 113, 950t\n01",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497336.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f386b829dca53728f395"
+  },
+  "timestamp": 1748497256,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497264.jpg",
+  "tonnage": 105.92,
+  "cycle": 1,
+  "ocr_data": "TOTAL 105, 920t\n01\nveigroup.com",
+  "loader_position": "B2S1",
+  "smelter": "SM3",
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497256.jpg"
+},
+{
+  "_id": {
+    "$oid": "6837f385b829dca53728f394"
+  },
+  "timestamp": 1748497256,
+  "camera_id": "loader-5",
+  "loader_id": "loader-5",
+  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748497263.jpg",
   "tonnage": 0,
   "cycle": 1,
-  "ocr_data": "TOTAL 105,9201\n01\nthe",
+  "ocr_data": "TOTAL 105 920\n01\nvelgroup com",
   "loader_position": "B2S1",
   "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434320.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fdb0b829dca53728e31f"
-  },
-  "timestamp": 1748434320,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434325.jpg",
-  "tonnage": 105.82,
-  "cycle": 1,
-  "ocr_data": "TOTAL 105 820t\n01",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434320.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd88b829dca53728e31e"
-  },
-  "timestamp": 1748434280,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434287.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434280.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd88b829dca53728e31d"
-  },
-  "timestamp": 1748434280,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434286.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434280.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd87b829dca53728e31c"
-  },
-  "timestamp": 1748434280,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434285.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434280.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd66b829dca53728e31b"
-  },
-  "timestamp": 1748434275,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434276.jpg",
-  "tonnage": 107.46,
-  "cycle": null,
-  "ocr_data": "TOTAL 107, 460t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434275.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd65b829dca53728e31a"
-  },
-  "timestamp": 1748434275,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434276.jpg",
-  "tonnage": 107.46,
-  "cycle": null,
-  "ocr_data": "TOTAL 107, 460t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434275.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd65b829dca53728e319"
-  },
-  "timestamp": 1748434275,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434276.jpg",
-  "tonnage": 107.46,
-  "cycle": null,
-  "ocr_data": "TOTAL 107, 460t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434275.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd17b829dca53728e318"
-  },
-  "timestamp": 1748434171,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434179.jpg",
-  "tonnage": null,
-  "cycle": 1,
-  "ocr_data": "MENT\nTOTAL\n89 450\n01\nveigroup.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434171.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd17b829dca53728e317"
-  },
-  "timestamp": 1748434171,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434178.jpg",
-  "tonnage": null,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n89 450\n01\nveigroup.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434171.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd17b829dca53728e316"
-  },
-  "timestamp": 1748434171,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434176.jpg",
-  "tonnage": null,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n89, 450\n01\nesigroup com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434171.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd16b829dca53728e315"
-  },
-  "timestamp": 1748434166,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434174.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "BIOTEL\nthe",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434166.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd15b829dca53728e314"
-  },
-  "timestamp": 1748434166,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434172.jpg",
-  "tonnage": null,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n01\nare 9924501",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434166.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fd15b829dca53728e313"
-  },
-  "timestamp": 1748434166,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434171.jpg",
-  "tonnage": null,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n09.450\n01",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434166.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fcf4b829dca53728e312"
-  },
-  "timestamp": 1748434135,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434143.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434135.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fcf4b829dca53728e311"
-  },
-  "timestamp": 1748434135,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434142.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434135.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fcf3b829dca53728e310"
-  },
-  "timestamp": 1748434135,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434141.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434135.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fcf3b829dca53728e30f"
-  },
-  "timestamp": 1748434130,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434138.jpg",
-  "tonnage": 100.34,
-  "cycle": null,
-  "ocr_data": "TOTAL 100, 340t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434130.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fcf2b829dca53728e30e"
-  },
-  "timestamp": 1748434130,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434137.jpg",
-  "tonnage": 100.34,
-  "cycle": null,
-  "ocr_data": "TOTAL 100, 340t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434130.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fcf2b829dca53728e30d"
-  },
-  "timestamp": 1748434130,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434136.jpg",
-  "tonnage": 100.34,
-  "cycle": null,
-  "ocr_data": "TOTAL 100, 340t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434130.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fcd0b829dca53728e30c"
-  },
-  "timestamp": 1748434096,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434104.jpg",
-  "tonnage": 80.42,
-  "cycle": 1,
-  "ocr_data": "TOTAL 80, 420t\n01\nabigroup.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434096.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fccfb829dca53728e30b"
-  },
-  "timestamp": 1748434096,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434103.jpg",
-  "tonnage": 80.42,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n80, 420t\n01",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434096.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fccfb829dca53728e30a"
-  },
-  "timestamp": 1748434096,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434102.jpg",
-  "tonnage": 80.42,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n80. 420t\n01",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434096.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc7bb829dca53728e309"
-  },
-  "timestamp": 1748434015,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434023.jpg",
-  "tonnage": 0.8,
-  "cycle": null,
-  "ocr_data": "GT OVER 80%\nPREP. TO DELETE",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434015.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc7ab829dca53728e308"
-  },
-  "timestamp": 1748434015,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434021.jpg",
-  "tonnage": null,
-  "cycle": 1050210115,
-  "ocr_data": "MINI DYN\nv1.0.50 21-01-15",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434015.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc7ab829dca53728e307"
-  },
-  "timestamp": 1748434015,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434020.jpg",
-  "tonnage": null,
-  "cycle": 1050210115,
-  "ocr_data": "MINI DYN\nv1.0.50 21-01-15",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434015.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc78b829dca53728e306"
-  },
-  "timestamp": 1748434020,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434028.jpg",
-  "tonnage": 71.67,
-  "cycle": 1,
-  "ocr_data": "TOTAL 71,670\n01",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434020.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc77b829dca53728e305"
-  },
-  "timestamp": 1748434020,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434026.jpg",
-  "tonnage": 71.67,
-  "cycle": 1,
-  "ocr_data": "TOTAL 71,670t\n01\nveigroup.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434020.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc77b829dca53728e304"
-  },
-  "timestamp": 1748434020,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434025.jpg",
-  "tonnage": 71.67,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n71,670t\n01\nvelgroup.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434020.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc76b829dca53728e303"
-  },
-  "timestamp": 1748434011,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434019.jpg",
-  "tonnage": 71.67,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n71,670t\n01\nvoigroop.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434011.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc76b829dca53728e302"
-  },
-  "timestamp": 1748434011,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434017.jpg",
-  "tonnage": null,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n71,670\n01\nthe",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434011.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc75b829dca53728e301"
-  },
-  "timestamp": 1748434011,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748434016.jpg",
-  "tonnage": 71.67,
-  "cycle": 1,
-  "ocr_data": "TOTAL 71,670t\n01\nand",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748434011.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc57b829dca53728e300"
-  },
-  "timestamp": 1748434005,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434006.jpg",
-  "tonnage": 93.1,
-  "cycle": null,
-  "ocr_data": "TOTAL\n93, 100t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434005.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc57b829dca53728e2ff"
-  },
-  "timestamp": 1748434005,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434006.jpg",
-  "tonnage": 93.1,
-  "cycle": null,
-  "ocr_data": "TOTAL\n93, 100t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434005.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc56b829dca53728e2fe"
-  },
-  "timestamp": 1748434005,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748434006.jpg",
-  "tonnage": 93.1,
-  "cycle": null,
-  "ocr_data": "TOTAL\n93, 100t\nPRESS C",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748434005.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc1cb829dca53728e2fd"
-  },
-  "timestamp": 1748433920,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433928.jpg",
-  "tonnage": 62.14,
-  "cycle": 1,
-  "ocr_data": "TOTAL 62, 140t\n01",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433920.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc1bb829dca53728e2fc"
-  },
-  "timestamp": 1748433920,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433927.jpg",
-  "tonnage": 62.14,
-  "cycle": 1,
-  "ocr_data": "MINI\nTOTAL\n62 140t\n01\nveigroup.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433920.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fc1bb829dca53728e2fb"
-  },
-  "timestamp": 1748433920,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433925.jpg",
-  "tonnage": 62.14,
-  "cycle": 1,
-  "ocr_data": "TOTAL 62 140t\n01",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433920.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbffb829dca53728e2fa"
-  },
-  "timestamp": 1748433890,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748433898.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748433890.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbfeb829dca53728e2f9"
-  },
-  "timestamp": 1748433890,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748433897.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748433890.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbfeb829dca53728e2f8"
-  },
-  "timestamp": 1748433890,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748433895.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748433890.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbfdb829dca53728e2f7"
-  },
-  "timestamp": 1748433885,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748433893.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748433885.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbfcb829dca53728e2f6"
-  },
-  "timestamp": 1748433885,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748433891.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748433885.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbfcb829dca53728e2f5"
-  },
-  "timestamp": 1748433885,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748433890.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748433885.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbbcb829dca53728e2f4"
-  },
-  "timestamp": 1748433850,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433851.jpg",
-  "tonnage": 0,
-  "cycle": 1,
-  "ocr_data": "TOTAL 53 150\n01\ncom",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433850.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbbcb829dca53728e2f3"
-  },
-  "timestamp": 1748433850,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433851.jpg",
-  "tonnage": 0,
-  "cycle": 1,
-  "ocr_data": "TOTAL 53 150\n01\ncom",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433850.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbbbb829dca53728e2f2"
-  },
-  "timestamp": 1748433850,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433851.jpg",
-  "tonnage": 0,
-  "cycle": 1,
-  "ocr_data": "TOTAL 53 150\n01\ncom",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433850.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbb8b829dca53728e2f1"
-  },
-  "timestamp": 1748433845,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433846.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433845.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbb7b829dca53728e2f0"
-  },
-  "timestamp": 1748433845,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433846.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433845.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fbb7b829dca53728e2ef"
-  },
-  "timestamp": 1748433845,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433846.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433845.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fb86b829dca53728e2ee"
-  },
-  "timestamp": 1748433765,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433773.jpg",
-  "tonnage": 44.06,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n44, 060t\n01\nveigroup.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433765.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fb85b829dca53728e2ed"
-  },
-  "timestamp": 1748433765,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433772.jpg",
-  "tonnage": null,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n44, 0601\n01\nvergroup.com",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433765.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fb85b829dca53728e2ec"
-  },
-  "timestamp": 1748433765,
-  "camera_id": "loader-5",
-  "loader_id": "loader-5",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-5-1748433771.jpg",
-  "tonnage": null,
-  "cycle": 1,
-  "ocr_data": "TOTAL\n44, 0601\n01\nSan",
-  "loader_position": "B2S1",
-  "smelter": "SM3",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748433765.jpg"
-},
-{
-  "_id": {
-    "$oid": "6836fb73b829dca53728e2eb"
-  },
-  "timestamp": 1748433750,
-  "camera_id": "loader-4",
-  "loader_id": "loader-4",
-  "original_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/loader-4-1748433758.jpg",
-  "tonnage": null,
-  "cycle": null,
-  "ocr_data": "",
-  "loader_position": "B3S1",
-  "smelter": "SM1",
-  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B3S1S2-1748433750.jpg"
+  "loader_image": "https://birlacopper-images.s3.ap-south-1.amazonaws.com/B1S5B2S1-1748497256.jpg"
 }]
