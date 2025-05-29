@@ -53,7 +53,7 @@ def find_incorrect_predictions(json_file_path):
 
 def main():
     """Main function to execute the script"""
-    json_file_path = "/Users/hanoon/Documents/eval/utils/ocr/evaluation/digital_meter_reading/annotated_tonnage.json"
+    json_file_path = "/Users/hanoon/Documents/eval/utils/ocr/evaluation/digital_meter_reading/gemini_2_5_pro_preview.json"
     
     # Find incorrect predictions
     incorrect_items = find_incorrect_predictions(json_file_path)
