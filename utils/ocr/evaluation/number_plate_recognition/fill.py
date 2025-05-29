@@ -7,7 +7,7 @@ import json
 import os
 
 # File paths
-PREDICTION_FILE_PATH = "gemini_2_5_pro_preview.json"
+PREDICTION_FILE_PATH = "gemini_1_5_pro.json"
 ANNOTATED_FILE_PATH = "annotated.json"
 
 def add_annotations_to_predictions():
