@@ -7,9 +7,6 @@ from utils.dip_utils import log_camera_down, log_camera_reconnected
 class RTSPReader(threading.Thread):
     def __init__(self, cam_uri: str):        
         self.cam_uri : str = cam_uri
-        
-        # Check if cam_uri is a local file path (for video files like 0.mp4)
-        self.is_local_file = not cam_uri.startswith('rtsp://')
 
         self.camera : cv2.VideoCapture = cv2.VideoCapture(self.cam_uri)
 
@@ -43,28 +40,17 @@ class RTSPReader(threading.Thread):
         return self.__frame_width
 
     def run(self) -> None:
-        if self.is_local_file:
-            # For local video files, run once without retrying
+        while not self.super_killed:
             try:
                 self.camera = cv2.VideoCapture(self.cam_uri)
                 self.__camera_loop()
-            except Exception as e:
-                print(f"Error processing local video file: {e}")
-        else:
-            # Original RTSP logic with retry
-            while not self.super_killed:
-                try:
-                    self.camera = cv2.VideoCapture(self.cam_uri)
-                    self.__camera_loop()
-                    log_camera_down()
-                except Exception as _:
-                    pass
+                log_camera_down()
+            except Exception as _:
+                pass
 
     def __camera_loop(self) -> None:
         print('Camera loop starting')
-        if not self.is_local_file:
-            log_camera_reconnected()
-        
+        log_camera_reconnected()
         while self.camera.isOpened():
             try:
                 if self.super_killed:
@@ -73,12 +59,7 @@ class RTSPReader(threading.Thread):
                 ret, self.frame = self.camera.read()
 
                 if not ret:
-                    if self.is_local_file:
-                        # For local video files, loop back to beginning
-                        self.camera.set(cv2.CAP_PROP_POS_FRAMES, 0)
-                        continue
-                    else:
-                        break
+                    break
 
                 self.__new_frame_available = True
 

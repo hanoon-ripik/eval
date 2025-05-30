@@ -1,12 +1,5 @@
 from typing import List, Tuple, Dict
 import argparse
-import torch
-import torch
-try:
-    from ultralytics.nn.tasks import SegmentationModel, DetectionModel, ClassificationModel
-    torch.serialization.add_safe_globals([SegmentationModel, DetectionModel, ClassificationModel])
-except ImportError:
-    pass
 from ultralytics import YOLO
 import supervision as sv
 import utils.supervision_mods as svm
@@ -14,7 +7,7 @@ import sys
 import time
 from datetime import datetime
 import cv2
-import json
+
 from rtsp.reader import RTSPReader
 
 from utils.logging import logger
@@ -22,25 +15,13 @@ from utils.dip_utils import cam_to_ccm_mapping, get_ist_timestamp, get_shift, lo
 from utils.scenarios import PipeCounter
 from utils.diameter_handler import DiameterHandler
 from data.config import read_cam_config
+from utils.s3util import push_data_to_sqs
 
 class DIP:
 
     def __init__(self, config: Dict, clientId: str, produce: str) -> None:
-        model_path = config['ds-info']['pipe-model']
-        original_load = torch.load
-        def load_with_weights_only_false(f, map_location=None, pickle_module=None, weights_only=None, **kwargs):
-            return original_load(f, map_location=map_location, pickle_module=pickle_module, weights_only=False, **kwargs)
-        torch.load = load_with_weights_only_false
-        try:
-            print(f"Loading custom pipe detection model: {model_path}")
-            self.model : YOLO = YOLO(model_path)
-            print("Custom pipe detection model loaded successfully!")
-        except Exception as e:
-            print(f"Failed to load custom model: {e}")
-            print("Falling back to generic YOLO model...")
-            self.model : YOLO = YOLO('yolov8n-seg.pt')
-        finally:
-            torch.load = original_load
+        
+        self.model : YOLO = YOLO(config['ds-info']['pipe-model'])
         self.LINE_START : sv.Point = sv.Point(
             config['ds-info']['line-start'][0],
             config['ds-info']['line-start'][1]
@@ -49,6 +30,7 @@ class DIP:
             config['ds-info']['line-end'][0],
             config['ds-info']['line-end'][1]
         )
+
         self.cross_point : int = config['ds-info']['line-start'][0]
 
         self.cap : RTSPReader = RTSPReader(config['conn-string'])
@@ -66,6 +48,8 @@ class DIP:
 
         self.dia_handler : DiameterHandler = DiameterHandler(config['ds-info']['dia-handler'], config['ds-info']['ratios'], config['ds-info']['possible_dias'])
         self.this_shift_ids = set()
+
+        self.queue_url = config['queue-url']
 
         self.cropping = config['ds-info']['cropping']
 
@@ -88,7 +72,9 @@ class DIP:
         line_counter = svm.LineZone(start=self.LINE_START, end=self.LINE_END)
         line_annotator = sv.LineZoneAnnotator(thickness=2, text_thickness=2, text_scale=1)
         box_annotator = sv.BoxAnnotator(
-            thickness=2
+            thickness=2,
+            text_thickness=1,
+            text_scale=0.5
         )
 
         mask_annotator = sv.MaskAnnotator()
@@ -101,17 +87,7 @@ class DIP:
         while True:
             ret, frame = self.cap.read()
             if not ret:
-                logger.warning("Failed to read frame, skipping...")
-                # Check if we've reached the end of the video
-                if hasattr(self.cap, 'cap') and self.cap.cap is not None:
-                    # If using cv2.VideoCapture, check if we're at the end
-                    if hasattr(self.cap.cap, 'get'):
-                        current_frame = self.cap.cap.get(cv2.CAP_PROP_POS_FRAMES)
-                        total_frames = self.cap.cap.get(cv2.CAP_PROP_FRAME_COUNT)
-                        if current_frame >= total_frames - 1:
-                            logger.info("Reached end of video. Processing complete.")
-                            break
-                time.sleep(0.1)  # Small delay to prevent excessive logging
+                time.sleep(1)
                 continue
 
             if time.time() - self.last_analysis_timestamp < self.time_delta:
@@ -124,7 +100,7 @@ class DIP:
 
             timestamp_curr = get_ist_timestamp()
 
-            result = self.model.track(frame, persist=True, retina_masks=True, device='cpu')[0]
+            result = self.model.track(frame, persist=True, retina_masks=True, device=0)[0]
             shift = get_shift()
 
             line_annotator.custom_in_text = f"Shift {shift} in"
@@ -135,23 +111,22 @@ class DIP:
             if result.boxes.id is not None:
                 detections.tracker_id = result.boxes.id.cpu().numpy().astype(int)
 
-            # Create labels with proper unpacking based on detection structure
-            labels = []
-            for i, detection in enumerate(detections):
-                class_id = int(detection[3]) if len(detection) > 3 else 0
-                confidence = float(detection[2]) if len(detection) > 2 else 0.0
-                tracker_id = detections.tracker_id[i] if detections.tracker_id is not None and i < len(detections.tracker_id) else "N/A"
-                class_name = self.model.model.names.get(class_id, "unknown")
-                labels.append(f"{tracker_id} {class_name} {confidence:0.2f}")
+            labels = [
+                f"{tracker_id} {self.model.model.names[class_id]} {confidence:0.2f}"
+                for _, _, confidence, class_id, tracker_id
+                in detections
+            ]
 
             frame = mask_annotator.annotate(
                 scene=frame,
-                detections=detections
+                detections=detections,
+                opacity=0.5
             )
 
             frame = box_annotator.annotate(
                 scene=frame,
-                detections=detections
+                detections=detections,
+                labels=labels
             )
 
             line_annotator.annotate(frame=frame, line_counter=line_counter)
@@ -174,11 +149,9 @@ class DIP:
                     if ret:
                         if pipe_id not in self.this_shift_ids:
                             line_counter.in_count+=1
-                            pipe_id_full = f'{cam_to_ccm_mapping[self.camera_id]}_{pipe_id}_{get_ist_timestamp()}'
-                            print(f"Pipe detected: {pipe_id_full}")
                             response['pipeData'].append(
                                 {
-                                    'pipeId': pipe_id_full,
+                                    'pipeId': f'{cam_to_ccm_mapping[self.camera_id]}_{pipe_id}_{get_ist_timestamp()}',
                                     'medianDiaMM': diaMM
                                 }
                             )
@@ -199,9 +172,15 @@ class DIP:
             if time.time() - self.last_push_timestamp < self.push_delta:
                 continue
 
-            # Reset for next batch
-            response = self.init_response()
-            self.last_push_timestamp = time.time()
+            response['imageId'] = f'cam{self.camera_id}_{timestamp_curr}'
+            response['createdAt'] = timestamp_curr
+            response['cameraId'] = cam_to_ccm_mapping[self.camera_id]
+
+            if self.produce == 'SQS':
+                push_data_to_sqs(response, self.queue_url)
+                response = self.init_response()
+                logger.info("Data pushed")
+                self.last_push_timestamp = time.time()
 
 
 
@@ -223,11 +202,11 @@ if __name__ == '__main__':
 
     obj = DIP(config, args.clientId, args.produce)
 
-    try:
-        obj.process()
-        logger.info("Processing completed successfully")
-    except Exception as e:
-        logger.error(f"Processing failed: {e}")
-        sys.exit(1)
+    while True:
+        try:
+            obj.process()
+        except Exception as e:
+            logger.error(e)
+        logger.info("restarting")
 
 # python main.py -c ccm1 --produce SQS
