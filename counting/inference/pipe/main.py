@@ -176,7 +176,17 @@ class DIP:
 
             # Only print when pipes are detected
             if len(detections) > 0:
-                print(f"\n🔍 PIPE DETECTED - Frame {self.cap.get_current_frame_number()}")
+                # Calculate video timestamp based on frame number and FPS
+                current_frame = self.cap.get_current_frame_number()
+                video_fps = self.cap.fps  # Get video FPS using property
+                video_timestamp_seconds = current_frame / video_fps
+                
+                # Format as MM:SS.mmm
+                minutes = int(video_timestamp_seconds // 60)
+                seconds = video_timestamp_seconds % 60
+                video_time_formatted = f"{minutes:02d}:{seconds:06.3f}"
+                
+                print(f"\n🔍 PIPE DETECTED - Video Time: {video_time_formatted} - Frame {current_frame}")
                 print(f"   Detections: {len(detections)} pipe(s)")
                 for i in range(len(detections)):
                     if hasattr(detections, 'tracker_id') and detections.tracker_id is not None and i < len(detections.tracker_id):
