@@ -78,7 +78,7 @@ class DIP:
         logger.info("Starting analysis for camera: {}".format(self.camera_id))
 
         line_counter = svm.LineZone(start=self.LINE_START, end=self.LINE_END)
-        line_annotator = sv.LineZoneAnnotator(thickness=2, text_thickness=2, text_scale=1)
+        line_annotator = sv.LineZoneAnnotator(thickness=2)
         box_annotator = sv.BoxAnnotator(
             thickness=2
         )
@@ -94,11 +94,9 @@ class DIP:
         while True:
             ret, frame = self.cap.read()
             if not ret:
-                # End of video - restart or break
-                print("End of video reached. Restarting from beginning...")
-                self.cap.restart()
-                time.sleep(1)
-                continue
+                # End of video - exit cleanly
+                print("End of video reached. Exiting...")
+                break
 
             if time.time() - self.last_analysis_timestamp < self.time_delta:
                 continue
@@ -120,9 +118,8 @@ class DIP:
 
             if result.boxes.id is not None:
                 detections.tracker_id = result.boxes.id.cpu().numpy().astype(int)
-                print(f"DEBUG: Tracker IDs assigned: {detections.tracker_id}")
             else:
-                print("DEBUG: No tracker IDs from YOLO model")
+                pass  # No tracker IDs available yet
 
             labels = [
                 f"{tracker_id} {self.model.model.names[class_id]} {confidence:0.2f}"
@@ -181,7 +178,6 @@ class DIP:
             if len(detections) > 0:
                 print(f"\n🔍 PIPE DETECTED - Frame {self.cap.get_current_frame_number()}")
                 print(f"   Detections: {len(detections)} pipe(s)")
-                print(f"   DEBUG: detections.tracker_id = {detections.tracker_id}")
                 for i in range(len(detections)):
                     if hasattr(detections, 'tracker_id') and detections.tracker_id is not None and i < len(detections.tracker_id):
                         tracker_id = detections.tracker_id[i]
@@ -255,11 +251,11 @@ if __name__ == '__main__':
     print(f"Processing video: {args.video_path}")
     obj = DIP(config, args.clientId, args.produce, args.video_path)
 
-    while True:
-        try:
-            obj.process()
-        except Exception as e:
-            logger.error(e)
-        logger.info("restarting")
+    try:
+        obj.process()
+    except Exception as e:
+        logger.error(e)
+    
+    print("Video processing completed.")
 
 # python main.py -c ccm1 --produce SQS
