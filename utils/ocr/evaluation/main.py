@@ -70,6 +70,7 @@ def load_and_evaluate_json(json_path):
     total_cer = 0.0
     exact_matches = 0
     total_rows = 0
+    mismatches = []  # Store entries that don't match exactly
     
     # For classification metrics (treating exact match as positive class)
     true_positives = 0   # Exact matches
@@ -101,6 +102,13 @@ def load_and_evaluate_json(json_path):
             else:
                 false_positives += 1
                 false_negatives += 1
+                # Store mismatch information
+                mismatches.append({
+                    'id': entry.get('id', 'unknown'),
+                    'predicted': predicted_value,
+                    'annotated': true_value,
+                    'cer': cer
+                })
             
             total_rows += 1
     
@@ -137,6 +145,21 @@ def load_and_evaluate_json(json_path):
     print(f"   Accuracy: {accuracy:.4f}")
     print(f"   F1 Score: {f1_score:.4f}")
     print("=" * 60)
+    
+    # Print mismatches if any
+    if mismatches:
+        print()
+        print("3. NON-EXACT MATCHES:")
+        print("-" * 30)
+        print(f"   Total Mismatches: {len(mismatches)}")
+        print()
+        for i, mismatch in enumerate(mismatches, 1):
+            print(f"   {i}. ID: {mismatch['id']}")
+            print(f"      Predicted: '{mismatch['predicted']}'")
+            print(f"      Annotated: '{mismatch['annotated']}'")
+            print(f"      CER: {mismatch['cer']:.4f}")
+            print()
+        print("=" * 60)
 
 def main():
     """
