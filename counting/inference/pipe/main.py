@@ -22,8 +22,6 @@ from utils.dip_utils import cam_to_ccm_mapping, get_ist_timestamp, get_shift, lo
 from utils.scenarios import PipeCounter
 from utils.diameter_handler import DiameterHandler
 from data.config import read_cam_config
-# Removed S3 import
-# from utils.s3util import push_data_to_sqs
 
 class DIP:
 
@@ -103,7 +101,17 @@ class DIP:
         while True:
             ret, frame = self.cap.read()
             if not ret:
-                time.sleep(1)
+                logger.warning("Failed to read frame, skipping...")
+                # Check if we've reached the end of the video
+                if hasattr(self.cap, 'cap') and self.cap.cap is not None:
+                    # If using cv2.VideoCapture, check if we're at the end
+                    if hasattr(self.cap.cap, 'get'):
+                        current_frame = self.cap.cap.get(cv2.CAP_PROP_POS_FRAMES)
+                        total_frames = self.cap.cap.get(cv2.CAP_PROP_FRAME_COUNT)
+                        if current_frame >= total_frames - 1:
+                            logger.info("Reached end of video. Processing complete.")
+                            break
+                time.sleep(0.1)  # Small delay to prevent excessive logging
                 continue
 
             if time.time() - self.last_analysis_timestamp < self.time_delta:
@@ -166,9 +174,11 @@ class DIP:
                     if ret:
                         if pipe_id not in self.this_shift_ids:
                             line_counter.in_count+=1
+                            pipe_id_full = f'{cam_to_ccm_mapping[self.camera_id]}_{pipe_id}_{get_ist_timestamp()}'
+                            print(f"Pipe detected: {pipe_id_full}")
                             response['pipeData'].append(
                                 {
-                                    'pipeId': f'{cam_to_ccm_mapping[self.camera_id]}_{pipe_id}_{get_ist_timestamp()}',
+                                    'pipeId': pipe_id_full,
                                     'medianDiaMM': diaMM
                                 }
                             )
@@ -189,38 +199,9 @@ class DIP:
             if time.time() - self.last_push_timestamp < self.push_delta:
                 continue
 
-            response['imageId'] = f'cam{self.camera_id}_{timestamp_curr}'
-            response['createdAt'] = timestamp_curr
-            response['cameraId'] = cam_to_ccm_mapping[self.camera_id]
-
-            if self.produce == 'SQS':
-                # Instead of pushing to S3/SQS, print the output
-                print("\n" + "="*50)
-                print("DIP ANALYSIS OUTPUT")
-                print("="*50)
-                print(f"Timestamp: {datetime.fromtimestamp(response['createdAt'])}")
-                print(f"Camera ID: {response['cameraId']}")
-                print(f"Image ID: {response['imageId']}")
-                print(f"Client ID: {response['clientId']}")
-                print(f"Material: {response['material']}")
-                print(f"Number of pipes detected: {len(response['pipeData'])}")
-                
-                if response['pipeData']:
-                    print("\nPipe Data:")
-                    for i, pipe in enumerate(response['pipeData'], 1):
-                        print(f"  Pipe {i}:")
-                        print(f"    ID: {pipe['pipeId']}")
-                        print(f"    Diameter (mm): {pipe['medianDiaMM']}")
-                
-                # Print summary statistics
-                print(f"\nShift {shift} Summary:")
-                print(f"  Total pipes counted this shift: {line_counter.in_count}")
-                print(f"  Out count: {line_counter.out_count}")
-                print("="*50 + "\n")
-                
-                response = self.init_response()
-                logger.info("Data printed to console")
-                self.last_push_timestamp = time.time()
+            # Reset for next batch
+            response = self.init_response()
+            self.last_push_timestamp = time.time()
 
 
 
@@ -242,11 +223,11 @@ if __name__ == '__main__':
 
     obj = DIP(config, args.clientId, args.produce)
 
-    while True:
-        try:
-            obj.process()
-        except Exception as e:
-            logger.error(e)
-        logger.info("restarting")
+    try:
+        obj.process()
+        logger.info("Processing completed successfully")
+    except Exception as e:
+        logger.error(f"Processing failed: {e}")
+        sys.exit(1)
 
 # python main.py -c ccm1 --produce SQS
