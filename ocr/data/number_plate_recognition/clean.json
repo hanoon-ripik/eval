@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/08/bay3_17484081461748419545.jpg",
+    "download_image": "1.jpg",
+    "ocr_predicted": "2Z73",
+    "ocr_annotated": "2273"
+  },
+  {
+    "id": 2,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419500.jpg",
+    "download_image": "2.jpg",
+    "ocr_predicted": "768_",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 3,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419480.jpg",
+    "download_image": "3.jpg",
+    "ocr_predicted": "E3",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 4,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419462.jpg",
+    "download_image": "4.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 5,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/08/bay3_17484081461748419349.jpg",
+    "download_image": "5.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 6,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419346.jpg",
+    "download_image": "6.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 7,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419340.jpg",
+    "download_image": "7.jpg",
+    "ocr_predicted": "768_",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 8,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419316.jpg",
+    "download_image": "8.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 9,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/08/bay3_17484081461748419271.jpg",
+    "download_image": "9.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 10,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419268.jpg",
+    "download_image": "10.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 11,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419250.jpg",
+    "download_image": "11.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 12,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419237.jpg",
+    "download_image": "12.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 13,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/08/bay3_17484081461748419221.jpg",
+    "download_image": "13.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 14,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419219.jpg",
+    "download_image": "14.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 15,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/08/bay4_17484161001748419206.jpg",
+    "download_image": "15.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 16,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748419194.jpg",
+    "download_image": "16.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 17,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748419162.jpg",
+    "download_image": "17.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 18,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748419141.jpg",
+    "download_image": "18.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 19,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748419139.jpg",
+    "download_image": "19.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 20,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748419131.jpg",
+    "download_image": "20.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 21,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748419117.jpg",
+    "download_image": "21.jpg",
+    "ocr_predicted": "2Z73",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 22,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748419105.jpg",
+    "download_image": "22.jpg",
+    "ocr_predicted": "A2Z7",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 23,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748419064.jpg",
+    "download_image": "23.jpg",
+    "ocr_predicted": "768_",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 24,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748419052.jpg",
+    "download_image": "24.jpg",
+    "ocr_predicted": "5",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 25,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748419046.jpg",
+    "download_image": "25.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 26,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748419040.jpg",
+    "download_image": "26.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 27,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748419030.jpg",
+    "download_image": "27.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 28,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748419028.jpg",
+    "download_image": "28.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 29,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748419022.jpg",
+    "download_image": "29.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 30,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748419014.jpg",
+    "download_image": "30.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 31,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418999.jpg",
+    "download_image": "31.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 32,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418930.jpg",
+    "download_image": "32.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 33,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418916.jpg",
+    "download_image": "33.jpg",
+    "ocr_predicted": "768_",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 34,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418910.jpg",
+    "download_image": "34.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 35,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418904.jpg",
+    "download_image": "35.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 36,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418875.jpg",
+    "download_image": "36.jpg",
+    "ocr_predicted": "768_",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 37,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418858.jpg",
+    "download_image": "37.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 38,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418841.jpg",
+    "download_image": "38.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 39,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418829.jpg",
+    "download_image": "39.jpg",
+    "ocr_predicted": "Z768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 40,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418809.jpg",
+    "download_image": "40.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 41,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418804.jpg",
+    "download_image": "41.jpg",
+    "ocr_predicted": "Z768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 42,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418791.jpg",
+    "download_image": "42.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 43,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418790.jpg",
+    "download_image": "43.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 44,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418778.jpg",
+    "download_image": "44.jpg",
+    "ocr_predicted": "7768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 45,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418773.jpg",
+    "download_image": "45.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 46,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418767.jpg",
+    "download_image": "46.jpg",
+    "ocr_predicted": "768_",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 47,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418739.jpg",
+    "download_image": "47.jpg",
+    "ocr_predicted": "AZZ7",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 48,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418722.jpg",
+    "download_image": "48.jpg",
+    "ocr_predicted": "768_",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 49,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418716.jpg",
+    "download_image": "49.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 50,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748418648.jpg",
+    "download_image": "50.jpg",
+    "ocr_predicted": "7206",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 51,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418642.jpg",
+    "download_image": "51.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 52,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418630.jpg",
+    "download_image": "52.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 53,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418624.jpg",
+    "download_image": "53.jpg",
+    "ocr_predicted": "768_",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 54,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418588.jpg",
+    "download_image": "54.jpg",
+    "ocr_predicted": "Z768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 55,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418539.jpg",
+    "download_image": "55.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 56,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418506.jpg",
+    "download_image": "56.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 57,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418499.jpg",
+    "download_image": "57.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 58,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418474.jpg",
+    "download_image": "58.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 59,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418456.jpg",
+    "download_image": "59.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 60,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418445.jpg",
+    "download_image": "60.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 61,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418443.jpg",
+    "download_image": "61.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 62,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748418428.jpg",
+    "download_image": "62.jpg",
+    "ocr_predicted": "7206",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 63,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418410.jpg",
+    "download_image": "63.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 64,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418406.jpg",
+    "download_image": "64.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 65,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418381.jpg",
+    "download_image": "65.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 66,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418381.jpg",
+    "download_image": "66.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 67,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418375.jpg",
+    "download_image": "67.jpg",
+    "ocr_predicted": "2768",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 68,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418358.jpg",
+    "download_image": "68.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 69,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418338.jpg",
+    "download_image": "69.jpg",
+    "ocr_predicted": "7604",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 70,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418306.jpg",
+    "download_image": "70.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 71,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418306.jpg",
+    "download_image": "71.jpg",
+    "ocr_predicted": "42Z7",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 72,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418288.jpg",
+    "download_image": "72.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 73,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418276.jpg",
+    "download_image": "73.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 74,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418275.jpg",
+    "download_image": "74.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 75,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418252.jpg",
+    "download_image": "75.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 76,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418250.jpg",
+    "download_image": "76.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 77,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418239.jpg",
+    "download_image": "77.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 78,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418225.jpg",
+    "download_image": "78.jpg",
+    "ocr_predicted": "768_",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 79,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418221.jpg",
+    "download_image": "79.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 80,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418165.jpg",
+    "download_image": "80.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 81,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418165.jpg",
+    "download_image": "81.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 82,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418113.jpg",
+    "download_image": "82.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 83,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418104.jpg",
+    "download_image": "83.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 84,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418095.jpg",
+    "download_image": "84.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 85,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418080.jpg",
+    "download_image": "85.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 86,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418051.jpg",
+    "download_image": "86.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 87,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748418038.jpg",
+    "download_image": "87.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 88,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748418004.jpg",
+    "download_image": "88.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 89,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417995.jpg",
+    "download_image": "89.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 90,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417978.jpg",
+    "download_image": "90.jpg",
+    "ocr_predicted": "7684",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 91,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748417949.jpg",
+    "download_image": "91.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 92,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748417920.jpg",
+    "download_image": "92.jpg",
+    "ocr_predicted": "4206",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 93,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417888.jpg",
+    "download_image": "93.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 94,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417842.jpg",
+    "download_image": "94.jpg",
+    "ocr_predicted": "9569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 95,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417836.jpg",
+    "download_image": "95.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 96,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417798.jpg",
+    "download_image": "96.jpg",
+    "ocr_predicted": "23",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 97,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417781.jpg",
+    "download_image": "97.jpg",
+    "ocr_predicted": "0569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 98,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417739.jpg",
+    "download_image": "98.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 99,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417731.jpg",
+    "download_image": "99.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 100,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417683.jpg",
+    "download_image": "100.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 101,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417678.jpg",
+    "download_image": "101.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 102,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417623.jpg",
+    "download_image": "102.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 103,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417600.jpg",
+    "download_image": "103.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 104,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417587.jpg",
+    "download_image": "104.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 105,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417558.jpg",
+    "download_image": "105.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 106,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417528.jpg",
+    "download_image": "106.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 107,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748417515.jpg",
+    "download_image": "107.jpg",
+    "ocr_predicted": "177J",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 108,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748417498.jpg",
+    "download_image": "108.jpg",
+    "ocr_predicted": "6760",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 109,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417490.jpg",
+    "download_image": "109.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 110,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417484.jpg",
+    "download_image": "110.jpg",
+    "ocr_predicted": "9569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 111,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748417464.jpg",
+    "download_image": "111.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 112,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417460.jpg",
+    "download_image": "112.jpg",
+    "ocr_predicted": "9569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 113,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417440.jpg",
+    "download_image": "113.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 114,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417342.jpg",
+    "download_image": "114.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 115,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748417333.jpg",
+    "download_image": "115.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 116,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417329.jpg",
+    "download_image": "116.jpg",
+    "ocr_predicted": "0569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 117,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748417308.jpg",
+    "download_image": "117.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 118,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748417292.jpg",
+    "download_image": "118.jpg",
+    "ocr_predicted": "2273",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 119,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748417289.jpg",
+    "download_image": "119.jpg",
+    "ocr_predicted": "67G0",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 120,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748417283.jpg",
+    "download_image": "120.jpg",
+    "ocr_predicted": "6760",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 121,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748417277.jpg",
+    "download_image": "121.jpg",
+    "ocr_predicted": "6760",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 122,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748417257.jpg",
+    "download_image": "122.jpg",
+    "ocr_predicted": "6760",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 123,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748417249.jpg",
+    "download_image": "123.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 124,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748417102.jpg",
+    "download_image": "124.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 125,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748417094.jpg",
+    "download_image": "125.jpg",
+    "ocr_predicted": "G760",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 126,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748417035.jpg",
+    "download_image": "126.jpg",
+    "ocr_predicted": "2Z73",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 127,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748416995.jpg",
+    "download_image": "127.jpg",
+    "ocr_predicted": "B2",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 128,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748416846.jpg",
+    "download_image": "128.jpg",
+    "ocr_predicted": "6760",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 129,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748416800.jpg",
+    "download_image": "129.jpg",
+    "ocr_predicted": "6760",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 130,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416753.jpg",
+    "download_image": "130.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 131,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416741.jpg",
+    "download_image": "131.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 132,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416710.jpg",
+    "download_image": "132.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 133,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416668.jpg",
+    "download_image": "133.jpg",
+    "ocr_predicted": "9569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 134,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416633.jpg",
+    "download_image": "134.jpg",
+    "ocr_predicted": "B569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 135,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416621.jpg",
+    "download_image": "135.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 136,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748416586.jpg",
+    "download_image": "136.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 137,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416578.jpg",
+    "download_image": "137.jpg",
+    "ocr_predicted": "0569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 138,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416455.jpg",
+    "download_image": "138.jpg",
+    "ocr_predicted": "0569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 139,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416382.jpg",
+    "download_image": "139.jpg",
+    "ocr_predicted": "0569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 140,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416346.jpg",
+    "download_image": "140.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 141,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416305.jpg",
+    "download_image": "141.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 142,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416297.jpg",
+    "download_image": "142.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 143,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748416297.jpg",
+    "download_image": "143.jpg",
+    "ocr_predicted": "R676",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 144,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416292.jpg",
+    "download_image": "144.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 145,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/07/bay1_17484143111748416285.jpg",
+    "download_image": "145.jpg",
+    "ocr_predicted": "6766",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 146,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416279.jpg",
+    "download_image": "146.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 147,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416259.jpg",
+    "download_image": "147.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 148,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416197.jpg",
+    "download_image": "148.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 149,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416191.jpg",
+    "download_image": "149.jpg",
+    "ocr_predicted": "0569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 150,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416185.jpg",
+    "download_image": "150.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 151,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416179.jpg",
+    "download_image": "151.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 152,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416174.jpg",
+    "download_image": "152.jpg",
+    "ocr_predicted": "0569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 153,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416167.jpg",
+    "download_image": "153.jpg",
+    "ocr_predicted": "0569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 154,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416161.jpg",
+    "download_image": "154.jpg",
+    "ocr_predicted": "8569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 155,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416155.jpg",
+    "download_image": "155.jpg",
+    "ocr_predicted": "0669",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 156,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416149.jpg",
+    "download_image": "156.jpg",
+    "ocr_predicted": "0669",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 157,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484161001748416141.jpg",
+    "download_image": "157.jpg",
+    "ocr_predicted": "0569",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 158,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415938.jpg",
+    "download_image": "158.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 159,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748415917.jpg",
+    "download_image": "159.jpg",
+    "ocr_predicted": "J617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 160,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415896.jpg",
+    "download_image": "160.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 161,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415868.jpg",
+    "download_image": "161.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 162,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415861.jpg",
+    "download_image": "162.jpg",
+    "ocr_predicted": "9352",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 163,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748415853.jpg",
+    "download_image": "163.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 164,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415843.jpg",
+    "download_image": "164.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 165,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415819.jpg",
+    "download_image": "165.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 166,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415796.jpg",
+    "download_image": "166.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 167,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748415749.jpg",
+    "download_image": "167.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 168,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748415742.jpg",
+    "download_image": "168.jpg",
+    "ocr_predicted": "C7",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 169,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748415707.jpg",
+    "download_image": "169.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 170,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415700.jpg",
+    "download_image": "170.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 171,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415680.jpg",
+    "download_image": "171.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 172,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415659.jpg",
+    "download_image": "172.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 173,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748415650.jpg",
+    "download_image": "173.jpg",
+    "ocr_predicted": "",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 174,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/07/bay4_17484117811748415647.jpg",
+    "download_image": "174.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 175,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748415639.jpg",
+    "download_image": "175.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 176,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/07/bay3_17484081461748415632.jpg",
+    "download_image": "176.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 177,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415557.jpg",
+    "download_image": "177.jpg",
+    "ocr_predicted": "9962",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 178,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415527.jpg",
+    "download_image": "178.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 179,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/06/bay3_17484081461748415510.jpg",
+    "download_image": "179.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 180,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/06/bay3_17484081461748415492.jpg",
+    "download_image": "180.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 181,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415492.jpg",
+    "download_image": "181.jpg",
+    "ocr_predicted": "9521",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 182,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/06/bay3_17484081461748415469.jpg",
+    "download_image": "182.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 183,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415461.jpg",
+    "download_image": "183.jpg",
+    "ocr_predicted": "9521",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 184,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/06/bay3_17484081461748415458.jpg",
+    "download_image": "184.jpg",
+    "ocr_predicted": "6171",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 185,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415451.jpg",
+    "download_image": "185.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 186,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415445.jpg",
+    "download_image": "186.jpg",
+    "ocr_predicted": "52",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 187,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415439.jpg",
+    "download_image": "187.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 188,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415433.jpg",
+    "download_image": "188.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 189,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415410.jpg",
+    "download_image": "189.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 190,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415377.jpg",
+    "download_image": "190.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 191,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/06/bay3_17484081461748415349.jpg",
+    "download_image": "191.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 192,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415335.jpg",
+    "download_image": "192.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 193,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/06/bay3_17484081461748415332.jpg",
+    "download_image": "193.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 194,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415319.jpg",
+    "download_image": "194.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 195,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/06/bay3_17484081461748415319.jpg",
+    "download_image": "195.jpg",
+    "ocr_predicted": "6174",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 196,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/06/bay1_17484143111748415299.jpg",
+    "download_image": "196.jpg",
+    "ocr_predicted": "67G0",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 197,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay3/cam_bay3_front/28-05-2025/06/bay3_17484081461748415212.jpg",
+    "download_image": "197.jpg",
+    "ocr_predicted": "3617",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 198,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay1/cam_bay1_front/28-05-2025/06/bay1_17484143111748415177.jpg",
+    "download_image": "198.jpg",
+    "ocr_predicted": "7GOL",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 199,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415163.jpg",
+    "download_image": "199.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 200,
+    "original_image": "https://asianpaints-data-files-v2.s3.ap-south-1.amazonaws.com/asianpaints/workforcesafety/originalImage/bay4/cam_bay4_front/28-05-2025/06/bay4_17484117811748415157.jpg",
+    "download_image": "200.jpg",
+    "ocr_predicted": "9952",
+    "ocr_annotated": ""
+  }
+]

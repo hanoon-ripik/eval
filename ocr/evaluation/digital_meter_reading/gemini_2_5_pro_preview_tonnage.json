@@ -1,0 +1,682 @@
+[
+  {
+    "id": 63,
+    "ocr_predicted": "0",
+    "ocr_annotated": "0"
+  },
+  {
+    "id": 77,
+    "ocr_predicted": "15.45",
+    "ocr_annotated": "15.45"
+  },
+  {
+    "id": 88,
+    "ocr_predicted": "7.61",
+    "ocr_annotated": "7.61"
+  },
+  {
+    "id": 89,
+    "ocr_predicted": "110.7",
+    "ocr_annotated": "110.7"
+  },
+  {
+    "id": 62,
+    "ocr_predicted": "0",
+    "ocr_annotated": "0"
+  },
+  {
+    "id": 48,
+    "ocr_predicted": "22.95",
+    "ocr_annotated": "22.95"
+  },
+  {
+    "id": 149,
+    "ocr_predicted": "51.39",
+    "ocr_annotated": "51.39"
+  },
+  {
+    "id": 148,
+    "ocr_predicted": "51.39",
+    "ocr_annotated": "51.39"
+  },
+  {
+    "id": 49,
+    "ocr_predicted": "22.95",
+    "ocr_annotated": "22.95"
+  },
+  {
+    "id": 61,
+    "ocr_predicted": "7.63",
+    "ocr_annotated": "7.63"
+  },
+  {
+    "id": 59,
+    "ocr_predicted": "7.63",
+    "ocr_annotated": "7.63"
+  },
+  {
+    "id": 71,
+    "ocr_predicted": "23.43",
+    "ocr_annotated": "23.43"
+  },
+  {
+    "id": 65,
+    "ocr_predicted": "30.5",
+    "ocr_annotated": "30.58"
+  },
+  {
+    "id": 64,
+    "ocr_predicted": "0",
+    "ocr_annotated": "0"
+  },
+  {
+    "id": 70,
+    "ocr_predicted": "23.43",
+    "ocr_annotated": "23.43"
+  },
+  {
+    "id": 58,
+    "ocr_predicted": "7.63",
+    "ocr_annotated": "7.63"
+  },
+  {
+    "id": 8,
+    "ocr_predicted": "8.16",
+    "ocr_annotated": "8.16"
+  },
+  {
+    "id": 66,
+    "ocr_predicted": "36.58",
+    "ocr_annotated": "30.58"
+  },
+  {
+    "id": 72,
+    "ocr_predicted": "23.43",
+    "ocr_annotated": "23.43"
+  },
+  {
+    "id": 99,
+    "ocr_predicted": "101.12",
+    "ocr_annotated": "101.12"
+  },
+  {
+    "id": 98,
+    "ocr_predicted": "101.12",
+    "ocr_annotated": "101.12"
+  },
+  {
+    "id": 73,
+    "ocr_predicted": "23.43",
+    "ocr_annotated": "23.43"
+  },
+  {
+    "id": 67,
+    "ocr_predicted": "30.52",
+    "ocr_annotated": "30.58"
+  },
+  {
+    "id": 9,
+    "ocr_predicted": "0",
+    "ocr_annotated": "0"
+  },
+  {
+    "id": 28,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 129,
+    "ocr_predicted": "75.4",
+    "ocr_annotated": "75.4"
+  },
+  {
+    "id": 101,
+    "ocr_predicted": "101.12",
+    "ocr_annotated": "101.12"
+  },
+  {
+    "id": 115,
+    "ocr_predicted": "83.72",
+    "ocr_annotated": "83.72"
+  },
+  {
+    "id": 114,
+    "ocr_predicted": "83.72",
+    "ocr_annotated": "83.72"
+  },
+  {
+    "id": 100,
+    "ocr_predicted": "101.12",
+    "ocr_annotated": "101.12"
+  },
+  {
+    "id": 128,
+    "ocr_predicted": "75.4",
+    "ocr_annotated": "75.4"
+  },
+  {
+    "id": 29,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 15,
+    "ocr_predicted": "5.98",
+    "ocr_annotated": "5.98"
+  },
+  {
+    "id": 17,
+    "ocr_predicted": "5.98",
+    "ocr_annotated": "5.98"
+  },
+  {
+    "id": 116,
+    "ocr_predicted": "83.72",
+    "ocr_annotated": "83.72"
+  },
+  {
+    "id": 102,
+    "ocr_predicted": "101.12",
+    "ocr_annotated": "101.12"
+  },
+  {
+    "id": 103,
+    "ocr_predicted": "101.12",
+    "ocr_annotated": "101.12"
+  },
+  {
+    "id": 117,
+    "ocr_predicted": "83.72",
+    "ocr_annotated": "83.72"
+  },
+  {
+    "id": 16,
+    "ocr_predicted": "5.98",
+    "ocr_annotated": "5.98"
+  },
+  {
+    "id": 113,
+    "ocr_predicted": "83.72",
+    "ocr_annotated": "83.72"
+  },
+  {
+    "id": 107,
+    "ocr_predicted": "91.79",
+    "ocr_annotated": "91.79"
+  },
+  {
+    "id": 106,
+    "ocr_predicted": "101.12",
+    "ocr_annotated": "101.12"
+  },
+  {
+    "id": 112,
+    "ocr_predicted": "91.79",
+    "ocr_annotated": "91.79"
+  },
+  {
+    "id": 39,
+    "ocr_predicted": "30.7",
+    "ocr_annotated": "30.7"
+  },
+  {
+    "id": 11,
+    "ocr_predicted": "0",
+    "ocr_annotated": "0"
+  },
+  {
+    "id": 104,
+    "ocr_predicted": "101.12",
+    "ocr_annotated": "101.12"
+  },
+  {
+    "id": 110,
+    "ocr_predicted": "91.79",
+    "ocr_annotated": "91.79"
+  },
+  {
+    "id": 138,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 139,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 111,
+    "ocr_predicted": "91.79",
+    "ocr_annotated": "91.79"
+  },
+  {
+    "id": 105,
+    "ocr_predicted": "101.12",
+    "ocr_annotated": "101.12"
+  },
+  {
+    "id": 10,
+    "ocr_predicted": "0",
+    "ocr_annotated": "0"
+  },
+  {
+    "id": 38,
+    "ocr_predicted": "0",
+    "ocr_annotated": "0"
+  },
+  {
+    "id": 35,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 108,
+    "ocr_predicted": "91.79",
+    "ocr_annotated": "91.79"
+  },
+  {
+    "id": 134,
+    "ocr_predicted": "67.53",
+    "ocr_annotated": "67.53"
+  },
+  {
+    "id": 135,
+    "ocr_predicted": "67.53",
+    "ocr_annotated": "67.53"
+  },
+  {
+    "id": 109,
+    "ocr_predicted": "91.79",
+    "ocr_annotated": "91.79"
+  },
+  {
+    "id": 34,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 20,
+    "ocr_predicted": "5.98",
+    "ocr_annotated": "5.98"
+  },
+  {
+    "id": 36,
+    "ocr_predicted": "0",
+    "ocr_annotated": "0"
+  },
+  {
+    "id": 137,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 123,
+    "ocr_predicted": "75.4",
+    "ocr_annotated": "75.4"
+  },
+  {
+    "id": 122,
+    "ocr_predicted": "75.4",
+    "ocr_annotated": "75.4"
+  },
+  {
+    "id": 136,
+    "ocr_predicted": "67.53",
+    "ocr_annotated": "67.53"
+  },
+  {
+    "id": 37,
+    "ocr_predicted": "0",
+    "ocr_annotated": "0"
+  },
+  {
+    "id": 33,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 27,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 132,
+    "ocr_predicted": "67.53",
+    "ocr_annotated": "67.53"
+  },
+  {
+    "id": 126,
+    "ocr_predicted": "75.4",
+    "ocr_annotated": "75.4"
+  },
+  {
+    "id": 127,
+    "ocr_predicted": "75.4",
+    "ocr_annotated": "75.4"
+  },
+  {
+    "id": 133,
+    "ocr_predicted": "67.53",
+    "ocr_annotated": "67.53"
+  },
+  {
+    "id": 26,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 32,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 18,
+    "ocr_predicted": "5.98",
+    "ocr_annotated": "5.98"
+  },
+  {
+    "id": 24,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 30,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 125,
+    "ocr_predicted": "75.4",
+    "ocr_annotated": "75.4"
+  },
+  {
+    "id": 131,
+    "ocr_predicted": "67.53",
+    "ocr_annotated": "67.53"
+  },
+  {
+    "id": 118,
+    "ocr_predicted": "237.77",
+    "ocr_annotated": "83.72"
+  },
+  {
+    "id": 130,
+    "ocr_predicted": "75.4",
+    "ocr_annotated": "75.4"
+  },
+  {
+    "id": 124,
+    "ocr_predicted": "75.4",
+    "ocr_annotated": "75.4"
+  },
+  {
+    "id": 31,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 25,
+    "ocr_predicted": "7.27",
+    "ocr_annotated": "7.27"
+  },
+  {
+    "id": 19,
+    "ocr_predicted": "5.98",
+    "ocr_annotated": "5.98"
+  },
+  {
+    "id": 42,
+    "ocr_predicted": "30.7",
+    "ocr_annotated": "30.7"
+  },
+  {
+    "id": 4,
+    "ocr_predicted": "8.16",
+    "ocr_annotated": "8.16"
+  },
+  {
+    "id": 56,
+    "ocr_predicted": "15.44",
+    "ocr_annotated": "15.44"
+  },
+  {
+    "id": 81,
+    "ocr_predicted": "15.45",
+    "ocr_annotated": "15.45"
+  },
+  {
+    "id": 95,
+    "ocr_predicted": "110.7",
+    "ocr_annotated": "110.7"
+  },
+  {
+    "id": 143,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 142,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 94,
+    "ocr_predicted": "110.7",
+    "ocr_annotated": "110.7"
+  },
+  {
+    "id": 80,
+    "ocr_predicted": "15.45",
+    "ocr_annotated": "15.45"
+  },
+  {
+    "id": 5,
+    "ocr_predicted": "8.16",
+    "ocr_annotated": "8.16"
+  },
+  {
+    "id": 57,
+    "ocr_predicted": "7.63",
+    "ocr_annotated": "7.63"
+  },
+  {
+    "id": 43,
+    "ocr_predicted": "30.7",
+    "ocr_annotated": "30.7"
+  },
+  {
+    "id": 55,
+    "ocr_predicted": "15.44",
+    "ocr_annotated": "15.44"
+  },
+  {
+    "id": 7,
+    "ocr_predicted": "8.16",
+    "ocr_annotated": "8.16"
+  },
+  {
+    "id": 69,
+    "ocr_predicted": "23.43",
+    "ocr_annotated": "23.43"
+  },
+  {
+    "id": 96,
+    "ocr_predicted": "110.7",
+    "ocr_annotated": "110.7"
+  },
+  {
+    "id": 82,
+    "ocr_predicted": "15.45",
+    "ocr_annotated": "15.45"
+  },
+  {
+    "id": 140,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 141,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 83,
+    "ocr_predicted": "7.61",
+    "ocr_annotated": "7.61"
+  },
+  {
+    "id": 97,
+    "ocr_predicted": "110.7",
+    "ocr_annotated": "110.7"
+  },
+  {
+    "id": 68,
+    "ocr_predicted": "23.43",
+    "ocr_annotated": "23.43"
+  },
+  {
+    "id": 40,
+    "ocr_predicted": "30.7",
+    "ocr_annotated": "30.7"
+  },
+  {
+    "id": 54,
+    "ocr_predicted": "15.44",
+    "ocr_annotated": "15.44"
+  },
+  {
+    "id": 6,
+    "ocr_predicted": "8.16",
+    "ocr_annotated": "8.16"
+  },
+  {
+    "id": 78,
+    "ocr_predicted": "15.45",
+    "ocr_annotated": "15.45"
+  },
+  {
+    "id": 2,
+    "ocr_predicted": "8.16",
+    "ocr_annotated": "8.16"
+  },
+  {
+    "id": 50,
+    "ocr_predicted": "22.95",
+    "ocr_annotated": "22,950"
+  },
+  {
+    "id": 44,
+    "ocr_predicted": "30.7",
+    "ocr_annotated": "30.7"
+  },
+  {
+    "id": 145,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 93,
+    "ocr_predicted": "110.7",
+    "ocr_annotated": "110.7"
+  },
+  {
+    "id": 87,
+    "ocr_predicted": "7.61",
+    "ocr_annotated": "7.61"
+  },
+  {
+    "id": 86,
+    "ocr_predicted": "7.61",
+    "ocr_annotated": "7.61"
+  },
+  {
+    "id": 92,
+    "ocr_predicted": "110.7",
+    "ocr_annotated": "110.7"
+  },
+  {
+    "id": 144,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 45,
+    "ocr_predicted": "22.95",
+    "ocr_annotated": "22.95"
+  },
+  {
+    "id": 3,
+    "ocr_predicted": "8.16",
+    "ocr_annotated": "8.16"
+  },
+  {
+    "id": 51,
+    "ocr_predicted": "15.448",
+    "ocr_annotated": "15.44"
+  },
+  {
+    "id": 79,
+    "ocr_predicted": "15.45",
+    "ocr_annotated": "15.45"
+  },
+  {
+    "id": 47,
+    "ocr_predicted": "22.95",
+    "ocr_annotated": "22.95"
+  },
+  {
+    "id": 53,
+    "ocr_predicted": "15.44",
+    "ocr_annotated": "15.44"
+  },
+  {
+    "id": 1,
+    "ocr_predicted": "8.16",
+    "ocr_annotated": "8.16"
+  },
+  {
+    "id": 146,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 84,
+    "ocr_predicted": "7.61",
+    "ocr_annotated": "7.61"
+  },
+  {
+    "id": 90,
+    "ocr_predicted": "110.7",
+    "ocr_annotated": "110.7"
+  },
+  {
+    "id": 91,
+    "ocr_predicted": "110.7",
+    "ocr_annotated": "110.7"
+  },
+  {
+    "id": 85,
+    "ocr_predicted": "7.61",
+    "ocr_annotated": "7.61"
+  },
+  {
+    "id": 147,
+    "ocr_predicted": "59.33",
+    "ocr_annotated": "59.33"
+  },
+  {
+    "id": 52,
+    "ocr_predicted": "15.44",
+    "ocr_annotated": "15.44"
+  },
+  {
+    "id": 0,
+    "ocr_predicted": "8.16",
+    "ocr_annotated": "8.16"
+  },
+  {
+    "id": 46,
+    "ocr_predicted": "22.95",
+    "ocr_annotated": "22.95"
+  }
+]

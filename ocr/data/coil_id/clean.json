@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-50-22.jpg",
+    "download_image": "1.jpg",
+    "ocr_predicted": "2505830085",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 2,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-49-52.jpg",
+    "download_image": "2.jpg",
+    "ocr_predicted": "2505830085",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 3,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-48-18.jpg",
+    "download_image": "3.jpg",
+    "ocr_predicted": "2505830083",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 4,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-47-48.jpg",
+    "download_image": "4.jpg",
+    "ocr_predicted": "2505830083",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 5,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-40-38.jpg",
+    "download_image": "5.jpg",
+    "ocr_predicted": "2505830084",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 6,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-40-08.jpg",
+    "download_image": "6.jpg",
+    "ocr_predicted": "2505830084",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 7,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-38-21.jpg",
+    "download_image": "7.jpg",
+    "ocr_predicted": "2505830081",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 8,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-37-51.jpg",
+    "download_image": "8.jpg",
+    "ocr_predicted": "2505830081",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 9,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-31-00.jpg",
+    "download_image": "9.jpg",
+    "ocr_predicted": "2505830082",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 10,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-30-30.jpg",
+    "download_image": "10.jpg",
+    "ocr_predicted": "2505830082",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 11,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-22-41.jpg",
+    "download_image": "11.jpg",
+    "ocr_predicted": "2505830080",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 12,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-22-10.jpg",
+    "download_image": "12.jpg",
+    "ocr_predicted": "2505830080",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 13,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-20-38.jpg",
+    "download_image": "13.jpg",
+    "ocr_predicted": "2505830078",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 14,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-20-08.jpg",
+    "download_image": "14.jpg",
+    "ocr_predicted": "2505830078",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 15,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-15-54.jpg",
+    "download_image": "15.jpg",
+    "ocr_predicted": "2505830078",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 16,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-15-24.jpg",
+    "download_image": "16.jpg",
+    "ocr_predicted": "2505830078",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 17,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-09-19.jpg",
+    "download_image": "17.jpg",
+    "ocr_predicted": "2505830077",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 18,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-08-48.jpg",
+    "download_image": "18.jpg",
+    "ocr_predicted": "2505830072",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 19,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-07-17.jpg",
+    "download_image": "19.jpg",
+    "ocr_predicted": "2505030075",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 20,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-06-47.jpg",
+    "download_image": "20.jpg",
+    "ocr_predicted": "2505630075",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 21,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-02-34.jpg",
+    "download_image": "21.jpg",
+    "ocr_predicted": "2505080076",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 22,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/10/camcoil_originalImage_2025-05-29_10-02-04.jpg",
+    "download_image": "22.jpg",
+    "ocr_predicted": "2505830076",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 23,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-57-49.jpg",
+    "download_image": "23.jpg",
+    "ocr_predicted": "2505830073",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 24,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-57-19.jpg",
+    "download_image": "24.jpg",
+    "ocr_predicted": "2505830073",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 25,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-53-55.jpg",
+    "download_image": "25.jpg",
+    "ocr_predicted": "2505030074",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 26,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-53-25.jpg",
+    "download_image": "26.jpg",
+    "ocr_predicted": "2505030074",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 27,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-51-12.jpg",
+    "download_image": "27.jpg",
+    "ocr_predicted": "2505680072",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 28,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-50-42.jpg",
+    "download_image": "28.jpg",
+    "ocr_predicted": "2505630072",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 29,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-39-22.jpg",
+    "download_image": "29.jpg",
+    "ocr_predicted": "2505030071",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 30,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-38-52.jpg",
+    "download_image": "30.jpg",
+    "ocr_predicted": "2505830071",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 31,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-37-22.jpg",
+    "download_image": "31.jpg",
+    "ocr_predicted": "2505830069",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 32,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-36-52.jpg",
+    "download_image": "32.jpg",
+    "ocr_predicted": "2505830069",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 33,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-33-26.jpg",
+    "download_image": "33.jpg",
+    "ocr_predicted": "2505880070",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 34,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-32-55.jpg",
+    "download_image": "34.jpg",
+    "ocr_predicted": "2505880070",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 35,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-25-00.jpg",
+    "download_image": "35.jpg",
+    "ocr_predicted": "2505030048",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 36,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-24-30.jpg",
+    "download_image": "36.jpg",
+    "ocr_predicted": "2505030088",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 37,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-23-21.jpg",
+    "download_image": "37.jpg",
+    "ocr_predicted": "2505630066",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 38,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-22-51.jpg",
+    "download_image": "38.jpg",
+    "ocr_predicted": "2505830066",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 39,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-19-01.jpg",
+    "download_image": "39.jpg",
+    "ocr_predicted": "2505830067",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 40,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-18-31.jpg",
+    "download_image": "40.jpg",
+    "ocr_predicted": "2505830067",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 41,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-10-48.jpg",
+    "download_image": "41.jpg",
+    "ocr_predicted": "2505830065",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 42,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-10-17.jpg",
+    "download_image": "42.jpg",
+    "ocr_predicted": "2505830065",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 43,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-09-05.jpg",
+    "download_image": "43.jpg",
+    "ocr_predicted": "2505600064",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 44,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-08-35.jpg",
+    "download_image": "44.jpg",
+    "ocr_predicted": "2505600064",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 45,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-07-30.jpg",
+    "download_image": "45.jpg",
+    "ocr_predicted": "2505830063",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 46,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-06-59.jpg",
+    "download_image": "46.jpg",
+    "ocr_predicted": "2505830063",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 47,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-05-22.jpg",
+    "download_image": "47.jpg",
+    "ocr_predicted": "2505880061",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 48,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/9/camcoil_originalImage_2025-05-29_09-04-52.jpg",
+    "download_image": "48.jpg",
+    "ocr_predicted": "2505880061",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 49,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-55-04.jpg",
+    "download_image": "49.jpg",
+    "ocr_predicted": "2505000062",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 50,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-54-34.jpg",
+    "download_image": "50.jpg",
+    "ocr_predicted": "2505030062",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 51,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-49-59.jpg",
+    "download_image": "51.jpg",
+    "ocr_predicted": "2505030480",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 52,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-49-29.jpg",
+    "download_image": "52.jpg",
+    "ocr_predicted": "2505030480",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 53,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-47-57.jpg",
+    "download_image": "53.jpg",
+    "ocr_predicted": "2505000058",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 54,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-47-27.jpg",
+    "download_image": "54.jpg",
+    "ocr_predicted": "2500500058",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 55,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-41-45.jpg",
+    "download_image": "55.jpg",
+    "ocr_predicted": "2505030056",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 56,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-41-15.jpg",
+    "download_image": "56.jpg",
+    "ocr_predicted": "2505030058",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 57,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-37-45.jpg",
+    "download_image": "57.jpg",
+    "ocr_predicted": "2505030057",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 58,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-37-15.jpg",
+    "download_image": "58.jpg",
+    "ocr_predicted": "2505030057",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 59,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-34-58.jpg",
+    "download_image": "59.jpg",
+    "ocr_predicted": "2505630055",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 60,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-34-28.jpg",
+    "download_image": "60.jpg",
+    "ocr_predicted": "2505030055",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 61,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-27-07.jpg",
+    "download_image": "61.jpg",
+    "ocr_predicted": "2505830056",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 62,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-26-37.jpg",
+    "download_image": "62.jpg",
+    "ocr_predicted": "2505830056",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 63,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-17-59.jpg",
+    "download_image": "63.jpg",
+    "ocr_predicted": "2505530054",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 64,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-17-28.jpg",
+    "download_image": "64.jpg",
+    "ocr_predicted": "2505830054",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 65,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-12-33.jpg",
+    "download_image": "65.jpg",
+    "ocr_predicted": "2505830053",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 66,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-12-03.jpg",
+    "download_image": "66.jpg",
+    "ocr_predicted": "2505830353",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 67,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-10-38.jpg",
+    "download_image": "67.jpg",
+    "ocr_predicted": "2505880052",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 68,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-10-08.jpg",
+    "download_image": "68.jpg",
+    "ocr_predicted": "2505880052",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 69,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-08-35.jpg",
+    "download_image": "69.jpg",
+    "ocr_predicted": "2505830050",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 70,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-08-05.jpg",
+    "download_image": "70.jpg",
+    "ocr_predicted": "2505830050",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 71,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-03-18.jpg",
+    "download_image": "71.jpg",
+    "ocr_predicted": "2505030051",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 72,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/8/camcoil_originalImage_2025-05-29_08-02-48.jpg",
+    "download_image": "72.jpg",
+    "ocr_predicted": "2505630052",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 73,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-53-45.jpg",
+    "download_image": "73.jpg",
+    "ocr_predicted": "2505830149",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 74,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-53-15.jpg",
+    "download_image": "74.jpg",
+    "ocr_predicted": "2505830049",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 75,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-51-02.jpg",
+    "download_image": "75.jpg",
+    "ocr_predicted": "2505870048",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 76,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-50-31.jpg",
+    "download_image": "76.jpg",
+    "ocr_predicted": "2505830048",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 77,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-48-58.jpg",
+    "download_image": "77.jpg",
+    "ocr_predicted": "2505830046",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 78,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-48-28.jpg",
+    "download_image": "78.jpg",
+    "ocr_predicted": "2501830046",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 79,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-44-50.jpg",
+    "download_image": "79.jpg",
+    "ocr_predicted": "2505830047",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 80,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-44-19.jpg",
+    "download_image": "80.jpg",
+    "ocr_predicted": "2505830047",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 81,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-39-02.jpg",
+    "download_image": "81.jpg",
+    "ocr_predicted": "2505030045",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 82,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-38-32.jpg",
+    "download_image": "82.jpg",
+    "ocr_predicted": "2505830045",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 83,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-36-59.jpg",
+    "download_image": "83.jpg",
+    "ocr_predicted": "2505890043",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 84,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-36-29.jpg",
+    "download_image": "84.jpg",
+    "ocr_predicted": "2505890043",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 85,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-34-59.jpg",
+    "download_image": "85.jpg",
+    "ocr_predicted": "2505830044",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 86,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-34-29.jpg",
+    "download_image": "86.jpg",
+    "ocr_predicted": "2505830044",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 87,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-33-23.jpg",
+    "download_image": "87.jpg",
+    "ocr_predicted": "2505830042",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 88,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-32-53.jpg",
+    "download_image": "88.jpg",
+    "ocr_predicted": "2505830042",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 89,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-28-41.jpg",
+    "download_image": "89.jpg",
+    "ocr_predicted": "2505890011",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 90,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-28-11.jpg",
+    "download_image": "90.jpg",
+    "ocr_predicted": "2505890011",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 91,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-23-30.jpg",
+    "download_image": "91.jpg",
+    "ocr_predicted": "2505833040",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 92,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-23-00.jpg",
+    "download_image": "92.jpg",
+    "ocr_predicted": "2505830048",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 93,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-19-49.jpg",
+    "download_image": "93.jpg",
+    "ocr_predicted": "2505830038",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 94,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-19-19.jpg",
+    "download_image": "94.jpg",
+    "ocr_predicted": "2505830038",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 95,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-17-45.jpg",
+    "download_image": "95.jpg",
+    "ocr_predicted": "2505030038",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 96,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-17-15.jpg",
+    "download_image": "96.jpg",
+    "ocr_predicted": "2505030038",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 97,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-16-11.jpg",
+    "download_image": "97.jpg",
+    "ocr_predicted": "2505033003",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 98,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-05-25.jpg",
+    "download_image": "98.jpg",
+    "ocr_predicted": "2505020034",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 99,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-04-55.jpg",
+    "download_image": "99.jpg",
+    "ocr_predicted": "2505230034",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 100,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-03-27.jpg",
+    "download_image": "100.jpg",
+    "ocr_predicted": "2505080037",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 101,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-02-57.jpg",
+    "download_image": "101.jpg",
+    "ocr_predicted": "2505083037",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 102,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-01-26.jpg",
+    "download_image": "102.jpg",
+    "ocr_predicted": "2505080033",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 103,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/7/camcoil_originalImage_2025-05-29_07-00-56.jpg",
+    "download_image": "103.jpg",
+    "ocr_predicted": "2505004037",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 104,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-46-35.jpg",
+    "download_image": "104.jpg",
+    "ocr_predicted": "2508030034",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 105,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-46-05.jpg",
+    "download_image": "105.jpg",
+    "ocr_predicted": "2503030024",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 106,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-42-46.jpg",
+    "download_image": "106.jpg",
+    "ocr_predicted": "2505030040",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 107,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-31-03.jpg",
+    "download_image": "107.jpg",
+    "ocr_predicted": "2505083002",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 108,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-30-32.jpg",
+    "download_image": "108.jpg",
+    "ocr_predicted": "2505083002",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 109,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-19-59.jpg",
+    "download_image": "109.jpg",
+    "ocr_predicted": "2505030031",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 110,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-19-28.jpg",
+    "download_image": "110.jpg",
+    "ocr_predicted": "2505030031",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 111,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-18-05.jpg",
+    "download_image": "111.jpg",
+    "ocr_predicted": "2505830028",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 112,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-17-35.jpg",
+    "download_image": "112.jpg",
+    "ocr_predicted": "2505830028",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 113,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-09-34.jpg",
+    "download_image": "113.jpg",
+    "ocr_predicted": "2505830029",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 114,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-09-04.jpg",
+    "download_image": "114.jpg",
+    "ocr_predicted": "2505830029",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 115,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-05-35.jpg",
+    "download_image": "115.jpg",
+    "ocr_predicted": "2505890027",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 116,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-05-05.jpg",
+    "download_image": "116.jpg",
+    "ocr_predicted": "2505830027",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 117,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-03-27.jpg",
+    "download_image": "117.jpg",
+    "ocr_predicted": "2505830026",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 118,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/6/camcoil_originalImage_2025-05-29_06-02-56.jpg",
+    "download_image": "118.jpg",
+    "ocr_predicted": "2505830026",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 119,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-57-29.jpg",
+    "download_image": "119.jpg",
+    "ocr_predicted": "2505030014",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 120,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-56-59.jpg",
+    "download_image": "120.jpg",
+    "ocr_predicted": "2505830014",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 121,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-55-27.jpg",
+    "download_image": "121.jpg",
+    "ocr_predicted": "2505830025",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 122,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-54-57.jpg",
+    "download_image": "122.jpg",
+    "ocr_predicted": "2505830025",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 123,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-53-25.jpg",
+    "download_image": "123.jpg",
+    "ocr_predicted": "2505003022",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 124,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-52-55.jpg",
+    "download_image": "124.jpg",
+    "ocr_predicted": "2505003022",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 125,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-51-32.jpg",
+    "download_image": "125.jpg",
+    "ocr_predicted": "2505830023",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 126,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-51-02.jpg",
+    "download_image": "126.jpg",
+    "ocr_predicted": "2505830023",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 127,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-32-24.jpg",
+    "download_image": "127.jpg",
+    "ocr_predicted": "2505020019",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 128,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-31-54.jpg",
+    "download_image": "128.jpg",
+    "ocr_predicted": "2505020019",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 129,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-30-51.jpg",
+    "download_image": "129.jpg",
+    "ocr_predicted": "2505030021",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 130,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-30-21.jpg",
+    "download_image": "130.jpg",
+    "ocr_predicted": "2505030021",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 131,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-21-10.jpg",
+    "download_image": "131.jpg",
+    "ocr_predicted": "2505830016",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 132,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-16-26.jpg",
+    "download_image": "132.jpg",
+    "ocr_predicted": "2505030018",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 133,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-09-15.jpg",
+    "download_image": "133.jpg",
+    "ocr_predicted": "2500503015",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 134,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-00-43.jpg",
+    "download_image": "134.jpg",
+    "ocr_predicted": "2505030014",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 135,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/5/camcoil_originalImage_2025-05-29_05-00-13.jpg",
+    "download_image": "135.jpg",
+    "ocr_predicted": "2505030014",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 136,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-57-06.jpg",
+    "download_image": "136.jpg",
+    "ocr_predicted": "2505830012",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 137,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-56-36.jpg",
+    "download_image": "137.jpg",
+    "ocr_predicted": "2505030012",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 138,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-51-00.jpg",
+    "download_image": "138.jpg",
+    "ocr_predicted": "2505830011",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 139,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-49-10.jpg",
+    "download_image": "139.jpg",
+    "ocr_predicted": "2505530010",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 140,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-48-40.jpg",
+    "download_image": "140.jpg",
+    "ocr_predicted": "2505830010",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 141,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-46-49.jpg",
+    "download_image": "141.jpg",
+    "ocr_predicted": "2505830009",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 142,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-44-42.jpg",
+    "download_image": "142.jpg",
+    "ocr_predicted": "2505833008",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 143,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-42-58.jpg",
+    "download_image": "143.jpg",
+    "ocr_predicted": "2505830001",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 144,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-42-28.jpg",
+    "download_image": "144.jpg",
+    "ocr_predicted": "2505830001",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 145,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-34-11.jpg",
+    "download_image": "145.jpg",
+    "ocr_predicted": "2505033007",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 146,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-30-25.jpg",
+    "download_image": "146.jpg",
+    "ocr_predicted": "2505083006",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 147,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-29-55.jpg",
+    "download_image": "147.jpg",
+    "ocr_predicted": "2505083006",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 148,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-27-29.jpg",
+    "download_image": "148.jpg",
+    "ocr_predicted": "2505830005",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 149,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-26-59.jpg",
+    "download_image": "149.jpg",
+    "ocr_predicted": "2505830005",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 150,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-23-36.jpg",
+    "download_image": "150.jpg",
+    "ocr_predicted": "2505828004",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 151,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-21-48.jpg",
+    "download_image": "151.jpg",
+    "ocr_predicted": "2505830007",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 152,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-21-18.jpg",
+    "download_image": "152.jpg",
+    "ocr_predicted": "2505830007",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 153,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-19-33.jpg",
+    "download_image": "153.jpg",
+    "ocr_predicted": "2505830002",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 154,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-03-58.jpg",
+    "download_image": "154.jpg",
+    "ocr_predicted": "2505820069",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 155,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/4/camcoil_originalImage_2025-05-29_04-03-28.jpg",
+    "download_image": "155.jpg",
+    "ocr_predicted": "2505820069",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 156,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-55-12.jpg",
+    "download_image": "156.jpg",
+    "ocr_predicted": "2505820072",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 157,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-54-42.jpg",
+    "download_image": "157.jpg",
+    "ocr_predicted": "2505820072",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 158,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-52-55.jpg",
+    "download_image": "158.jpg",
+    "ocr_predicted": "2505820071",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 159,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-51-04.jpg",
+    "download_image": "159.jpg",
+    "ocr_predicted": "2505620070",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 160,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-50-34.jpg",
+    "download_image": "160.jpg",
+    "ocr_predicted": "2505820070",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 161,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-49-08.jpg",
+    "download_image": "161.jpg",
+    "ocr_predicted": "2505820048",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 162,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-48-38.jpg",
+    "download_image": "162.jpg",
+    "ocr_predicted": "2505820048",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 163,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-44-40.jpg",
+    "download_image": "163.jpg",
+    "ocr_predicted": "2505820065",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 164,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-41-56.jpg",
+    "download_image": "164.jpg",
+    "ocr_predicted": "2505020064",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 165,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-31-44.jpg",
+    "download_image": "165.jpg",
+    "ocr_predicted": "2505020064",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 166,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-30-13.jpg",
+    "download_image": "166.jpg",
+    "ocr_predicted": "2505920060",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 167,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-29-43.jpg",
+    "download_image": "167.jpg",
+    "ocr_predicted": "2505920080",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 168,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-14-02.jpg",
+    "download_image": "168.jpg",
+    "ocr_predicted": "2505820161",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 169,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-13-32.jpg",
+    "download_image": "169.jpg",
+    "ocr_predicted": "2505820061",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 170,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-05-41.jpg",
+    "download_image": "170.jpg",
+    "ocr_predicted": "2505820059",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 171,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-03-59.jpg",
+    "download_image": "171.jpg",
+    "ocr_predicted": "2505820058",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 172,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/3/camcoil_originalImage_2025-05-29_03-03-29.jpg",
+    "download_image": "172.jpg",
+    "ocr_predicted": "2505820058",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 173,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-59-28.jpg",
+    "download_image": "173.jpg",
+    "ocr_predicted": "2505020055",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 174,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-53-02.jpg",
+    "download_image": "174.jpg",
+    "ocr_predicted": "2505020056",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 175,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-41-08.jpg",
+    "download_image": "175.jpg",
+    "ocr_predicted": "2505020053",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 176,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-41-03.jpg",
+    "download_image": "176.jpg",
+    "ocr_predicted": "2505020053",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 177,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-40-33.jpg",
+    "download_image": "177.jpg",
+    "ocr_predicted": "2505020053",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 178,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-36-48.jpg",
+    "download_image": "178.jpg",
+    "ocr_predicted": "2505020052",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 179,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-36-39.jpg",
+    "download_image": "179.jpg",
+    "ocr_predicted": "2505020052",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 180,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-36-04.jpg",
+    "download_image": "180.jpg",
+    "ocr_predicted": "2505020052",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 181,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-32-18.jpg",
+    "download_image": "181.jpg",
+    "ocr_predicted": "2505820051",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 182,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-30-09.jpg",
+    "download_image": "182.jpg",
+    "ocr_predicted": "2505820050",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 183,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-28-23.jpg",
+    "download_image": "183.jpg",
+    "ocr_predicted": "2505820049",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 184,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-27-53.jpg",
+    "download_image": "184.jpg",
+    "ocr_predicted": "2505920049",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 185,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-26-16.jpg",
+    "download_image": "185.jpg",
+    "ocr_predicted": "2505820046",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 186,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-25-46.jpg",
+    "download_image": "186.jpg",
+    "ocr_predicted": "2505020046",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 187,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-18-58.jpg",
+    "download_image": "187.jpg",
+    "ocr_predicted": "2505020048",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 188,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-18-51.jpg",
+    "download_image": "188.jpg",
+    "ocr_predicted": "2505020048",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 189,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-16-53.jpg",
+    "download_image": "189.jpg",
+    "ocr_predicted": "2505820047",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 190,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/2/camcoil_originalImage_2025-05-29_02-14-55.jpg",
+    "download_image": "190.jpg",
+    "ocr_predicted": "2505820045",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 191,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/1/camcoil_originalImage_2025-05-29_01-55-49.jpg",
+    "download_image": "191.jpg",
+    "ocr_predicted": "2505020043",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 192,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/1/camcoil_originalImage_2025-05-29_01-50-03.jpg",
+    "download_image": "192.jpg",
+    "ocr_predicted": "2505020041",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 193,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/1/camcoil_originalImage_2025-05-29_01-47-54.jpg",
+    "download_image": "193.jpg",
+    "ocr_predicted": "2505820039",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 194,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/1/camcoil_originalImage_2025-05-29_01-43-35.jpg",
+    "download_image": "194.jpg",
+    "ocr_predicted": "2505020040",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 195,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/1/camcoil_originalImage_2025-05-29_01-34-02.jpg",
+    "download_image": "195.jpg",
+    "ocr_predicted": "2505820034",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 196,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/1/camcoil_originalImage_2025-05-29_01-28-27.jpg",
+    "download_image": "196.jpg",
+    "ocr_predicted": "2505820037",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 197,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/1/camcoil_originalImage_2025-05-29_01-24-47.jpg",
+    "download_image": "197.jpg",
+    "ocr_predicted": "2505820036",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 198,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/1/camcoil_originalImage_2025-05-29_01-10-49.jpg",
+    "download_image": "198.jpg",
+    "ocr_predicted": "2505820033",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 199,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/0/camcoil_originalImage_2025-05-29_00-59-49.jpg",
+    "download_image": "199.jpg",
+    "ocr_predicted": "2505820031",
+    "ocr_annotated": ""
+  },
+  {
+    "id": 200,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/jindalsteel/loc1/coilidtracking/cameraGp1/camcoil/no/originalImage/2025-05-29/0/camcoil_originalImage_2025-05-29_00-59-19.jpg",
+    "download_image": "200.jpg",
+    "ocr_predicted": "2505820031",
+    "ocr_annotated": ""
+  }
+]
