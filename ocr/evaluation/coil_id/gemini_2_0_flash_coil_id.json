@@ -1,0 +1,422 @@
+[
+  {
+    "id": 162,
+    "ocr_predicted": "2505820068",
+    "ocr_annotated": "2505820068"
+  },
+  {
+    "id": 88,
+    "ocr_predicted": "2605830042",
+    "ocr_annotated": "2505830042"
+  },
+  {
+    "id": 200,
+    "ocr_predicted": "2505820031",
+    "ocr_annotated": "2505820031"
+  },
+  {
+    "id": 188,
+    "ocr_predicted": "2505820048",
+    "ocr_annotated": "2505820048"
+  },
+  {
+    "id": 76,
+    "ocr_predicted": "2505830048",
+    "ocr_annotated": "2505830048"
+  },
+  {
+    "id": 62,
+    "ocr_predicted": "2505830056",
+    "ocr_annotated": "2505830056"
+  },
+  {
+    "id": 74,
+    "ocr_predicted": "2505830049",
+    "ocr_annotated": "2505830049"
+  },
+  {
+    "id": 60,
+    "ocr_predicted": "2505830055",
+    "ocr_annotated": "2505830055"
+  },
+  {
+    "id": 48,
+    "ocr_predicted": "2505830061",
+    "ocr_annotated": "2505830061"
+  },
+  {
+    "id": 160,
+    "ocr_predicted": "2505820070",
+    "ocr_annotated": "2505820070"
+  },
+  {
+    "id": 174,
+    "ocr_predicted": "2505820056",
+    "ocr_annotated": "2505820056"
+  },
+  {
+    "id": 170,
+    "ocr_predicted": "2505820059",
+    "ocr_annotated": "2505820059"
+  },
+  {
+    "id": 158,
+    "ocr_predicted": "2505820071",
+    "ocr_annotated": "2505820071"
+  },
+  {
+    "id": 64,
+    "ocr_predicted": "2505830054",
+    "ocr_annotated": "2505830054"
+  },
+  {
+    "id": 70,
+    "ocr_predicted": "2505830050",
+    "ocr_annotated": "2505830050"
+  },
+  {
+    "id": 58,
+    "ocr_predicted": "2505030057",
+    "ocr_annotated": "2505830057"
+  },
+  {
+    "id": 8,
+    "ocr_predicted": "2505830061",
+    "ocr_annotated": "2505830081"
+  },
+  {
+    "id": 198,
+    "ocr_predicted": "2505820033",
+    "ocr_annotated": "2505820033"
+  },
+  {
+    "id": 66,
+    "ocr_predicted": "2505830053",
+    "ocr_annotated": "2505830053"
+  },
+  {
+    "id": 72,
+    "ocr_predicted": "2505830051",
+    "ocr_annotated": "2505830051"
+  },
+  {
+    "id": 172,
+    "ocr_predicted": "2505820058",
+    "ocr_annotated": "2505820058"
+  },
+  {
+    "id": 14,
+    "ocr_predicted": "2505830078",
+    "ocr_annotated": "2505830078"
+  },
+  {
+    "id": 28,
+    "ocr_predicted": "2505630072",
+    "ocr_annotated": "2505830072"
+  },
+  {
+    "id": 114,
+    "ocr_predicted": "25059830029",
+    "ocr_annotated": "2505830029"
+  },
+  {
+    "id": 128,
+    "ocr_predicted": "25055830019",
+    "ocr_annotated": "2505830019"
+  },
+  {
+    "id": 116,
+    "ocr_predicted": "2505930027",
+    "ocr_annotated": "2505830027"
+  },
+  {
+    "id": 16,
+    "ocr_predicted": "2505830079",
+    "ocr_annotated": "2505830079"
+  },
+  {
+    "id": 12,
+    "ocr_predicted": "2505830080",
+    "ocr_annotated": "2505830080"
+  },
+  {
+    "id": 112,
+    "ocr_predicted": "2505830028",
+    "ocr_annotated": "2505830028"
+  },
+  {
+    "id": 110,
+    "ocr_predicted": "2505930031",
+    "ocr_annotated": "2505830031"
+  },
+  {
+    "id": 138,
+    "ocr_predicted": "25056830014",
+    "ocr_annotated": "2505830011"
+  },
+  {
+    "id": 10,
+    "ocr_predicted": "2505830082",
+    "ocr_annotated": "2505830082"
+  },
+  {
+    "id": 38,
+    "ocr_predicted": "2505830066",
+    "ocr_annotated": "2505830066"
+  },
+  {
+    "id": 108,
+    "ocr_predicted": "2505930032",
+    "ocr_annotated": "2505830032"
+  },
+  {
+    "id": 120,
+    "ocr_predicted": "2505930024",
+    "ocr_annotated": "2505830024"
+  },
+  {
+    "id": 34,
+    "ocr_predicted": "2505830070",
+    "ocr_annotated": "2505830070"
+  },
+  {
+    "id": 20,
+    "ocr_predicted": "2505830075",
+    "ocr_annotated": "2505630075"
+  },
+  {
+    "id": 36,
+    "ocr_predicted": "2505830068",
+    "ocr_annotated": "2505830068"
+  },
+  {
+    "id": 22,
+    "ocr_predicted": "2505830076",
+    "ocr_annotated": "2505830076"
+  },
+  {
+    "id": 122,
+    "ocr_predicted": "2505930025",
+    "ocr_annotated": "2505830025"
+  },
+  {
+    "id": 132,
+    "ocr_predicted": "25055830048",
+    "ocr_annotated": "2505830018"
+  },
+  {
+    "id": 126,
+    "ocr_predicted": "2505930023",
+    "ocr_annotated": "2505830023"
+  },
+  {
+    "id": 26,
+    "ocr_predicted": "25055830074",
+    "ocr_annotated": "2505830074"
+  },
+  {
+    "id": 32,
+    "ocr_predicted": "2505830069",
+    "ocr_annotated": "2505830069"
+  },
+  {
+    "id": 18,
+    "ocr_predicted": "2505830077",
+    "ocr_annotated": "2505830077"
+  },
+  {
+    "id": 24,
+    "ocr_predicted": "2505830073",
+    "ocr_annotated": "2505830073"
+  },
+  {
+    "id": 30,
+    "ocr_predicted": "2505830071",
+    "ocr_annotated": "2505830071"
+  },
+  {
+    "id": 118,
+    "ocr_predicted": "2505930026",
+    "ocr_annotated": "2505830026"
+  },
+  {
+    "id": 130,
+    "ocr_predicted": "25055630021",
+    "ocr_annotated": "2505830021"
+  },
+  {
+    "id": 124,
+    "ocr_predicted": "2505923022",
+    "ocr_annotated": "2505830022"
+  },
+  {
+    "id": 42,
+    "ocr_predicted": "2505830065",
+    "ocr_annotated": "2505830065"
+  },
+  {
+    "id": 4,
+    "ocr_predicted": "2505830083",
+    "ocr_annotated": "2505830083"
+  },
+  {
+    "id": 56,
+    "ocr_predicted": "2505030058",
+    "ocr_annotated": "2505830058"
+  },
+  {
+    "id": 180,
+    "ocr_predicted": "2505820052",
+    "ocr_annotated": "2505820052"
+  },
+  {
+    "id": 194,
+    "ocr_predicted": "2505820040",
+    "ocr_annotated": "2505820040"
+  },
+  {
+    "id": 142,
+    "ocr_predicted": "2505830008",
+    "ocr_annotated": "2505830008"
+  },
+  {
+    "id": 94,
+    "ocr_predicted": "2505830038",
+    "ocr_annotated": "2505830038"
+  },
+  {
+    "id": 80,
+    "ocr_predicted": "2505830047",
+    "ocr_annotated": "2505830047"
+  },
+  {
+    "id": 96,
+    "ocr_predicted": "2505930039",
+    "ocr_annotated": "2505830039"
+  },
+  {
+    "id": 82,
+    "ocr_predicted": "2505830045",
+    "ocr_annotated": "2505830045"
+  },
+  {
+    "id": 140,
+    "ocr_predicted": "2505630010",
+    "ocr_annotated": "2505830010"
+  },
+  {
+    "id": 182,
+    "ocr_predicted": "2505820050",
+    "ocr_annotated": "2505820050"
+  },
+  {
+    "id": 68,
+    "ocr_predicted": "2505830052",
+    "ocr_annotated": "2505830052"
+  },
+  {
+    "id": 196,
+    "ocr_predicted": "2505820037",
+    "ocr_annotated": "2505820037"
+  },
+  {
+    "id": 40,
+    "ocr_predicted": "2505830067",
+    "ocr_annotated": "2505830067"
+  },
+  {
+    "id": 54,
+    "ocr_predicted": "6505030058",
+    "ocr_annotated": "2505830059"
+  },
+  {
+    "id": 6,
+    "ocr_predicted": "2505830084",
+    "ocr_annotated": "2505830084"
+  },
+  {
+    "id": 78,
+    "ocr_predicted": "2505830046",
+    "ocr_annotated": "2505830046"
+  },
+  {
+    "id": 186,
+    "ocr_predicted": "25.05820046",
+    "ocr_annotated": "2505820046"
+  },
+  {
+    "id": 2,
+    "ocr_predicted": "2505830085",
+    "ocr_annotated": "2505830085"
+  },
+  {
+    "id": 50,
+    "ocr_predicted": "0505830062",
+    "ocr_annotated": "2505830062"
+  },
+  {
+    "id": 44,
+    "ocr_predicted": "2505830064",
+    "ocr_annotated": "2505830064"
+  },
+  {
+    "id": 86,
+    "ocr_predicted": "2505830044",
+    "ocr_annotated": "2505830044"
+  },
+  {
+    "id": 178,
+    "ocr_predicted": "2505620052",
+    "ocr_annotated": "2505820052"
+  },
+  {
+    "id": 92,
+    "ocr_predicted": "2505830040",
+    "ocr_annotated": "2505830040"
+  },
+  {
+    "id": 144,
+    "ocr_predicted": "2505830004",
+    "ocr_annotated": "2505830001"
+  },
+  {
+    "id": 150,
+    "ocr_predicted": "2505830004",
+    "ocr_annotated": "2505830004"
+  },
+  {
+    "id": 152,
+    "ocr_predicted": "2505830003",
+    "ocr_annotated": "2505830003"
+  },
+  {
+    "id": 84,
+    "ocr_predicted": "2505830043",
+    "ocr_annotated": "2505830043"
+  },
+  {
+    "id": 90,
+    "ocr_predicted": "2505830041",
+    "ocr_annotated": "2505830041"
+  },
+  {
+    "id": 52,
+    "ocr_predicted": "25055830060",
+    "ocr_annotated": "2505830060"
+  },
+  {
+    "id": 46,
+    "ocr_predicted": "2505830063",
+    "ocr_annotated": "2505830063"
+  },
+  {
+    "id": 190,
+    "ocr_predicted": "2505820045",
+    "ocr_annotated": "2505820045"
+  },
+  {
+    "id": 184,
+    "ocr_predicted": "2505820049",
+    "ocr_annotated": "2505820049"
+  }
+]
