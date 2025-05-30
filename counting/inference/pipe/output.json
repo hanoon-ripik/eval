@@ -1,0 +1,15 @@
+{
+  "video": "0.mp4",
+  "camera": 208,
+  "total_pipes": 2,
+  "pipe_info": [
+    {
+      "yolo_id": 2,
+      "confidence": 0.6985793709754944
+    },
+    {
+      "yolo_id": 6,
+      "confidence": 0.8889939188957214
+    }
+  ]
+}

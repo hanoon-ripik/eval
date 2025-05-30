@@ -8,6 +8,9 @@ import sys
 import time
 from datetime import datetime
 import cv2
+import json
+import os
+import numpy as np
 
 from video.reader import VideoReader
 
@@ -45,6 +48,7 @@ class DIP:
 
         self.cap : VideoReader = VideoReader(video_path)
         self.camera_id : str = config['cam-id']
+        self.video_path : str = video_path
 
         self.clientId : str = clientId
         self.produce : str = produce
@@ -58,6 +62,12 @@ class DIP:
 
         self.dia_handler : DiameterHandler = DiameterHandler(config['ds-info']['dia-handler'], config['ds-info']['ratios'], config['ds-info']['possible_dias'])
         self.this_shift_ids = set()
+
+        # Initialize JSON tracking for unique YOLO IDs
+        self.output_json_path = "output.json"
+        self.saved_yolo_ids = set()
+        self.pipe_detections = []  # Store pipe info for final JSON
+        self.load_existing_json()
 
         self.cropping = config['ds-info']['cropping']
 
@@ -73,6 +83,64 @@ class DIP:
             'clientId': self.clientId,
             'material': "dipcounter"
         }
+    
+    def load_existing_json(self):
+        """Load existing JSON file and populate saved_yolo_ids set"""
+        if os.path.exists(self.output_json_path):
+            try:
+                with open(self.output_json_path, 'r') as f:
+                    data = json.load(f)
+                    # Extract existing YOLO IDs from pipe_info to avoid duplicates
+                    if 'pipe_info' in data:
+                        for pipe in data['pipe_info']:
+                            if 'yolo_id' in pipe:
+                                self.saved_yolo_ids.add(pipe['yolo_id'])
+                print(f"Loaded existing JSON with {len(self.saved_yolo_ids)} unique YOLO IDs")
+            except (json.JSONDecodeError, KeyError) as e:
+                print(f"Error loading existing JSON: {e}. Starting with empty file.")
+                self.saved_yolo_ids = set()
+        else:
+            print("No existing output.json found. Starting fresh.")
+
+    def save_pipe_detection_to_json(self, yolo_id: int, video_time: str, frame_number: int, confidence: float):
+        """Add pipe detection with YOLO ID to internal list"""
+        # Only save if YOLO ID hasn't been saved before
+        if yolo_id not in self.saved_yolo_ids:
+            # Create new pipe info record
+            pipe_info = {
+                "yolo_id": yolo_id,
+                "confidence": float(confidence)
+            }
+            
+            # Add to our internal list
+            self.pipe_detections.append(pipe_info)
+            
+            # Add to our tracking set
+            self.saved_yolo_ids.add(yolo_id)
+            
+            print(f"💾 Added YOLO ID {yolo_id} to pipe detections")
+            return True
+        return False
+
+    def save_final_json(self):
+        """Save final JSON with new format: video, camera, total_pipes, pipe_info"""
+        import os
+        video_filename = os.path.basename(self.video_path)
+        
+        final_data = {
+            "video": video_filename,
+            "camera": self.camera_id,
+            "total_pipes": len(self.pipe_detections),
+            "pipe_info": self.pipe_detections
+        }
+        
+        with open(self.output_json_path, 'w') as f:
+            json.dump(final_data, f, indent=2)
+        
+        print(f"📄 Final JSON saved to {self.output_json_path}")
+        print(f"   Video: {video_filename}")
+        print(f"   Camera: {self.camera_id}")
+        print(f"   Total unique pipes detected: {len(self.pipe_detections)}")
     
     def process(self) -> None:
         logger.info("Starting analysis for camera: {}".format(self.camera_id))
@@ -200,8 +268,10 @@ class DIP:
                         confidence = "N/A"
                     
                     print(f"   Pipe {i+1}: YOLO ID={tracker_id}, Confidence={confidence:.2f}" if isinstance(confidence, (int, float)) else f"   Pipe {i+1}: YOLO ID={tracker_id}, Confidence={confidence}")
-
-            if script_start_shift != shift:
+                    
+                    # Save pipe detection to JSON if we have valid tracker_id and confidence
+                    if tracker_id != "N/A" and confidence != "N/A" and isinstance(tracker_id, (int, float, np.int64, np.float32)) and isinstance(confidence, (int, float, np.int64, np.float32)):
+                        self.save_pipe_detection_to_json(int(tracker_id), video_time_formatted, current_frame, float(confidence))
                 logger.info(f"changing shift from {script_start_shift} to {shift} at {datetime.fromtimestamp(get_ist_timestamp())}")
                 script_start_shift = shift
                 line_counter.in_count = 1
@@ -238,6 +308,9 @@ class DIP:
             
             response = self.init_response()
             self.last_push_timestamp = time.time()
+
+        # Save final JSON at the end of processing
+        self.save_final_json()
 
 
 
