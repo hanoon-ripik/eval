@@ -2,7 +2,7 @@ import json
 import os
 
 # JSON file path - modify this variable to point to your JSON file
-JSON_FILE_PATH = "digital_meter_reading/gemini_2_5_pro_preview_tonnage.json"
+JSON_FILE_PATH = "digital_meter_reading/gemini_1_5_flash_tonnage.json"
 
 def levenshtein_distance(s1, s2):
     """

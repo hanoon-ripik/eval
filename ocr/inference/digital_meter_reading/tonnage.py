@@ -20,7 +20,7 @@ from models import gemini_1_5_flash, gemini_1_5_pro, gemini_2_0_flash, gemini_2_
 
 # Configuration
 MODEL_TO_USE = gemini_1_5_flash 
-FOLDER_PATH = "/Users/hanoon/Documents/eval/utils/ocr/data/digital_meter_readings/birla_copper/downloads"  # Change this to your folder path
+FOLDER_PATH = "/Users/hanoon/Documents/eval/ocr/data/digital_meter_readings/birla_copper/downloads"  # Change this to your folder path
 SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp']
 
 # System instruction for tonnage recognition
@@ -135,7 +135,7 @@ def test_folder_ocr():
 def test_all_models_on_folder():
     """Test all available models with tonnage recognition on the folder"""
     models = [
-        ("gemini_2_5_pro_preview", gemini_2_5_pro_preview),
+        ("gemini_1_5_flash", gemini_1_5_flash),
     ]
     
     image_files = get_image_files(FOLDER_PATH)
