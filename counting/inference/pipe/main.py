@@ -50,7 +50,7 @@ class DIP:
         self.produce : str = produce
 
         self.last_analysis_timestamp : float = time.time()
-        self.time_delta : float = config['analysis-time-delta']
+        self.time_delta : float = 1.0 / 6.0  # 6 FPS inference rate (0.167 seconds)
         self.last_push_timestamp : float = time.time()
         self.push_delta : float = 2
 
@@ -120,6 +120,9 @@ class DIP:
 
             if result.boxes.id is not None:
                 detections.tracker_id = result.boxes.id.cpu().numpy().astype(int)
+                print(f"DEBUG: Tracker IDs assigned: {detections.tracker_id}")
+            else:
+                print("DEBUG: No tracker IDs from YOLO model")
 
             labels = [
                 f"{tracker_id} {self.model.model.names[class_id]} {confidence:0.2f}"
@@ -174,7 +177,23 @@ class DIP:
             else:
                 self.dia_handler.clear()
 
-            logger.info("Analysis done")
+            # Only print when pipes are detected
+            if len(detections) > 0:
+                print(f"\n🔍 PIPE DETECTED - Frame {self.cap.get_current_frame_number()}")
+                print(f"   Detections: {len(detections)} pipe(s)")
+                print(f"   DEBUG: detections.tracker_id = {detections.tracker_id}")
+                for i in range(len(detections)):
+                    if hasattr(detections, 'tracker_id') and detections.tracker_id is not None and i < len(detections.tracker_id):
+                        tracker_id = detections.tracker_id[i]
+                    else:
+                        tracker_id = "N/A"
+                    
+                    if hasattr(detections, 'confidence') and detections.confidence is not None and i < len(detections.confidence):
+                        confidence = detections.confidence[i]
+                    else:
+                        confidence = "N/A"
+                    
+                    print(f"   Pipe {i+1}: YOLO ID={tracker_id}, Confidence={confidence:.2f}" if isinstance(confidence, (int, float)) else f"   Pipe {i+1}: YOLO ID={tracker_id}, Confidence={confidence}")
 
             if script_start_shift != shift:
                 logger.info(f"changing shift from {script_start_shift} to {shift} at {datetime.fromtimestamp(get_ist_timestamp())}")
@@ -190,30 +209,28 @@ class DIP:
             response['createdAt'] = timestamp_curr
             response['cameraId'] = cam_to_ccm_mapping[self.camera_id]
 
-            # Print the output instead of sending to SQS
-            print("\n" + "="*50)
-            print(f"ANALYSIS RESULT - Frame {self.cap.get_current_frame_number()}")
-            print("="*50)
-            print(f"Camera ID: {response['cameraId']}")
-            print(f"Image ID: {response['imageId']}")
-            print(f"Created At: {response['createdAt']}")
-            print(f"Client ID: {response['clientId']}")
-            print(f"Material: {response['material']}")
-            print(f"Line Counter In: {line_counter.in_count}")
-            print(f"Line Counter Out: {line_counter.out_count}")
-            
+            # Only print analysis results when pipes are detected
             if response['pipeData']:
+                print("\n" + "="*50)
+                print(f"ANALYSIS RESULT - Frame {self.cap.get_current_frame_number()}")
+                print("="*50)
+                print(f"Camera ID: {response['cameraId']}")
+                print(f"Image ID: {response['imageId']}")
+                print(f"Created At: {response['createdAt']}")
+                print(f"Client ID: {response['clientId']}")
+                print(f"Material: {response['material']}")
+                print(f"Line Counter In: {line_counter.in_count}")
+                print(f"Line Counter Out: {line_counter.out_count}")
+                
                 print("Pipe Data:")
                 for pipe in response['pipeData']:
                     print(f"  - Pipe ID: {pipe['pipeId']}")
                     print(f"    Median Diameter (MM): {pipe['medianDiaMM']}")
-            else:
-                print("No pipes detected in this frame")
-            
-            print("="*50)
+                
+                print("="*50)
+                logger.info("Data processed and printed")
             
             response = self.init_response()
-            logger.info("Data processed and printed")
             self.last_push_timestamp = time.time()
 
 
