@@ -90,12 +90,27 @@ class DIP:
             try:
                 with open(self.output_json_path, 'r') as f:
                     data = json.load(f)
-                    # Extract existing YOLO IDs from pipe_info to avoid duplicates
+                
+                # Handle both old format (single object) and new format (array)
+                if isinstance(data, dict):
+                    # Old format - single object
                     if 'pipe_info' in data:
                         for pipe in data['pipe_info']:
                             if 'yolo_id' in pipe:
                                 self.saved_yolo_ids.add(pipe['yolo_id'])
-                print(f"Loaded existing JSON with {len(self.saved_yolo_ids)} unique YOLO IDs")
+                elif isinstance(data, list):
+                    # New format - array of objects
+                    video_filename = os.path.basename(self.video_path)
+                    # Find entry for current video+camera combination
+                    for entry in data:
+                        if entry.get("video") == video_filename and entry.get("camera") == self.camera_id:
+                            if 'pipe_info' in entry:
+                                for pipe in entry['pipe_info']:
+                                    if 'yolo_id' in pipe:
+                                        self.saved_yolo_ids.add(pipe['yolo_id'])
+                            break
+                
+                print(f"Loaded existing JSON with {len(self.saved_yolo_ids)} unique YOLO IDs for this video+camera")
             except (json.JSONDecodeError, KeyError) as e:
                 print(f"Error loading existing JSON: {e}. Starting with empty file.")
                 self.saved_yolo_ids = set()
@@ -127,20 +142,56 @@ class DIP:
         import os
         video_filename = os.path.basename(self.video_path)
         
-        final_data = {
+        # Create new entry for this video+camera combination
+        new_entry = {
             "video": video_filename,
             "camera": self.camera_id,
             "total_pipes": len(self.pipe_detections),
             "pipe_info": self.pipe_detections
         }
         
+        # Load existing data if file exists
+        if os.path.exists(self.output_json_path):
+            try:
+                with open(self.output_json_path, 'r') as f:
+                    existing_data = json.load(f)
+                
+                # If existing data is a single object (old format), convert to list
+                if isinstance(existing_data, dict):
+                    existing_data = [existing_data]
+                elif not isinstance(existing_data, list):
+                    existing_data = []
+                    
+            except (json.JSONDecodeError, KeyError) as e:
+                print(f"Error loading existing JSON: {e}. Starting with new data.")
+                existing_data = []
+        else:
+            existing_data = []
+        
+        # Check if entry for this video+camera combination already exists
+        updated = False
+        for i, entry in enumerate(existing_data):
+            if entry.get("video") == video_filename and entry.get("camera") == self.camera_id:
+                # Update existing entry
+                existing_data[i] = new_entry
+                updated = True
+                print(f"📄 Updated existing entry for {video_filename} + Camera {self.camera_id}")
+                break
+        
+        # If no existing entry found, add new one
+        if not updated:
+            existing_data.append(new_entry)
+            print(f"📄 Added new entry for {video_filename} + Camera {self.camera_id}")
+        
+        # Save updated data
         with open(self.output_json_path, 'w') as f:
-            json.dump(final_data, f, indent=2)
+            json.dump(existing_data, f, indent=2)
         
         print(f"📄 Final JSON saved to {self.output_json_path}")
         print(f"   Video: {video_filename}")
         print(f"   Camera: {self.camera_id}")
         print(f"   Total unique pipes detected: {len(self.pipe_detections)}")
+        print(f"   Total entries in JSON: {len(existing_data)}")
     
     def process(self) -> None:
         logger.info("Starting analysis for camera: {}".format(self.camera_id))

@@ -89,9 +89,6 @@ def test_single_video(video_path, model_func=None):
         return result
         
     except Exception as e:
-        print(f"ERROR processing {os.path.basename(video_path)}: {e}")
-        # Add longer delay on error
-        time.sleep(5)
         # Return 0 count for failed videos
         filename = os.path.basename(video_path)
         return {
@@ -105,27 +102,20 @@ def test_folder_pipe_counting():
     video_files = get_video_files(FOLDER_PATH)
     
     if not video_files:
-        print(f"No video files found in {FOLDER_PATH}")
         return
-    
-    print(f"Found {len(video_files)} video files to process")
     
     # Initialize empty JSON array
     all_results = []
-    result_count = 0
     
     # Process each video with progress bar
     for video_path in tqdm(video_files, desc="Counting pipes in videos"):
         result = test_single_video(video_path)
         if result:
             all_results.append(result)
-            result_count += 1
             
             # Save updated results to JSON file after each video
             with open('pipe_counts.json', 'w') as f:
                 json.dump(all_results, f, indent=2)
-    
-    print(f"Saved {result_count} pipe counting results to pipe_counts.json")
 
 def test_all_models_on_folder():
     """Test all available models with pipe counting on the folder"""
@@ -139,17 +129,11 @@ def test_all_models_on_folder():
     video_files = get_video_files(FOLDER_PATH)
     
     if not video_files:
-        print(f"No video files found in {FOLDER_PATH}")
         return
     
-    print(f"Found {len(video_files)} video files to process")
-    
     for model_name, model_func in models:
-        print(f"\nTesting {model_name}...")
-        
         # Initialize empty JSON array for each model
         model_results = []
-        result_count = 0
         
         for video_path in tqdm(video_files, desc=f"Pipe counting with {model_name}"):
             try:
@@ -174,16 +158,12 @@ def test_all_models_on_folder():
                 }
                 
                 model_results.append(result)
-                result_count += 1
                 
                 # Save updated results to JSON file named after the model
                 with open(f'{model_name}_pipe_counts.json', 'w') as f:
                     json.dump(model_results, f, indent=2)
                 
             except Exception as e:
-                print(f"ERROR with {model_name} on {os.path.basename(video_path)}: {e}")
-                # Add longer delay on error
-                time.sleep(5)
                 # Add failed result with 0 count
                 filename = os.path.basename(video_path)
                 failed_result = {
@@ -191,20 +171,16 @@ def test_all_models_on_folder():
                     "count": 0
                 }
                 model_results.append(failed_result)
-        
-        print(f"Saved {result_count} results to {model_name}_pipe_counts.json")
 
 def test_sample_videos():
     """Test pipe counting on just a few sample videos for quick testing"""
     video_files = get_video_files(FOLDER_PATH)
     
     if not video_files:
-        print(f"No video files found in {FOLDER_PATH}")
         return
     
     # Take only first 5 videos for quick testing
     sample_videos = video_files[:5]
-    print(f"Testing on {len(sample_videos)} sample videos...")
     
     # Initialize empty JSON array
     sample_results = []
@@ -214,7 +190,6 @@ def test_sample_videos():
         result = test_single_video(video_path)
         if result:
             sample_results.append(result)
-            print(f"Video: {result['video']}, Pipe Count: {result['count']}")
         
         # Add delay between videos
         time.sleep(1)
@@ -222,15 +197,13 @@ def test_sample_videos():
     # Save sample results
     with open('sample_pipe_counts.json', 'w') as f:
         json.dump(sample_results, f, indent=2)
-    
-    print(f"Saved {len(sample_results)} sample results to sample_pipe_counts.json")
 
 if __name__ == "__main__":
     # Test just a few sample videos for quick testing (recommended first)
-    test_sample_videos()
+    # test_sample_videos()
     
     # Uncomment to test single model on all videos in folder
-    # test_folder_pipe_counting()
+    test_folder_pipe_counting()
     
     # Uncomment to test all models on folder (this will take much longer)
     # test_all_models_on_folder()

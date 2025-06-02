@@ -1,15 +1,1557 @@
-{
-  "video": "0.mp4",
-  "camera": 208,
-  "total_pipes": 2,
-  "pipe_info": [
-    {
-      "yolo_id": 2,
-      "confidence": 0.6985793709754944
-    },
-    {
-      "yolo_id": 6,
-      "confidence": 0.8889939188957214
-    }
-  ]
-}
+[
+  {
+    "video": "0.mp4",
+    "camera": 208,
+    "total_pipes": 4,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.669154942035675
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.7819774746894836
+      },
+      {
+        "yolo_id": 23,
+        "confidence": 0.6898014545440674
+      },
+      {
+        "yolo_id": 24,
+        "confidence": 0.7183777689933777
+      }
+    ]
+  },
+  {
+    "video": "1.mp4",
+    "camera": 208,
+    "total_pipes": 6,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.875916063785553
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.686700165271759
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.6943768858909607
+      },
+      {
+        "yolo_id": 6,
+        "confidence": 0.7325704097747803
+      },
+      {
+        "yolo_id": 10,
+        "confidence": 0.8552363514900208
+      },
+      {
+        "yolo_id": 18,
+        "confidence": 0.5529444217681885
+      }
+    ]
+  },
+  {
+    "video": "10.mp4",
+    "camera": 208,
+    "total_pipes": 5,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7921331524848938
+      },
+      {
+        "yolo_id": 9,
+        "confidence": 0.6700018048286438
+      },
+      {
+        "yolo_id": 14,
+        "confidence": 0.7945537567138672
+      },
+      {
+        "yolo_id": 18,
+        "confidence": 0.743276834487915
+      },
+      {
+        "yolo_id": 19,
+        "confidence": 0.9013340473175049
+      }
+    ]
+  },
+  {
+    "video": "100.mp4",
+    "camera": 208,
+    "total_pipes": 9,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6253991723060608
+      },
+      {
+        "yolo_id": 5,
+        "confidence": 0.5760789513587952
+      },
+      {
+        "yolo_id": 8,
+        "confidence": 0.8502804636955261
+      },
+      {
+        "yolo_id": 10,
+        "confidence": 0.6953927874565125
+      },
+      {
+        "yolo_id": 13,
+        "confidence": 0.8508962392807007
+      },
+      {
+        "yolo_id": 14,
+        "confidence": 0.8747484683990479
+      },
+      {
+        "yolo_id": 18,
+        "confidence": 0.6377429366111755
+      },
+      {
+        "yolo_id": 21,
+        "confidence": 0.786638081073761
+      },
+      {
+        "yolo_id": 24,
+        "confidence": 0.7590106129646301
+      }
+    ]
+  },
+  {
+    "video": "101.mp4",
+    "camera": 208,
+    "total_pipes": 7,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7226464152336121
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.6718999743461609
+      },
+      {
+        "yolo_id": 5,
+        "confidence": 0.6703632473945618
+      },
+      {
+        "yolo_id": 6,
+        "confidence": 0.7558002471923828
+      },
+      {
+        "yolo_id": 11,
+        "confidence": 0.81126868724823
+      },
+      {
+        "yolo_id": 12,
+        "confidence": 0.8916303515434265
+      },
+      {
+        "yolo_id": 16,
+        "confidence": 0.7270158529281616
+      }
+    ]
+  },
+  {
+    "video": "102.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7422154545783997
+      },
+      {
+        "yolo_id": 5,
+        "confidence": 0.7534638047218323
+      }
+    ]
+  },
+  {
+    "video": "103.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 17,
+        "confidence": 0.6966356635093689
+      }
+    ]
+  },
+  {
+    "video": "104.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6088911890983582
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.6326283812522888
+      }
+    ]
+  },
+  {
+    "video": "11.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6510751247406006
+      },
+      {
+        "yolo_id": 12,
+        "confidence": 0.8107709884643555
+      }
+    ]
+  },
+  {
+    "video": "12.mp4",
+    "camera": 208,
+    "total_pipes": 4,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7693455815315247
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.8814523220062256
+      },
+      {
+        "yolo_id": 3,
+        "confidence": 0.6110563278198242
+      },
+      {
+        "yolo_id": 16,
+        "confidence": 0.6657032370567322
+      }
+    ]
+  },
+  {
+    "video": "13.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7016462683677673
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.7321658134460449
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.539289116859436
+      }
+    ]
+  },
+  {
+    "video": "14.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.524756908416748
+      }
+    ]
+  },
+  {
+    "video": "15.mp4",
+    "camera": 208,
+    "total_pipes": 7,
+    "pipe_info": [
+      {
+        "yolo_id": 3,
+        "confidence": 0.8242042064666748
+      },
+      {
+        "yolo_id": 10,
+        "confidence": 0.8506804704666138
+      },
+      {
+        "yolo_id": 12,
+        "confidence": 0.7284276485443115
+      },
+      {
+        "yolo_id": 13,
+        "confidence": 0.8496553301811218
+      },
+      {
+        "yolo_id": 14,
+        "confidence": 0.7401747703552246
+      },
+      {
+        "yolo_id": 19,
+        "confidence": 0.9023526906967163
+      },
+      {
+        "yolo_id": 21,
+        "confidence": 0.7340181469917297
+      }
+    ]
+  },
+  {
+    "video": "16.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "17.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 8,
+        "confidence": 0.641036868095398
+      }
+    ]
+  },
+  {
+    "video": "18.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "19.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 3,
+        "confidence": 0.659110426902771
+      }
+    ]
+  },
+  {
+    "video": "2.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.8761775493621826
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.7225602269172668
+      }
+    ]
+  },
+  {
+    "video": "20.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "21.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7891049981117249
+      }
+    ]
+  },
+  {
+    "video": "22.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "23.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "24.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "25.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "26.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "27.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "28.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "29.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 5,
+        "confidence": 0.6695820093154907
+      },
+      {
+        "yolo_id": 6,
+        "confidence": 0.7773097157478333
+      }
+    ]
+  },
+  {
+    "video": "3.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.8853375911712646
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.7236776351928711
+      }
+    ]
+  },
+  {
+    "video": "30.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 14,
+        "confidence": 0.7632401585578918
+      }
+    ]
+  },
+  {
+    "video": "31.mp4",
+    "camera": 208,
+    "total_pipes": 4,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6077501177787781
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.7604467868804932
+      },
+      {
+        "yolo_id": 9,
+        "confidence": 0.779892086982727
+      },
+      {
+        "yolo_id": 12,
+        "confidence": 0.8919790387153625
+      }
+    ]
+  },
+  {
+    "video": "32.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7377036213874817
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.732166051864624
+      },
+      {
+        "yolo_id": 6,
+        "confidence": 0.7061694860458374
+      }
+    ]
+  },
+  {
+    "video": "33.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7202982902526855
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.8655181527137756
+      }
+    ]
+  },
+  {
+    "video": "34.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 5,
+        "confidence": 0.7897313237190247
+      },
+      {
+        "yolo_id": 11,
+        "confidence": 0.707098126411438
+      },
+      {
+        "yolo_id": 15,
+        "confidence": 0.8824335932731628
+      }
+    ]
+  },
+  {
+    "video": "35.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 5,
+        "confidence": 0.76980060338974
+      },
+      {
+        "yolo_id": 16,
+        "confidence": 0.7366502285003662
+      }
+    ]
+  },
+  {
+    "video": "36.mp4",
+    "camera": 208,
+    "total_pipes": 6,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6720808744430542
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.5839224457740784
+      },
+      {
+        "yolo_id": 5,
+        "confidence": 0.674074113368988
+      },
+      {
+        "yolo_id": 10,
+        "confidence": 0.7599594593048096
+      },
+      {
+        "yolo_id": 12,
+        "confidence": 0.8841596841812134
+      },
+      {
+        "yolo_id": 16,
+        "confidence": 0.6576824188232422
+      }
+    ]
+  },
+  {
+    "video": "37.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7771201133728027
+      },
+      {
+        "yolo_id": 8,
+        "confidence": 0.7880662083625793
+      }
+    ]
+  },
+  {
+    "video": "38.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 5,
+        "confidence": 0.7761064171791077
+      },
+      {
+        "yolo_id": 19,
+        "confidence": 0.8575817942619324
+      }
+    ]
+  },
+  {
+    "video": "39.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.8531160950660706
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.7044745087623596
+      },
+      {
+        "yolo_id": 5,
+        "confidence": 0.8594144582748413
+      }
+    ]
+  },
+  {
+    "video": "4.mp4",
+    "camera": 208,
+    "total_pipes": 8,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6903524398803711
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.5288617014884949
+      },
+      {
+        "yolo_id": 9,
+        "confidence": 0.9154971837997437
+      },
+      {
+        "yolo_id": 11,
+        "confidence": 0.7626545429229736
+      },
+      {
+        "yolo_id": 20,
+        "confidence": 0.7736007571220398
+      },
+      {
+        "yolo_id": 21,
+        "confidence": 0.8794881105422974
+      },
+      {
+        "yolo_id": 22,
+        "confidence": 0.7449170351028442
+      },
+      {
+        "yolo_id": 23,
+        "confidence": 0.7492475509643555
+      }
+    ]
+  },
+  {
+    "video": "40.mp4",
+    "camera": 208,
+    "total_pipes": 8,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.771014392375946
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.8061609864234924
+      },
+      {
+        "yolo_id": 5,
+        "confidence": 0.9246863126754761
+      },
+      {
+        "yolo_id": 9,
+        "confidence": 0.6668792963027954
+      },
+      {
+        "yolo_id": 10,
+        "confidence": 0.7330528497695923
+      },
+      {
+        "yolo_id": 12,
+        "confidence": 0.8501137495040894
+      },
+      {
+        "yolo_id": 13,
+        "confidence": 0.7330302596092224
+      },
+      {
+        "yolo_id": 15,
+        "confidence": 0.7731433510780334
+      }
+    ]
+  },
+  {
+    "video": "41.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 6,
+        "confidence": 0.7900654673576355
+      },
+      {
+        "yolo_id": 15,
+        "confidence": 0.9104165434837341
+      },
+      {
+        "yolo_id": 16,
+        "confidence": 0.762176513671875
+      }
+    ]
+  },
+  {
+    "video": "42.mp4",
+    "camera": 208,
+    "total_pipes": 4,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.73090660572052
+      },
+      {
+        "yolo_id": 9,
+        "confidence": 0.7556285858154297
+      },
+      {
+        "yolo_id": 14,
+        "confidence": 0.9247750043869019
+      },
+      {
+        "yolo_id": 15,
+        "confidence": 0.7171237468719482
+      }
+    ]
+  },
+  {
+    "video": "43.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7290040254592896
+      },
+      {
+        "yolo_id": 5,
+        "confidence": 0.6857552528381348
+      },
+      {
+        "yolo_id": 6,
+        "confidence": 0.8207252621650696
+      }
+    ]
+  },
+  {
+    "video": "44.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 12,
+        "confidence": 0.7494065165519714
+      }
+    ]
+  },
+  {
+    "video": "45.mp4",
+    "camera": 208,
+    "total_pipes": 4,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6548423767089844
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.6917789578437805
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.7189806699752808
+      },
+      {
+        "yolo_id": 5,
+        "confidence": 0.903875470161438
+      }
+    ]
+  },
+  {
+    "video": "46.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 9,
+        "confidence": 0.7561399340629578
+      },
+      {
+        "yolo_id": 12,
+        "confidence": 0.879517674446106
+      }
+    ]
+  },
+  {
+    "video": "47.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7465736269950867
+      }
+    ]
+  },
+  {
+    "video": "48.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7069982886314392
+      }
+    ]
+  },
+  {
+    "video": "49.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7794209122657776
+      }
+    ]
+  },
+  {
+    "video": "5.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7247292399406433
+      }
+    ]
+  },
+  {
+    "video": "50.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7594496607780457
+      },
+      {
+        "yolo_id": 2,
+        "confidence": 0.7235548496246338
+      },
+      {
+        "yolo_id": 7,
+        "confidence": 0.880378007888794
+      }
+    ]
+  },
+  {
+    "video": "51.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 8,
+        "confidence": 0.7526928186416626
+      }
+    ]
+  },
+  {
+    "video": "52.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6411343216896057
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.6490761041641235
+      },
+      {
+        "yolo_id": 11,
+        "confidence": 0.6969100832939148
+      }
+    ]
+  },
+  {
+    "video": "53.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6375687718391418
+      },
+      {
+        "yolo_id": 6,
+        "confidence": 0.896407961845398
+      }
+    ]
+  },
+  {
+    "video": "54.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.686609148979187
+      }
+    ]
+  },
+  {
+    "video": "55.mp4",
+    "camera": 208,
+    "total_pipes": 5,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7269492149353027
+      },
+      {
+        "yolo_id": 9,
+        "confidence": 0.7508509755134583
+      },
+      {
+        "yolo_id": 13,
+        "confidence": 0.7823428511619568
+      },
+      {
+        "yolo_id": 18,
+        "confidence": 0.5895490050315857
+      },
+      {
+        "yolo_id": 20,
+        "confidence": 0.8332966566085815
+      }
+    ]
+  },
+  {
+    "video": "56.mp4",
+    "camera": 208,
+    "total_pipes": 5,
+    "pipe_info": [
+      {
+        "yolo_id": 5,
+        "confidence": 0.7632202506065369
+      },
+      {
+        "yolo_id": 18,
+        "confidence": 0.7593957781791687
+      },
+      {
+        "yolo_id": 19,
+        "confidence": 0.6207741498947144
+      },
+      {
+        "yolo_id": 20,
+        "confidence": 0.7327837347984314
+      },
+      {
+        "yolo_id": 22,
+        "confidence": 0.5009781122207642
+      }
+    ]
+  },
+  {
+    "video": "57.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.616774320602417
+      },
+      {
+        "yolo_id": 6,
+        "confidence": 0.5455827116966248
+      }
+    ]
+  },
+  {
+    "video": "58.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7422458529472351
+      },
+      {
+        "yolo_id": 3,
+        "confidence": 0.7151468396186829
+      }
+    ]
+  },
+  {
+    "video": "59.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.8677020072937012
+      },
+      {
+        "yolo_id": 3,
+        "confidence": 0.6240770816802979
+      },
+      {
+        "yolo_id": 13,
+        "confidence": 0.8683386445045471
+      }
+    ]
+  },
+  {
+    "video": "6.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 5,
+        "confidence": 0.6538207530975342
+      },
+      {
+        "yolo_id": 13,
+        "confidence": 0.8316942453384399
+      }
+    ]
+  },
+  {
+    "video": "60.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "61.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 7,
+        "confidence": 0.8127026557922363
+      }
+    ]
+  },
+  {
+    "video": "62.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 5,
+        "confidence": 0.5355234146118164
+      }
+    ]
+  },
+  {
+    "video": "63.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 21,
+        "confidence": 0.5442197322845459
+      }
+    ]
+  },
+  {
+    "video": "64.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "65.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6888983249664307
+      }
+    ]
+  },
+  {
+    "video": "66.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7788406610488892
+      },
+      {
+        "yolo_id": 10,
+        "confidence": 0.675836980342865
+      }
+    ]
+  },
+  {
+    "video": "67.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.8908395767211914
+      },
+      {
+        "yolo_id": 9,
+        "confidence": 0.7239453196525574
+      }
+    ]
+  },
+  {
+    "video": "68.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "69.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 20,
+        "confidence": 0.7261304259300232
+      }
+    ]
+  },
+  {
+    "video": "7.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "70.mp4",
+    "camera": 208,
+    "total_pipes": 9,
+    "pipe_info": [
+      {
+        "yolo_id": 2,
+        "confidence": 0.7514458298683167
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.8772465586662292
+      },
+      {
+        "yolo_id": 8,
+        "confidence": 0.7895218133926392
+      },
+      {
+        "yolo_id": 9,
+        "confidence": 0.8795599937438965
+      },
+      {
+        "yolo_id": 11,
+        "confidence": 0.5107298493385315
+      },
+      {
+        "yolo_id": 12,
+        "confidence": 0.8973007202148438
+      },
+      {
+        "yolo_id": 13,
+        "confidence": 0.6340886354446411
+      },
+      {
+        "yolo_id": 14,
+        "confidence": 0.7521750926971436
+      },
+      {
+        "yolo_id": 16,
+        "confidence": 0.642983078956604
+      }
+    ]
+  },
+  {
+    "video": "71.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7323291897773743
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.7669135928153992
+      },
+      {
+        "yolo_id": 6,
+        "confidence": 0.7288317084312439
+      }
+    ]
+  },
+  {
+    "video": "72.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6232016086578369
+      }
+    ]
+  },
+  {
+    "video": "73.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "74.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "75.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "76.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 8,
+        "confidence": 0.6626870632171631
+      }
+    ]
+  },
+  {
+    "video": "77.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 7,
+        "confidence": 0.7827698588371277
+      }
+    ]
+  },
+  {
+    "video": "78.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 3,
+        "confidence": 0.6630536913871765
+      }
+    ]
+  },
+  {
+    "video": "79.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7087404131889343
+      }
+    ]
+  },
+  {
+    "video": "8.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.89046710729599
+      },
+      {
+        "yolo_id": 16,
+        "confidence": 0.899050235748291
+      },
+      {
+        "yolo_id": 19,
+        "confidence": 0.712795615196228
+      }
+    ]
+  },
+  {
+    "video": "80.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7645102143287659
+      },
+      {
+        "yolo_id": 13,
+        "confidence": 0.8161877393722534
+      },
+      {
+        "yolo_id": 14,
+        "confidence": 0.8790571093559265
+      }
+    ]
+  },
+  {
+    "video": "81.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7523361444473267
+      },
+      {
+        "yolo_id": 19,
+        "confidence": 0.7753117680549622
+      }
+    ]
+  },
+  {
+    "video": "82.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 8,
+        "confidence": 0.734352707862854
+      }
+    ]
+  },
+  {
+    "video": "83.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6810102462768555
+      },
+      {
+        "yolo_id": 9,
+        "confidence": 0.7445158958435059
+      }
+    ]
+  },
+  {
+    "video": "84.mp4",
+    "camera": 208,
+    "total_pipes": 3,
+    "pipe_info": [
+      {
+        "yolo_id": 7,
+        "confidence": 0.5809727311134338
+      },
+      {
+        "yolo_id": 15,
+        "confidence": 0.7065166234970093
+      },
+      {
+        "yolo_id": 16,
+        "confidence": 0.7307591438293457
+      }
+    ]
+  },
+  {
+    "video": "85.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6284946799278259
+      }
+    ]
+  },
+  {
+    "video": "86.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "87.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 3,
+        "confidence": 0.5068836212158203
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.757209300994873
+      }
+    ]
+  },
+  {
+    "video": "88.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.732994019985199
+      },
+      {
+        "yolo_id": 15,
+        "confidence": 0.6885885000228882
+      }
+    ]
+  },
+  {
+    "video": "89.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7769215703010559
+      }
+    ]
+  },
+  {
+    "video": "9.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.6638256907463074
+      }
+    ]
+  },
+  {
+    "video": "90.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.7056989669799805
+      }
+    ]
+  },
+  {
+    "video": "91.mp4",
+    "camera": 208,
+    "total_pipes": 1,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.9200502634048462
+      }
+    ]
+  },
+  {
+    "video": "92.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "93.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "94.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "95.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "96.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "97.mp4",
+    "camera": 208,
+    "total_pipes": 0,
+    "pipe_info": []
+  },
+  {
+    "video": "98.mp4",
+    "camera": 208,
+    "total_pipes": 4,
+    "pipe_info": [
+      {
+        "yolo_id": 2,
+        "confidence": 0.8689166307449341
+      },
+      {
+        "yolo_id": 3,
+        "confidence": 0.6222299337387085
+      },
+      {
+        "yolo_id": 4,
+        "confidence": 0.7146625518798828
+      },
+      {
+        "yolo_id": 10,
+        "confidence": 0.7155009508132935
+      }
+    ]
+  },
+  {
+    "video": "99.mp4",
+    "camera": 208,
+    "total_pipes": 2,
+    "pipe_info": [
+      {
+        "yolo_id": 1,
+        "confidence": 0.8299508690834045
+      },
+      {
+        "yolo_id": 8,
+        "confidence": 0.6466944217681885
+      }
+    ]
+  }
+]
