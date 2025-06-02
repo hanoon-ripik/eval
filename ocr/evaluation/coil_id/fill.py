@@ -11,7 +11,7 @@ import os
 from typing import List, Dict, Any
 
 # Configuration
-TARGET_JSON_FILE = "gemini_2_5_pro_preview_coil_id.json"  # File to modify
+TARGET_JSON_FILE = "gemini_1_5_pro_coil_id.json"  # File to modify
 ANNOTATED_JSON_FILE = "annotated.json"  # Source file
 
 

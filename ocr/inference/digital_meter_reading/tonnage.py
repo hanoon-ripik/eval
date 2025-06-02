@@ -16,7 +16,7 @@ models_dir = "/Users/hanoon/Documents/eval/external/gemini"
 if models_dir not in sys.path:
     sys.path.insert(0, models_dir)
 
-from models import gemini_1_5_flash, gemini_1_5_pro, gemini_2_0_flash, gemini_2_5_pro_preview
+from models import gemini_1_5_flash, gemini_1_5_pro, gemini_2_0_flash, gemini_2_5_flash_preview
 
 # Configuration
 MODEL_TO_USE = gemini_1_5_flash 
@@ -135,7 +135,7 @@ def test_folder_ocr():
 def test_all_models_on_folder():
     """Test all available models with tonnage recognition on the folder"""
     models = [
-        ("gemini_1_5_flash", gemini_1_5_flash),
+        ("gemini_2_5_flash_preview", gemini_2_5_flash_preview),
     ]
     
     image_files = get_image_files(FOLDER_PATH)
