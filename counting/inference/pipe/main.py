@@ -12,7 +12,7 @@ import json
 import os
 import numpy as np
 
-from video.reader import VideoReader
+import cv2
 
 from utils.logging import logger
 from utils.dip_utils import cam_to_ccm_mapping, get_ist_timestamp, get_shift, log_camera_down, log_camera_reconnected
@@ -46,7 +46,7 @@ class DIP:
 
         self.cross_point : int = config['ds-info']['line-start'][0]
 
-        self.cap : VideoReader = VideoReader(video_path)
+        self.cap : cv2.VideoCapture = cv2.VideoCapture(video_path)
         self.camera_id : str = config['cam-id']
         self.video_path : str = video_path
 
@@ -54,7 +54,7 @@ class DIP:
         self.produce : str = produce
 
         self.last_analysis_timestamp : float = time.time()
-        self.time_delta : float = 1.0 / 6.0  # 6 FPS inference rate (0.167 seconds)
+        self.time_delta : float = 0 # 6 FPS inference rate (0.167 seconds)
         self.last_push_timestamp : float = time.time()
         self.push_delta : float = 2
 
@@ -64,7 +64,7 @@ class DIP:
         self.this_shift_ids = set()
 
         # Initialize JSON tracking for unique YOLO IDs
-        self.output_json_path = "output.json"
+        self.output_json_path = "output_2.json"
         self.saved_yolo_ids = set()
         self.pipe_detections = []  # Store pipe info for final JSON
         self.load_existing_json()
@@ -296,8 +296,8 @@ class DIP:
             # Only print when pipes are detected
             if len(detections) > 0:
                 # Calculate video timestamp based on frame number and FPS
-                current_frame = self.cap.get_current_frame_number()
-                video_fps = self.cap.fps  # Get video FPS using property
+                current_frame = int(self.cap.get(cv2.CAP_PROP_POS_FRAMES))
+                video_fps = self.cap.get(cv2.CAP_PROP_FPS)  # Get video FPS using cv2 property
                 video_timestamp_seconds = current_frame / video_fps
                 
                 # Format as MM:SS.mmm
@@ -339,7 +339,7 @@ class DIP:
             # Only print analysis results when pipes are detected
             if response['pipeData']:
                 print("\n" + "="*50)
-                print(f"ANALYSIS RESULT - Frame {self.cap.get_current_frame_number()}")
+                print(f"ANALYSIS RESULT - Frame {int(self.cap.get(cv2.CAP_PROP_POS_FRAMES))}")
                 print("="*50)
                 print(f"Camera ID: {response['cameraId']}")
                 print(f"Image ID: {response['imageId']}")

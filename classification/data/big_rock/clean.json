@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/19/rajshree1_originalImage_2025-05-26_19-15-17.jpg",
+    "original_downloaded": "downloads/original/false/1_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 2,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/19/rajshree1_originalImage_2025-05-26_19-09-56.jpg",
+    "original_downloaded": "downloads/original/false/2_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 3,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/19/rajshree1_originalImage_2025-05-26_19-04-30.jpg",
+    "original_downloaded": "downloads/original/false/3_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 4,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-59-04.jpg",
+    "original_downloaded": "downloads/original/false/4_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 5,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-53-32.jpg",
+    "original_downloaded": "downloads/original/false/5_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 6,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-48-06.jpg",
+    "original_downloaded": "downloads/original/false/6_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 7,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-42-40.jpg",
+    "original_downloaded": "downloads/original/false/7_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 8,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-37-08.jpg",
+    "original_downloaded": "downloads/original/false/8_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 9,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-31-37.jpg",
+    "original_downloaded": "downloads/original/false/9_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 10,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-26-11.jpg",
+    "original_downloaded": "downloads/original/false/10_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 11,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-20-44.jpg",
+    "original_downloaded": "downloads/original/false/11_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 12,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-15-13.jpg",
+    "original_downloaded": "downloads/original/false/12_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 13,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-09-47.jpg",
+    "original_downloaded": "downloads/original/false/13_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 14,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-04-41.jpg",
+    "original_downloaded": "downloads/original/false/14_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 15,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-59-20.jpg",
+    "original_downloaded": "downloads/original/false/15_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 16,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-53-59.jpg",
+    "original_downloaded": "downloads/original/false/16_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 17,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-48-33.jpg",
+    "original_downloaded": "downloads/original/false/17_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 18,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-43-07.jpg",
+    "original_downloaded": "downloads/original/false/18_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 19,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-37-41.jpg",
+    "original_downloaded": "downloads/original/false/19_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 20,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-32-10.jpg",
+    "original_downloaded": "downloads/original/false/20_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 21,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-26-49.jpg",
+    "original_downloaded": "downloads/original/false/21_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 22,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-21-28.jpg",
+    "original_downloaded": "downloads/original/false/22_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 23,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-16-07.jpg",
+    "original_downloaded": "downloads/original/false/23_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 24,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-10-41.jpg",
+    "original_downloaded": "downloads/original/false/24_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 25,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-05-15.jpg",
+    "original_downloaded": "downloads/original/false/25_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 26,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-59-44.jpg",
+    "original_downloaded": "downloads/original/false/26_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 27,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-54-12.jpg",
+    "original_downloaded": "downloads/original/false/27_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 28,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-48-51.jpg",
+    "original_downloaded": "downloads/original/false/28_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 29,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-43-25.jpg",
+    "original_downloaded": "downloads/original/false/29_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 30,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-37-59.jpg",
+    "original_downloaded": "downloads/original/false/30_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 31,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-32-33.jpg",
+    "original_downloaded": "downloads/original/false/31_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 32,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-27-07.jpg",
+    "original_downloaded": "downloads/original/false/32_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 33,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-21-46.jpg",
+    "original_downloaded": "downloads/original/false/33_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 34,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-16-21.jpg",
+    "original_downloaded": "downloads/original/false/34_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 35,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-10-54.jpg",
+    "original_downloaded": "downloads/original/false/35_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 36,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-05-28.jpg",
+    "original_downloaded": "downloads/original/false/36_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 37,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-00-02.jpg",
+    "original_downloaded": "downloads/original/false/37_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 38,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-54-41.jpg",
+    "original_downloaded": "downloads/original/false/38_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 39,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-49-15.jpg",
+    "original_downloaded": "downloads/original/false/39_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 40,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-43-48.jpg",
+    "original_downloaded": "downloads/original/false/40_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 41,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-38-22.jpg",
+    "original_downloaded": "downloads/original/false/41_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 42,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-32-56.jpg",
+    "original_downloaded": "downloads/original/false/42_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 43,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-27-30.jpg",
+    "original_downloaded": "downloads/original/false/43_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 44,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-22-03.jpg",
+    "original_downloaded": "downloads/original/false/44_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 45,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-16-37.jpg",
+    "original_downloaded": "downloads/original/false/45_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 46,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-11-06.jpg",
+    "original_downloaded": "downloads/original/false/46_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 47,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-05-35.jpg",
+    "original_downloaded": "downloads/original/false/47_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 48,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-00-08.jpg",
+    "original_downloaded": "downloads/original/false/48_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 49,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-54-42.jpg",
+    "original_downloaded": "downloads/original/false/49_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 50,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-49-11.jpg",
+    "original_downloaded": "downloads/original/false/50_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 51,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-43-44.jpg",
+    "original_downloaded": "downloads/original/false/51_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 52,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-38-18.jpg",
+    "original_downloaded": "downloads/original/false/52_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 53,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-32-52.jpg",
+    "original_downloaded": "downloads/original/false/53_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 54,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-27-25.jpg",
+    "original_downloaded": "downloads/original/false/54_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 55,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-22-00.jpg",
+    "original_downloaded": "downloads/original/false/55_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 56,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-16-34.jpg",
+    "original_downloaded": "downloads/original/false/56_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 57,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-11-07.jpg",
+    "original_downloaded": "downloads/original/false/57_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 58,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-05-41.jpg",
+    "original_downloaded": "downloads/original/false/58_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 59,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-00-15.jpg",
+    "original_downloaded": "downloads/original/false/59_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 60,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-54-54.jpg",
+    "original_downloaded": "downloads/original/false/60_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 61,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-49-28.jpg",
+    "original_downloaded": "downloads/original/false/61_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 62,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-44-02.jpg",
+    "original_downloaded": "downloads/original/false/62_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 63,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-38-36.jpg",
+    "original_downloaded": "downloads/original/false/63_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 64,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-33-10.jpg",
+    "original_downloaded": "downloads/original/false/64_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 65,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-27-44.jpg",
+    "original_downloaded": "downloads/original/false/65_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 66,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-22-18.jpg",
+    "original_downloaded": "downloads/original/false/66_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 67,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-16-52.jpg",
+    "original_downloaded": "downloads/original/false/67_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 68,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-11-26.jpg",
+    "original_downloaded": "downloads/original/false/68_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 69,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-06-00.jpg",
+    "original_downloaded": "downloads/original/false/69_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 70,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-00-29.jpg",
+    "original_downloaded": "downloads/original/false/70_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 71,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-55-02.jpg",
+    "original_downloaded": "downloads/original/false/71_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 72,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-49-36.jpg",
+    "original_downloaded": "downloads/original/false/72_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 73,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-44-10.jpg",
+    "original_downloaded": "downloads/original/false/73_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 74,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-38-39.jpg",
+    "original_downloaded": "downloads/original/false/74_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 75,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-33-18.jpg",
+    "original_downloaded": "downloads/original/false/75_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 76,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-27-57.jpg",
+    "original_downloaded": "downloads/original/false/76_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 77,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-22-36.jpg",
+    "original_downloaded": "downloads/original/false/77_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 78,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-17-10.jpg",
+    "original_downloaded": "downloads/original/false/78_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 79,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-11-43.jpg",
+    "original_downloaded": "downloads/original/false/79_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 80,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-06-17.jpg",
+    "original_downloaded": "downloads/original/false/80_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 81,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-00-51.jpg",
+    "original_downloaded": "downloads/original/false/81_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 82,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-55-24.jpg",
+    "original_downloaded": "downloads/original/false/82_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 83,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-49-53.jpg",
+    "original_downloaded": "downloads/original/false/83_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 84,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-44-27.jpg",
+    "original_downloaded": "downloads/original/false/84_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 85,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-39-01.jpg",
+    "original_downloaded": "downloads/original/false/85_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 86,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-33-34.jpg",
+    "original_downloaded": "downloads/original/false/86_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 87,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-28-07.jpg",
+    "original_downloaded": "downloads/original/false/87_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 88,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-22-41.jpg",
+    "original_downloaded": "downloads/original/false/88_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 89,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-17-16.jpg",
+    "original_downloaded": "downloads/original/false/89_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 90,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-11-45.jpg",
+    "original_downloaded": "downloads/original/false/90_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 91,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-06-18.jpg",
+    "original_downloaded": "downloads/original/false/91_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 92,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-00-52.jpg",
+    "original_downloaded": "downloads/original/false/92_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 93,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-55-26.jpg",
+    "original_downloaded": "downloads/original/false/93_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 94,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-49-54.jpg",
+    "original_downloaded": "downloads/original/false/94_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 95,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-44-28.jpg",
+    "original_downloaded": "downloads/original/false/95_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 96,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-39-02.jpg",
+    "original_downloaded": "downloads/original/false/96_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 97,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-33-35.jpg",
+    "original_downloaded": "downloads/original/false/97_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 98,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-28-09.jpg",
+    "original_downloaded": "downloads/original/false/98_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 99,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-22-48.jpg",
+    "original_downloaded": "downloads/original/false/99_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 100,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-17-22.jpg",
+    "original_downloaded": "downloads/original/false/100_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 101,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-11-56.jpg",
+    "original_downloaded": "downloads/original/false/101_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 102,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-06-30.jpg",
+    "original_downloaded": "downloads/original/false/102_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 103,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-01-04.jpg",
+    "original_downloaded": "downloads/original/false/103_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 104,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-55-37.jpg",
+    "original_downloaded": "downloads/original/false/104_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 105,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-50-11.jpg",
+    "original_downloaded": "downloads/original/false/105_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 106,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-44-44.jpg",
+    "original_downloaded": "downloads/original/false/106_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 107,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-39-13.jpg",
+    "original_downloaded": "downloads/original/false/107_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 108,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-33-41.jpg",
+    "original_downloaded": "downloads/original/false/108_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 109,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-28-10.jpg",
+    "original_downloaded": "downloads/original/false/109_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 110,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-22-38.jpg",
+    "original_downloaded": "downloads/original/false/110_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 111,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-17-07.jpg",
+    "original_downloaded": "downloads/original/false/111_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 112,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-11-35.jpg",
+    "original_downloaded": "downloads/original/false/112_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 113,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-06-04.jpg",
+    "original_downloaded": "downloads/original/false/113_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 114,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-00-53.jpg",
+    "original_downloaded": "downloads/original/false/114_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 115,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-55-47.jpg",
+    "original_downloaded": "downloads/original/false/115_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 116,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-50-16.jpg",
+    "original_downloaded": "downloads/original/false/116_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 117,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-44-50.jpg",
+    "original_downloaded": "downloads/original/false/117_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 118,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-39-34.jpg",
+    "original_downloaded": "downloads/original/false/118_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 119,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-34-28.jpg",
+    "original_downloaded": "downloads/original/false/119_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 120,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-29-17.jpg",
+    "original_downloaded": "downloads/original/false/120_original.jpg",
+    "annotated_image": "",
+    "annotated_downloaded": "",
+    "big_rock_detected_predicted": false,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 121,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-22/19/rajshree1_originalImage_2025-05-22_19-33-46.jpg",
+    "original_downloaded": "downloads/original/true/121_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-22/19/rajshree1_perspectiveImage_2025-05-22_19-33-46.jpg",
+    "annotated_downloaded": "downloads/annotated/true/121_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 122,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-22/19/rajshree1_originalImage_2025-05-22_19-25-07.jpg",
+    "original_downloaded": "downloads/original/true/122_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-22/19/rajshree1_perspectiveImage_2025-05-22_19-25-07.jpg",
+    "annotated_downloaded": "downloads/annotated/true/122_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 123,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-19/5/rajshree1_originalImage_2025-05-19_05-19-23.jpg",
+    "original_downloaded": "downloads/original/true/123_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-19/5/rajshree1_perspectiveImage_2025-05-19_05-19-23.jpg",
+    "annotated_downloaded": "downloads/annotated/true/123_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 124,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-15/4/rajshree1_originalImage_2025-05-15_04-45-38.jpg",
+    "original_downloaded": "downloads/original/true/124_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-15/4/rajshree1_perspectiveImage_2025-05-15_04-45-38.jpg",
+    "annotated_downloaded": "downloads/annotated/true/124_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 125,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-11/2/rajshree1_originalImage_2025-05-11_02-49-56.jpg",
+    "original_downloaded": "downloads/original/true/125_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-11/2/rajshree1_perspectiveImage_2025-05-11_02-49-56.jpg",
+    "annotated_downloaded": "downloads/annotated/true/125_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 126,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-11/2/rajshree1_originalImage_2025-05-11_02-27-47.jpg",
+    "original_downloaded": "downloads/original/true/126_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-11/2/rajshree1_perspectiveImage_2025-05-11_02-27-47.jpg",
+    "annotated_downloaded": "downloads/annotated/true/126_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 127,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-10/19/rajshree1_originalImage_2025-05-10_19-01-28.jpg",
+    "original_downloaded": "downloads/original/true/127_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-10/19/rajshree1_perspectiveImage_2025-05-10_19-01-28.jpg",
+    "annotated_downloaded": "downloads/annotated/true/127_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 128,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-09/4/rajshree1_originalImage_2025-05-09_04-18-35.jpg",
+    "original_downloaded": "downloads/original/true/128_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-09/4/rajshree1_perspectiveImage_2025-05-09_04-18-35.jpg",
+    "annotated_downloaded": "downloads/annotated/true/128_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 129,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-08/21/rajshree1_originalImage_2025-05-08_21-32-24.jpg",
+    "original_downloaded": "downloads/original/true/129_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-08/21/rajshree1_perspectiveImage_2025-05-08_21-32-24.jpg",
+    "annotated_downloaded": "downloads/annotated/true/129_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 130,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-08/20/rajshree1_originalImage_2025-05-08_20-38-23.jpg",
+    "original_downloaded": "downloads/original/true/130_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-08/20/rajshree1_perspectiveImage_2025-05-08_20-38-23.jpg",
+    "annotated_downloaded": "downloads/annotated/true/130_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 131,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-08/18/rajshree1_originalImage_2025-05-08_18-47-43.jpg",
+    "original_downloaded": "downloads/original/true/131_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-08/18/rajshree1_perspectiveImage_2025-05-08_18-47-43.jpg",
+    "annotated_downloaded": "downloads/annotated/true/131_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 132,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-08/5/rajshree1_originalImage_2025-05-08_05-58-15.jpg",
+    "original_downloaded": "downloads/original/true/132_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-08/5/rajshree1_perspectiveImage_2025-05-08_05-58-15.jpg",
+    "annotated_downloaded": "downloads/annotated/true/132_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 133,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-01/20/rajshree1_originalImage_2025-05-01_20-30-56.jpg",
+    "original_downloaded": "downloads/original/true/133_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-01/20/rajshree1_perspectiveImage_2025-05-01_20-30-56.jpg",
+    "annotated_downloaded": "downloads/annotated/true/133_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 134,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-05-01/20/rajshree1_originalImage_2025-05-01_20-29-02.jpg",
+    "original_downloaded": "downloads/original/true/134_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-01/20/rajshree1_perspectiveImage_2025-05-01_20-29-02.jpg",
+    "annotated_downloaded": "downloads/annotated/true/134_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 135,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-25/3/rajshree1_originalImage_2025-04-25_03-48-34.jpg",
+    "original_downloaded": "downloads/original/true/135_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-25/3/rajshree1_perspectiveImage_2025-04-25_03-48-34.jpg",
+    "annotated_downloaded": "downloads/annotated/true/135_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 136,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-25/3/rajshree1_originalImage_2025-04-25_03-46-43.jpg",
+    "original_downloaded": "downloads/original/true/136_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-25/3/rajshree1_perspectiveImage_2025-04-25_03-46-43.jpg",
+    "annotated_downloaded": "downloads/annotated/true/136_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 137,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-24/18/rajshree1_originalImage_2025-04-24_18-22-46.jpg",
+    "original_downloaded": "downloads/original/true/137_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-24/18/rajshree1_perspectiveImage_2025-04-24_18-22-46.jpg",
+    "annotated_downloaded": "downloads/annotated/true/137_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 138,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-18/4/rajshree1_originalImage_2025-04-18_04-19-30.jpg",
+    "original_downloaded": "downloads/original/true/138_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-18/4/rajshree1_perspectiveImage_2025-04-18_04-19-30.jpg",
+    "annotated_downloaded": "downloads/annotated/true/138_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 139,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-18/4/rajshree1_originalImage_2025-04-18_04-17-43.jpg",
+    "original_downloaded": "downloads/original/true/139_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-18/4/rajshree1_perspectiveImage_2025-04-18_04-17-43.jpg",
+    "annotated_downloaded": "downloads/annotated/true/139_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 140,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-18/3/rajshree1_originalImage_2025-04-18_03-11-28.jpg",
+    "original_downloaded": "downloads/original/true/140_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-18/3/rajshree1_perspectiveImage_2025-04-18_03-11-28.jpg",
+    "annotated_downloaded": "downloads/annotated/true/140_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 141,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-17/20/rajshree1_originalImage_2025-04-17_20-42-35.jpg",
+    "original_downloaded": "downloads/original/true/141_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-17/20/rajshree1_perspectiveImage_2025-04-17_20-42-35.jpg",
+    "annotated_downloaded": "downloads/annotated/true/141_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 142,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-17/20/rajshree1_originalImage_2025-04-17_20-40-45.jpg",
+    "original_downloaded": "downloads/original/true/142_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-17/20/rajshree1_perspectiveImage_2025-04-17_20-40-45.jpg",
+    "annotated_downloaded": "downloads/annotated/true/142_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 143,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-16/5/rajshree1_originalImage_2025-04-16_05-13-44.jpg",
+    "original_downloaded": "downloads/original/true/143_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-16/5/rajshree1_perspectiveImage_2025-04-16_05-13-44.jpg",
+    "annotated_downloaded": "downloads/annotated/true/143_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 144,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-15/19/rajshree1_originalImage_2025-04-15_19-11-58.jpg",
+    "original_downloaded": "downloads/original/true/144_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/19/rajshree1_perspectiveImage_2025-04-15_19-11-58.jpg",
+    "annotated_downloaded": "downloads/annotated/true/144_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 145,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-15/19/rajshree1_originalImage_2025-04-15_19-10-10.jpg",
+    "original_downloaded": "downloads/original/true/145_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/19/rajshree1_perspectiveImage_2025-04-15_19-10-10.jpg",
+    "annotated_downloaded": "downloads/annotated/true/145_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 146,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-15/7/rajshree1_originalImage_2025-04-15_07-31-15.jpg",
+    "original_downloaded": "downloads/original/true/146_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/7/rajshree1_perspectiveImage_2025-04-15_07-31-15.jpg",
+    "annotated_downloaded": "downloads/annotated/true/146_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 147,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-15/7/rajshree1_originalImage_2025-04-15_07-29-18.jpg",
+    "original_downloaded": "downloads/original/true/147_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/7/rajshree1_perspectiveImage_2025-04-15_07-29-18.jpg",
+    "annotated_downloaded": "downloads/annotated/true/147_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 148,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-15/7/rajshree1_originalImage_2025-04-15_07-27-11.jpg",
+    "original_downloaded": "downloads/original/true/148_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/7/rajshree1_perspectiveImage_2025-04-15_07-27-11.jpg",
+    "annotated_downloaded": "downloads/annotated/true/148_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 149,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-14/19/rajshree1_originalImage_2025-04-14_19-25-07.jpg",
+    "original_downloaded": "downloads/original/true/149_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-14/19/rajshree1_perspectiveImage_2025-04-14_19-25-07.jpg",
+    "annotated_downloaded": "downloads/annotated/true/149_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  },
+  {
+    "id": 150,
+    "original_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/originalImage/2025-04-08/4/rajshree1_originalImage_2025-04-08_04-01-19.jpg",
+    "original_downloaded": "downloads/original/true/150_original.jpg",
+    "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-08/4/rajshree1_perspectiveImage_2025-04-08_04-01-19.jpg",
+    "annotated_downloaded": "downloads/annotated/true/150_annotated.jpg",
+    "big_rock_detected_predicted": true,
+    "big_rock_detected_annotated": ""
+  }
+]

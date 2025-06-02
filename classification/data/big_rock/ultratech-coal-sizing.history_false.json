@@ -1,0 +1,5550 @@
+[{
+  "_id": {
+    "$oid": "6834706d0b669cc5690c56bf"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/19/rajshree1_originalImage_2025-05-26_19-15-17.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748267117,
+  "timestamp": "2025-05-26 19:15:17"
+},
+{
+  "_id": {
+    "$oid": "68346f2c0b669cc5690c56be"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/19/rajshree1_originalImage_2025-05-26_19-09-56.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748266796,
+  "timestamp": "2025-05-26 19:09:56"
+},
+{
+  "_id": {
+    "$oid": "68346de60b669cc5690c56bd"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/19/rajshree1_originalImage_2025-05-26_19-04-30.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748266470,
+  "timestamp": "2025-05-26 19:04:30"
+},
+{
+  "_id": {
+    "$oid": "68346ca00b669cc5690c56bc"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-59-04.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748266144,
+  "timestamp": "2025-05-26 18:59:04"
+},
+{
+  "_id": {
+    "$oid": "68346b550b669cc5690c56bb"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-53-32.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748265812,
+  "timestamp": "2025-05-26 18:53:32"
+},
+{
+  "_id": {
+    "$oid": "68346a0e0b669cc5690c56ba"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-48-06.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748265486,
+  "timestamp": "2025-05-26 18:48:06"
+},
+{
+  "_id": {
+    "$oid": "683468c80b669cc5690c56b9"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-42-40.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748265160,
+  "timestamp": "2025-05-26 18:42:40"
+},
+{
+  "_id": {
+    "$oid": "6834677d0b669cc5690c56b8"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-37-08.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748264828,
+  "timestamp": "2025-05-26 18:37:08"
+},
+{
+  "_id": {
+    "$oid": "683466310b669cc5690c56b7"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-31-37.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748264497,
+  "timestamp": "2025-05-26 18:31:37"
+},
+{
+  "_id": {
+    "$oid": "683464eb0b669cc5690c56b6"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-26-11.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748264171,
+  "timestamp": "2025-05-26 18:26:11"
+},
+{
+  "_id": {
+    "$oid": "683463a50b669cc5690c56b5"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-20-44.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748263844,
+  "timestamp": "2025-05-26 18:20:44"
+},
+{
+  "_id": {
+    "$oid": "683462590b669cc5690c56b4"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-15-13.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748263513,
+  "timestamp": "2025-05-26 18:15:13"
+},
+{
+  "_id": {
+    "$oid": "683461130b669cc5690c56b3"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-09-47.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748263187,
+  "timestamp": "2025-05-26 18:09:47"
+},
+{
+  "_id": {
+    "$oid": "68345fe10b669cc5690c56b2"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/18/rajshree1_originalImage_2025-05-26_18-04-41.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748262881,
+  "timestamp": "2025-05-26 18:04:41"
+},
+{
+  "_id": {
+    "$oid": "68345ea00b669cc5690c56b1"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-59-20.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748262560,
+  "timestamp": "2025-05-26 17:59:20"
+},
+{
+  "_id": {
+    "$oid": "68345d5f0b669cc5690c56b0"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-53-59.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748262239,
+  "timestamp": "2025-05-26 17:53:59"
+},
+{
+  "_id": {
+    "$oid": "68345c190b669cc5690c56af"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-48-33.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748261913,
+  "timestamp": "2025-05-26 17:48:33"
+},
+{
+  "_id": {
+    "$oid": "68345ad30b669cc5690c56ae"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-43-07.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748261587,
+  "timestamp": "2025-05-26 17:43:07"
+},
+{
+  "_id": {
+    "$oid": "6834598d0b669cc5690c56ad"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-37-41.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748261261,
+  "timestamp": "2025-05-26 17:37:41"
+},
+{
+  "_id": {
+    "$oid": "683458420b669cc5690c56ac"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-32-10.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748260930,
+  "timestamp": "2025-05-26 17:32:10"
+},
+{
+  "_id": {
+    "$oid": "683457010b669cc5690c56ab"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-26-49.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748260609,
+  "timestamp": "2025-05-26 17:26:49"
+},
+{
+  "_id": {
+    "$oid": "683455c00b669cc5690c56aa"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-21-28.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748260288,
+  "timestamp": "2025-05-26 17:21:28"
+},
+{
+  "_id": {
+    "$oid": "6834547f0b669cc5690c56a9"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-16-07.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748259967,
+  "timestamp": "2025-05-26 17:16:07"
+},
+{
+  "_id": {
+    "$oid": "683453390b669cc5690c56a8"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-10-41.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748259641,
+  "timestamp": "2025-05-26 17:10:41"
+},
+{
+  "_id": {
+    "$oid": "683451f30b669cc5690c56a7"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/17/rajshree1_originalImage_2025-05-26_17-05-15.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748259315,
+  "timestamp": "2025-05-26 17:05:15"
+},
+{
+  "_id": {
+    "$oid": "683450a80b669cc5690c56a6"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-59-44.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748258984,
+  "timestamp": "2025-05-26 16:59:44"
+},
+{
+  "_id": {
+    "$oid": "68344f5d0b669cc5690c56a5"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-54-12.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748258652,
+  "timestamp": "2025-05-26 16:54:12"
+},
+{
+  "_id": {
+    "$oid": "68344e1c0b669cc5690c56a4"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-48-51.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748258331,
+  "timestamp": "2025-05-26 16:48:51"
+},
+{
+  "_id": {
+    "$oid": "68344cd60b669cc5690c56a3"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-43-25.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748258005,
+  "timestamp": "2025-05-26 16:43:25"
+},
+{
+  "_id": {
+    "$oid": "68344b900b669cc5690c56a2"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-37-59.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748257679,
+  "timestamp": "2025-05-26 16:37:59"
+},
+{
+  "_id": {
+    "$oid": "68344a4a0b669cc5690c56a1"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-32-33.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748257353,
+  "timestamp": "2025-05-26 16:32:33"
+},
+{
+  "_id": {
+    "$oid": "683449030b669cc5690c56a0"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-27-07.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748257027,
+  "timestamp": "2025-05-26 16:27:07"
+},
+{
+  "_id": {
+    "$oid": "683447c30b669cc5690c569f"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-21-46.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748256706,
+  "timestamp": "2025-05-26 16:21:46"
+},
+{
+  "_id": {
+    "$oid": "6834467d0b669cc5690c569e"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-16-21.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748256381,
+  "timestamp": "2025-05-26 16:16:21"
+},
+{
+  "_id": {
+    "$oid": "683445370b669cc5690c569d"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-10-54.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748256054,
+  "timestamp": "2025-05-26 16:10:54"
+},
+{
+  "_id": {
+    "$oid": "683443f10b669cc5690c569c"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-05-28.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748255728,
+  "timestamp": "2025-05-26 16:05:28"
+},
+{
+  "_id": {
+    "$oid": "683442aa0b669cc5690c569b"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/16/rajshree1_originalImage_2025-05-26_16-00-02.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748255402,
+  "timestamp": "2025-05-26 16:00:02"
+},
+{
+  "_id": {
+    "$oid": "683441690b669cc5690c569a"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-54-41.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748255081,
+  "timestamp": "2025-05-26 15:54:41"
+},
+{
+  "_id": {
+    "$oid": "683440230b669cc5690c5699"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-49-15.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748254755,
+  "timestamp": "2025-05-26 15:49:15"
+},
+{
+  "_id": {
+    "$oid": "68343edd0b669cc5690c5698"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-43-48.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748254428,
+  "timestamp": "2025-05-26 15:43:48"
+},
+{
+  "_id": {
+    "$oid": "68343d960b669cc5690c5697"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-38-22.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748254102,
+  "timestamp": "2025-05-26 15:38:22"
+},
+{
+  "_id": {
+    "$oid": "68343c500b669cc5690c5696"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-32-56.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748253776,
+  "timestamp": "2025-05-26 15:32:56"
+},
+{
+  "_id": {
+    "$oid": "68343b0a0b669cc5690c5695"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-27-30.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748253450,
+  "timestamp": "2025-05-26 15:27:30"
+},
+{
+  "_id": {
+    "$oid": "683439c40b669cc5690c5694"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-22-03.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748253123,
+  "timestamp": "2025-05-26 15:22:03"
+},
+{
+  "_id": {
+    "$oid": "6834387e0b669cc5690c5693"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-16-37.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748252797,
+  "timestamp": "2025-05-26 15:16:37"
+},
+{
+  "_id": {
+    "$oid": "683437320b669cc5690c5692"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-11-06.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748252466,
+  "timestamp": "2025-05-26 15:11:06"
+},
+{
+  "_id": {
+    "$oid": "683435e70b669cc5690c5691"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-05-35.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748252135,
+  "timestamp": "2025-05-26 15:05:35"
+},
+{
+  "_id": {
+    "$oid": "683434a10b669cc5690c5690"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/15/rajshree1_originalImage_2025-05-26_15-00-08.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748251808,
+  "timestamp": "2025-05-26 15:00:08"
+},
+{
+  "_id": {
+    "$oid": "6834335a0b669cc5690c568f"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-54-42.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748251482,
+  "timestamp": "2025-05-26 14:54:42"
+},
+{
+  "_id": {
+    "$oid": "6834320f0b669cc5690c568e"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-49-11.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748251151,
+  "timestamp": "2025-05-26 14:49:11"
+},
+{
+  "_id": {
+    "$oid": "683430c90b669cc5690c568d"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-43-44.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748250824,
+  "timestamp": "2025-05-26 14:43:44"
+},
+{
+  "_id": {
+    "$oid": "68342f820b669cc5690c568c"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-38-18.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748250498,
+  "timestamp": "2025-05-26 14:38:18"
+},
+{
+  "_id": {
+    "$oid": "68342e3c0b669cc5690c568b"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-32-52.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748250172,
+  "timestamp": "2025-05-26 14:32:52"
+},
+{
+  "_id": {
+    "$oid": "68342cf60b669cc5690c568a"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-27-25.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748249845,
+  "timestamp": "2025-05-26 14:27:25"
+},
+{
+  "_id": {
+    "$oid": "68342bb00b669cc5690c5689"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-22-00.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748249520,
+  "timestamp": "2025-05-26 14:22:00"
+},
+{
+  "_id": {
+    "$oid": "68342a6a0b669cc5690c5688"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-16-34.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748249194,
+  "timestamp": "2025-05-26 14:16:34"
+},
+{
+  "_id": {
+    "$oid": "683429240b669cc5690c5687"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-11-07.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748248867,
+  "timestamp": "2025-05-26 14:11:07"
+},
+{
+  "_id": {
+    "$oid": "683427de0b669cc5690c5686"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-05-41.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748248541,
+  "timestamp": "2025-05-26 14:05:41"
+},
+{
+  "_id": {
+    "$oid": "683426970b669cc5690c5685"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/14/rajshree1_originalImage_2025-05-26_14-00-15.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748248215,
+  "timestamp": "2025-05-26 14:00:15"
+},
+{
+  "_id": {
+    "$oid": "683425570b669cc5690c5684"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-54-54.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748247894,
+  "timestamp": "2025-05-26 13:54:54"
+},
+{
+  "_id": {
+    "$oid": "683424110b669cc5690c5683"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-49-28.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748247568,
+  "timestamp": "2025-05-26 13:49:28"
+},
+{
+  "_id": {
+    "$oid": "683422cb0b669cc5690c5682"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-44-02.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748247242,
+  "timestamp": "2025-05-26 13:44:02"
+},
+{
+  "_id": {
+    "$oid": "683421850b669cc5690c5681"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-38-36.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748246916,
+  "timestamp": "2025-05-26 13:38:36"
+},
+{
+  "_id": {
+    "$oid": "6834203f0b669cc5690c5680"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-33-10.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748246590,
+  "timestamp": "2025-05-26 13:33:10"
+},
+{
+  "_id": {
+    "$oid": "68341ef90b669cc5690c567f"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-27-44.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748246264,
+  "timestamp": "2025-05-26 13:27:44"
+},
+{
+  "_id": {
+    "$oid": "68341db20b669cc5690c567e"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-22-18.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748245938,
+  "timestamp": "2025-05-26 13:22:18"
+},
+{
+  "_id": {
+    "$oid": "68341c6c0b669cc5690c567d"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-16-52.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748245612,
+  "timestamp": "2025-05-26 13:16:52"
+},
+{
+  "_id": {
+    "$oid": "68341b260b669cc5690c567c"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-11-26.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748245286,
+  "timestamp": "2025-05-26 13:11:26"
+},
+{
+  "_id": {
+    "$oid": "683419e00b669cc5690c567b"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-06-00.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748244960,
+  "timestamp": "2025-05-26 13:06:00"
+},
+{
+  "_id": {
+    "$oid": "683418950b669cc5690c567a"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/13/rajshree1_originalImage_2025-05-26_13-00-29.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748244629,
+  "timestamp": "2025-05-26 13:00:29"
+},
+{
+  "_id": {
+    "$oid": "6834174f0b669cc5690c5679"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-55-02.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748244302,
+  "timestamp": "2025-05-26 12:55:02"
+},
+{
+  "_id": {
+    "$oid": "683416090b669cc5690c5678"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-49-36.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748243976,
+  "timestamp": "2025-05-26 12:49:36"
+},
+{
+  "_id": {
+    "$oid": "683414c30b669cc5690c5677"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-44-10.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748243650,
+  "timestamp": "2025-05-26 12:44:10"
+},
+{
+  "_id": {
+    "$oid": "683413770b669cc5690c5676"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-38-39.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748243319,
+  "timestamp": "2025-05-26 12:38:39"
+},
+{
+  "_id": {
+    "$oid": "683412360b669cc5690c5675"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-33-18.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748242998,
+  "timestamp": "2025-05-26 12:33:18"
+},
+{
+  "_id": {
+    "$oid": "683410f50b669cc5690c5674"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-27-57.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748242677,
+  "timestamp": "2025-05-26 12:27:57"
+},
+{
+  "_id": {
+    "$oid": "68340fb40b669cc5690c5673"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-22-36.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748242356,
+  "timestamp": "2025-05-26 12:22:36"
+},
+{
+  "_id": {
+    "$oid": "68340e6e0b669cc5690c5672"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-17-10.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748242030,
+  "timestamp": "2025-05-26 12:17:10"
+},
+{
+  "_id": {
+    "$oid": "68340d280b669cc5690c5671"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-11-43.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748241703,
+  "timestamp": "2025-05-26 12:11:43"
+},
+{
+  "_id": {
+    "$oid": "68340be20b669cc5690c5670"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-06-17.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748241377,
+  "timestamp": "2025-05-26 12:06:17"
+},
+{
+  "_id": {
+    "$oid": "68340a9b0b669cc5690c566f"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/12/rajshree1_originalImage_2025-05-26_12-00-51.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748241051,
+  "timestamp": "2025-05-26 12:00:51"
+},
+{
+  "_id": {
+    "$oid": "683409550b669cc5690c566e"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-55-24.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748240724,
+  "timestamp": "2025-05-26 11:55:24"
+},
+{
+  "_id": {
+    "$oid": "683408090b669cc5690c566d"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-49-53.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748240393,
+  "timestamp": "2025-05-26 11:49:53"
+},
+{
+  "_id": {
+    "$oid": "683406c30b669cc5690c566c"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-44-27.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748240067,
+  "timestamp": "2025-05-26 11:44:27"
+},
+{
+  "_id": {
+    "$oid": "6834057d0b669cc5690c566b"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-39-01.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748239741,
+  "timestamp": "2025-05-26 11:39:01"
+},
+{
+  "_id": {
+    "$oid": "683404360b669cc5690c566a"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-33-34.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748239414,
+  "timestamp": "2025-05-26 11:33:34"
+},
+{
+  "_id": {
+    "$oid": "683402f00b669cc5690c5669"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-28-07.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748239087,
+  "timestamp": "2025-05-26 11:28:07"
+},
+{
+  "_id": {
+    "$oid": "683401aa0b669cc5690c5668"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-22-41.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748238761,
+  "timestamp": "2025-05-26 11:22:41"
+},
+{
+  "_id": {
+    "$oid": "683400640b669cc5690c5667"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-17-16.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748238436,
+  "timestamp": "2025-05-26 11:17:16"
+},
+{
+  "_id": {
+    "$oid": "6833ff190b669cc5690c5666"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-11-45.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748238105,
+  "timestamp": "2025-05-26 11:11:45"
+},
+{
+  "_id": {
+    "$oid": "6833fdd30b669cc5690c5665"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-06-18.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748237778,
+  "timestamp": "2025-05-26 11:06:18"
+},
+{
+  "_id": {
+    "$oid": "6833fc8c0b669cc5690c5664"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/11/rajshree1_originalImage_2025-05-26_11-00-52.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748237452,
+  "timestamp": "2025-05-26 11:00:52"
+},
+{
+  "_id": {
+    "$oid": "6833fb460b669cc5690c5663"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-55-26.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748237126,
+  "timestamp": "2025-05-26 10:55:26"
+},
+{
+  "_id": {
+    "$oid": "6833f9fb0b669cc5690c5662"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-49-54.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748236794,
+  "timestamp": "2025-05-26 10:49:54"
+},
+{
+  "_id": {
+    "$oid": "6833f8b40b669cc5690c5661"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-44-28.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748236468,
+  "timestamp": "2025-05-26 10:44:28"
+},
+{
+  "_id": {
+    "$oid": "6833f76e0b669cc5690c5660"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-39-02.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748236142,
+  "timestamp": "2025-05-26 10:39:02"
+},
+{
+  "_id": {
+    "$oid": "6833f6280b669cc5690c565f"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-33-35.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748235815,
+  "timestamp": "2025-05-26 10:33:35"
+},
+{
+  "_id": {
+    "$oid": "6833f4e10b669cc5690c565e"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-28-09.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748235489,
+  "timestamp": "2025-05-26 10:28:09"
+},
+{
+  "_id": {
+    "$oid": "6833f3a00b669cc5690c565d"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-22-48.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748235168,
+  "timestamp": "2025-05-26 10:22:48"
+},
+{
+  "_id": {
+    "$oid": "6833f25b0b669cc5690c565c"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-17-22.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748234842,
+  "timestamp": "2025-05-26 10:17:22"
+},
+{
+  "_id": {
+    "$oid": "6833f1140b669cc5690c565b"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-11-56.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748234516,
+  "timestamp": "2025-05-26 10:11:56"
+},
+{
+  "_id": {
+    "$oid": "6833efce0b669cc5690c565a"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-06-30.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748234190,
+  "timestamp": "2025-05-26 10:06:30"
+},
+{
+  "_id": {
+    "$oid": "6833ee880b669cc5690c5659"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/10/rajshree1_originalImage_2025-05-26_10-01-04.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748233864,
+  "timestamp": "2025-05-26 10:01:04"
+},
+{
+  "_id": {
+    "$oid": "6833ed420b669cc5690c5658"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-55-37.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748233537,
+  "timestamp": "2025-05-26 09:55:37"
+},
+{
+  "_id": {
+    "$oid": "6833ebfb0b669cc5690c5657"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-50-11.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748233211,
+  "timestamp": "2025-05-26 09:50:11"
+},
+{
+  "_id": {
+    "$oid": "6833eab50b669cc5690c5656"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-44-44.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748232884,
+  "timestamp": "2025-05-26 09:44:44"
+},
+{
+  "_id": {
+    "$oid": "6833e9690b669cc5690c5655"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-39-13.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748232553,
+  "timestamp": "2025-05-26 09:39:13"
+},
+{
+  "_id": {
+    "$oid": "6833e81e0b669cc5690c5654"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-33-41.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748232221,
+  "timestamp": "2025-05-26 09:33:41"
+},
+{
+  "_id": {
+    "$oid": "6833e6d20b669cc5690c5653"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-28-10.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748231890,
+  "timestamp": "2025-05-26 09:28:10"
+},
+{
+  "_id": {
+    "$oid": "6833e5860b669cc5690c5652"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-22-38.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748231558,
+  "timestamp": "2025-05-26 09:22:38"
+},
+{
+  "_id": {
+    "$oid": "6833e43b0b669cc5690c5651"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-17-07.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748231227,
+  "timestamp": "2025-05-26 09:17:07"
+},
+{
+  "_id": {
+    "$oid": "6833e2ef0b669cc5690c5650"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-11-35.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748230895,
+  "timestamp": "2025-05-26 09:11:35"
+},
+{
+  "_id": {
+    "$oid": "6833e1a40b669cc5690c564f"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-06-04.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748230564,
+  "timestamp": "2025-05-26 09:06:04"
+},
+{
+  "_id": {
+    "$oid": "6833e06d0b669cc5690c564e"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/9/rajshree1_originalImage_2025-05-26_09-00-53.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748230253,
+  "timestamp": "2025-05-26 09:00:53"
+},
+{
+  "_id": {
+    "$oid": "6833df3b0b669cc5690c564d"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-55-47.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748229947,
+  "timestamp": "2025-05-26 08:55:47"
+},
+{
+  "_id": {
+    "$oid": "6833ddf00b669cc5690c564c"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-50-16.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748229616,
+  "timestamp": "2025-05-26 08:50:16"
+},
+{
+  "_id": {
+    "$oid": "6833dcaa0b669cc5690c564b"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-44-50.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748229290,
+  "timestamp": "2025-05-26 08:44:50"
+},
+{
+  "_id": {
+    "$oid": "6833db6e0b669cc5690c564a"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-39-34.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748228974,
+  "timestamp": "2025-05-26 08:39:34"
+},
+{
+  "_id": {
+    "$oid": "6833da3c0b669cc5690c5649"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-34-28.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748228668,
+  "timestamp": "2025-05-26 08:34:28"
+},
+{
+  "_id": {
+    "$oid": "6833d9060b669cc5690c5648"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-29-17.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748228357,
+  "timestamp": "2025-05-26 08:29:17"
+},
+{
+  "_id": {
+    "$oid": "6833d7ba0b669cc5690c5647"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-23-46.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748228026,
+  "timestamp": "2025-05-26 08:23:46"
+},
+{
+  "_id": {
+    "$oid": "6833d66f0b669cc5690c5646"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-18-15.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748227695,
+  "timestamp": "2025-05-26 08:18:15"
+},
+{
+  "_id": {
+    "$oid": "6833d5240b669cc5690c5645"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-12-44.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748227364,
+  "timestamp": "2025-05-26 08:12:44"
+},
+{
+  "_id": {
+    "$oid": "6833d3e30b669cc5690c5644"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-07-23.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748227043,
+  "timestamp": "2025-05-26 08:07:23"
+},
+{
+  "_id": {
+    "$oid": "6833d2a70b669cc5690c5643"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/8/rajshree1_originalImage_2025-05-26_08-02-06.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748226726,
+  "timestamp": "2025-05-26 08:02:06"
+},
+{
+  "_id": {
+    "$oid": "6833d16b0b669cc5690c5642"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-56-51.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748226411,
+  "timestamp": "2025-05-26 07:56:51"
+},
+{
+  "_id": {
+    "$oid": "6833d02f0b669cc5690c5641"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-51-35.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748226095,
+  "timestamp": "2025-05-26 07:51:35"
+},
+{
+  "_id": {
+    "$oid": "6833cef30b669cc5690c5640"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-46-19.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748225779,
+  "timestamp": "2025-05-26 07:46:19"
+},
+{
+  "_id": {
+    "$oid": "6833cdbc0b669cc5690c563f"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-41-08.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748225468,
+  "timestamp": "2025-05-26 07:41:08"
+},
+{
+  "_id": {
+    "$oid": "6833cc800b669cc5690c563e"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-35-52.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748225152,
+  "timestamp": "2025-05-26 07:35:52"
+},
+{
+  "_id": {
+    "$oid": "6833cb4f0b669cc5690c563d"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-30-46.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748224846,
+  "timestamp": "2025-05-26 07:30:46"
+},
+{
+  "_id": {
+    "$oid": "6833ca180b669cc5690c563c"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-25-35.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748224535,
+  "timestamp": "2025-05-26 07:25:35"
+},
+{
+  "_id": {
+    "$oid": "6833c8dc0b669cc5690c563b"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-20-20.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748224220,
+  "timestamp": "2025-05-26 07:20:20"
+},
+{
+  "_id": {
+    "$oid": "6833c7a50b669cc5690c563a"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-15-09.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748223909,
+  "timestamp": "2025-05-26 07:15:09"
+},
+{
+  "_id": {
+    "$oid": "6833c65f0b669cc5690c5639"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-09-42.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748223582,
+  "timestamp": "2025-05-26 07:09:42"
+},
+{
+  "_id": {
+    "$oid": "6833c5280b669cc5690c5638"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/7/rajshree1_originalImage_2025-05-26_07-04-32.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748223272,
+  "timestamp": "2025-05-26 07:04:32"
+},
+{
+  "_id": {
+    "$oid": "6833c3f10b669cc5690c5637"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-59-21.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748222961,
+  "timestamp": "2025-05-26 06:59:21"
+},
+{
+  "_id": {
+    "$oid": "6833c2c00b669cc5690c5636"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-54-15.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748222655,
+  "timestamp": "2025-05-26 06:54:15"
+},
+{
+  "_id": {
+    "$oid": "6833c1930b669cc5690c5635"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-49-14.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748222354,
+  "timestamp": "2025-05-26 06:49:14"
+},
+{
+  "_id": {
+    "$oid": "6833c05c0b669cc5690c5634"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-44-04.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748222044,
+  "timestamp": "2025-05-26 06:44:04"
+},
+{
+  "_id": {
+    "$oid": "6833bf1b0b669cc5690c5633"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-38-43.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748221723,
+  "timestamp": "2025-05-26 06:38:43"
+},
+{
+  "_id": {
+    "$oid": "6833bdda0b669cc5690c5632"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-33-22.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748221402,
+  "timestamp": "2025-05-26 06:33:22"
+},
+{
+  "_id": {
+    "$oid": "6833bc990b669cc5690c5631"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-28-01.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748221081,
+  "timestamp": "2025-05-26 06:28:01"
+},
+{
+  "_id": {
+    "$oid": "6833bb590b669cc5690c5630"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-22-40.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748220760,
+  "timestamp": "2025-05-26 06:22:40"
+},
+{
+  "_id": {
+    "$oid": "6833ba170b669cc5690c562f"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-17-19.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748220439,
+  "timestamp": "2025-05-26 06:17:19"
+},
+{
+  "_id": {
+    "$oid": "6833b8d60b669cc5690c562e"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-11-58.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748220118,
+  "timestamp": "2025-05-26 06:11:58"
+},
+{
+  "_id": {
+    "$oid": "6833b7900b669cc5690c562d"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-06-32.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748219792,
+  "timestamp": "2025-05-26 06:06:32"
+},
+{
+  "_id": {
+    "$oid": "6833b64a0b669cc5690c562c"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/6/rajshree1_originalImage_2025-05-26_06-01-05.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748219465,
+  "timestamp": "2025-05-26 06:01:05"
+},
+{
+  "_id": {
+    "$oid": "6833b5030b669cc5690c562b"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/5/rajshree1_originalImage_2025-05-26_05-55-39.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748219139,
+  "timestamp": "2025-05-26 05:55:39"
+},
+{
+  "_id": {
+    "$oid": "6833b3d10b669cc5690c562a"
+  },
+  "mps": 0,
+  "size": {
+    "0-6mm": 0,
+    "6-8mm": 0,
+    "8-10mm": 0,
+    "10-12mm": 0,
+    "12+mm": 0
+  },
+  "noCoal": 1,
+  "originalImage": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/noCoal/originalImage/2025-05-26/5/rajshree1_originalImage_2025-05-26_05-50-33.jpg",
+  "bigParticlePresent": false,
+  "bigParticleInfo": {
+    "confs": [],
+    "bboxs": []
+  },
+  "color": {
+    "gray": 0,
+    "black": 0
+  },
+  "moisture": 0,
+  "showColor": false,
+  "showMoisture": false,
+  "alertHourly": false,
+  "alertCodes": [
+    2
+  ],
+  "alertMessages": [],
+  "cameraId": "rajshree1",
+  "clientId": "ultratech",
+  "material": "coal",
+  "createdAt": 1748218833,
+  "timestamp": "2025-05-26 05:50:33"
+}]
