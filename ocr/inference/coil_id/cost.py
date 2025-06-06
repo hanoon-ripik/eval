@@ -270,9 +270,4 @@ def test_all_models_on_folder():
         print(f"{model_name} - Total tokens: {total_input_tokens + total_output_tokens:,}")
         print()
 
-if __name__ == "__main__":
-    # Test single model on folder
-    # test_folder_ocr()
-    
-    # Uncomment to test all models on folder
-    test_all_models_on_folder()
+test_all_models_on_folder()
