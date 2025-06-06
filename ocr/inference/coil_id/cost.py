@@ -12,6 +12,10 @@ from pathlib import Path
 from tqdm import tqdm
 from PIL import Image
 import math
+import google.generativeai as genai
+
+# Configure the API key
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
 # Add the external/gemini directory to the Python path
 models_dir = "/Users/hanoon/Documents/eval/external/gemini"
@@ -38,24 +42,6 @@ SYSTEM_INSTRUCTION = """You are a steel coil ID recognition assistant. Your ONLY
 
 # Test prompt
 TEST_PROMPT = """Look at this image and find the coil identification number. The coil ID is typically printed, stamped, or tagged on the steel coil and may appear as an alphanumeric code. Extract ONLY the coil ID and return it exactly as it appears. Return only the coil ID string. If you cannot find a coil ID clearly, return an empty string."""
-
-def estimate_image_tokens(image_path):
-    """Estimate the number of tokens an image will consume"""
-    try:
-        with Image.open(image_path) as img:
-            width, height = img.size
-            # Gemini processes images in 512x512 tiles, each tile = 258 tokens
-            tiles_x = math.ceil(width / 512)
-            tiles_y = math.ceil(height / 512)
-            total_tiles = tiles_x * tiles_y
-            return total_tiles * 258
-    except Exception as e:
-        print(f"Error processing image {image_path}: {e}")
-        return 258  # Default to 1 tile
-
-def estimate_text_tokens(text):
-    """Rough estimation of text tokens (1 token ≈ 4 characters)"""
-    return len(text) // 4
 
 def calculate_cost(model_name, input_tokens, output_tokens):
     """Calculate the cost of API call based on token usage"""
@@ -107,23 +93,25 @@ def clean_coil_id(coil_id_str):
 def test_single_image(image_path, model_name='gemini_2_0_flash'):
     """Test coil ID recognition on a single image"""
     try:
-        # Estimate input tokens
-        image_tokens = estimate_image_tokens(image_path)
-        prompt_tokens = estimate_text_tokens(SYSTEM_INSTRUCTION + TEST_PROMPT)
-        input_tokens = image_tokens + prompt_tokens
-        
         response = MODEL_TO_USE(
             system_instruction=SYSTEM_INSTRUCTION,
             prompt=TEST_PROMPT,
             image_path=image_path
         )
         
-        # Estimate output tokens and calculate cost
-        output_tokens = estimate_text_tokens(response)
+        # Get actual token counts from response usage metadata
+        if hasattr(response, 'usage_metadata'):
+            input_tokens = response.usage_metadata.prompt_token_count
+            output_tokens = response.usage_metadata.candidates_token_count
+            total_tokens = response.usage_metadata.total_token_count
+        else:
+            print("Warning: No usage metadata available from response")
+            return None
+        
         cost_usd = calculate_cost(model_name, input_tokens, output_tokens)
         
         # Clean the response and extract coil ID
-        clean_response = response.strip()
+        clean_response = response.text.strip()
         
         # Clean and normalize the coil ID
         coil_id = clean_coil_id(clean_response)
@@ -146,7 +134,8 @@ def test_single_image(image_path, model_name='gemini_2_0_flash'):
             "ocr_predicted": coil_id,
             "cost_usd": cost_usd,
             "input_tokens": input_tokens,
-            "output_tokens": output_tokens
+            "output_tokens": output_tokens,
+            "total_tokens": total_tokens
         }
         
         return ocr_result
@@ -217,23 +206,25 @@ def test_all_models_on_folder():
         
         for image_path in tqdm(image_files, desc=f"Coil ID recognition with {model_name}"):
             try:
-                # Estimate input tokens
-                image_tokens = estimate_image_tokens(image_path)
-                prompt_tokens = estimate_text_tokens(SYSTEM_INSTRUCTION + TEST_PROMPT)
-                input_tokens = image_tokens + prompt_tokens
-                
                 response = model_func(
                     system_instruction=SYSTEM_INSTRUCTION,
                     prompt=TEST_PROMPT,
                     image_path=image_path
                 )
                 
-                # Estimate output tokens and calculate cost
-                output_tokens = estimate_text_tokens(response)
+                # Get actual token counts from response usage metadata
+                if hasattr(response, 'usage_metadata'):
+                    input_tokens = response.usage_metadata.prompt_token_count
+                    output_tokens = response.usage_metadata.candidates_token_count
+                    total_tokens = response.usage_metadata.total_token_count
+                else:
+                    print(f"Warning: No usage metadata available for {os.path.basename(image_path)}")
+                    continue
+                
                 cost_usd = calculate_cost(model_name, input_tokens, output_tokens)
                 
                 # Clean the response and extract coil ID
-                clean_response = response.strip()
+                clean_response = response.text.strip()
                 coil_id = clean_coil_id(clean_response)
                 
                 # Return empty string if no valid coil ID found
@@ -254,7 +245,8 @@ def test_all_models_on_folder():
                     "ocr_predicted": coil_id,
                     "cost_usd": cost_usd,
                     "input_tokens": input_tokens,
-                    "output_tokens": output_tokens
+                    "output_tokens": output_tokens,
+                    "total_tokens": total_tokens
                 }
                 
                 model_results.append(ocr_result)

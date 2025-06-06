@@ -45,8 +45,17 @@ def gemini_2_5_pro_preview(system_instruction, prompt, image_path=None, video_pa
         video = upload_video_with_retry(video_path)
         content = [prompt, video]
     
+    # Count tokens before making the request
+    total_tokens = model.count_tokens(content)
+    print("total_tokens: ", total_tokens)
+    
     response = model.generate_content(content)
-    return response.text.strip()
+    
+    # Print usage metadata
+    if hasattr(response, 'usage_metadata'):
+        print(response.usage_metadata)
+    
+    return response
 
 def gemini_2_5_flash_preview(system_instruction, prompt, image_path=None, video_path=None):
     model = genai.GenerativeModel(
@@ -62,8 +71,17 @@ def gemini_2_5_flash_preview(system_instruction, prompt, image_path=None, video_
         video = upload_video_with_retry(video_path)
         content = [prompt, video]
     
+    # Count tokens before making the request
+    total_tokens = model.count_tokens(content)
+    print("total_tokens: ", total_tokens)
+    
     response = model.generate_content(content)
-    return response.text.strip()
+    
+    # Print usage metadata
+    if hasattr(response, 'usage_metadata'):
+        print(response.usage_metadata)
+    
+    return response
 
 def gemini_2_0_flash(system_instruction, prompt, image_path=None, video_path=None):
     model = genai.GenerativeModel(
@@ -79,8 +97,17 @@ def gemini_2_0_flash(system_instruction, prompt, image_path=None, video_path=Non
         video = upload_video_with_retry(video_path)
         content = [prompt, video]
     
+    # Count tokens before making the request
+    total_tokens = model.count_tokens(content)
+    print("total_tokens: ", total_tokens)
+    
     response = model.generate_content(content)
-    return response.text.strip()
+    
+    # Print usage metadata
+    if hasattr(response, 'usage_metadata'):
+        print(response.usage_metadata)
+    
+    return response
 
 def gemini_1_5_flash(system_instruction, prompt, image_path=None, video_path=None):
     model = genai.GenerativeModel(
@@ -96,8 +123,17 @@ def gemini_1_5_flash(system_instruction, prompt, image_path=None, video_path=Non
         video = upload_video_with_retry(video_path)
         content = [prompt, video]
     
+    # Count tokens before making the request
+    total_tokens = model.count_tokens(content)
+    print("total_tokens: ", total_tokens)
+    
     response = model.generate_content(content)
-    return response.text.strip()
+    
+    # Print usage metadata
+    if hasattr(response, 'usage_metadata'):
+        print(response.usage_metadata)
+    
+    return response
 
 def gemini_1_5_pro(system_instruction, prompt, image_path=None, video_path=None):
     model = genai.GenerativeModel(
@@ -113,5 +149,14 @@ def gemini_1_5_pro(system_instruction, prompt, image_path=None, video_path=None)
         video = upload_video_with_retry(video_path)
         content = [prompt, video]
     
+    # Count tokens before making the request
+    total_tokens = model.count_tokens(content)
+    print("total_tokens: ", total_tokens)
+    
     response = model.generate_content(content)
-    return response.text.strip()
+    
+    # Print usage metadata
+    if hasattr(response, 'usage_metadata'):
+        print(response.usage_metadata)
+    
+    return response

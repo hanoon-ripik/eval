@@ -2,197 +2,41 @@
   {
     "id": 63,
     "ocr_predicted": "2273",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
+    "cost_usd": 0.000195,
+    "input_tokens": 1929,
+    "output_tokens": 4,
+    "total_tokens": 1933
   },
   {
     "id": 189,
     "ocr_predicted": "9952",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
+    "cost_usd": 0.000195,
+    "input_tokens": 1929,
+    "output_tokens": 4,
+    "total_tokens": 1933
   },
   {
     "id": 77,
     "ocr_predicted": "7684",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
+    "cost_usd": 0.000195,
+    "input_tokens": 1929,
+    "output_tokens": 4,
+    "total_tokens": 1933
   },
   {
     "id": 162,
     "ocr_predicted": "9952",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
+    "cost_usd": 0.000195,
+    "input_tokens": 1929,
+    "output_tokens": 4,
+    "total_tokens": 1933
   },
   {
     "id": 176,
     "ocr_predicted": "3617",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 88,
-    "ocr_predicted": "2273",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 200,
-    "ocr_predicted": "9952",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 177,
-    "ocr_predicted": "9952",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 89,
-    "ocr_predicted": "7684",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 163,
-    "ocr_predicted": "3617",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 188,
-    "ocr_predicted": "9952",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 76,
-    "ocr_predicted": "7684",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 62,
-    "ocr_predicted": "7206",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 74,
-    "ocr_predicted": "7684",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 60,
-    "ocr_predicted": "2273",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 48,
-    "ocr_predicted": "7684",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 149,
-    "ocr_predicted": "8569",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 175,
-    "ocr_predicted": "3617",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 161,
-    "ocr_predicted": "9952",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 160,
-    "ocr_predicted": "9952",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 174,
-    "ocr_predicted": "9952",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 148,
-    "ocr_predicted": "8569",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 49,
-    "ocr_predicted": "7684",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 61,
-    "ocr_predicted": "7684",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 75,
-    "ocr_predicted": "2273",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 59,
-    "ocr_predicted": "7684",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 71,
-    "ocr_predicted": "2273",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
-  },
-  {
-    "id": 65,
-    "ocr_predicted": "7684",
-    "cost_usd": 6.6e-05,
-    "input_tokens": 656,
-    "output_tokens": 1
+    "cost_usd": 0.000195,
+    "input_tokens": 1929,
+    "output_tokens": 4,
+    "total_tokens": 1933
   }
 ]

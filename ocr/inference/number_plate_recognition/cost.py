@@ -36,29 +36,6 @@ GEMINI_PRICING = {
     }
 }
 
-def estimate_image_tokens(image_path):
-    """
-    Estimate tokens for an image based on resolution.
-    Gemini uses approximately 258 tokens per 512x512 tile.
-    """
-    try:
-        with Image.open(image_path) as img:
-            width, height = img.size
-            # Calculate number of 512x512 tiles needed
-            tiles_width = (width + 511) // 512
-            tiles_height = (height + 511) // 512
-            total_tiles = tiles_width * tiles_height
-            return total_tiles * 258
-    except Exception:
-        # Default estimate if image can't be opened
-        return 258  # Assume 1 tile
-
-def estimate_text_tokens(text):
-    """
-    Rough estimate: 1 token ≈ 4 characters for English text
-    """
-    return len(text) // 4
-
 # System instruction for number plate recognition
 SYSTEM_INSTRUCTION = """You are a number plate recognition assistant. Your ONLY task is to extract the LAST 4 digits from number plates in images. You must ONLY return those 4 digits and nothing else - no explanations, no formatting, no additional words, no styling, no markdown. Just the last 4 digits of the number plate."""
 
@@ -76,20 +53,20 @@ def get_image_files(folder_path):
 def test_single_image(image_path, model_name="gemini_2_0_flash"):
     """Test number plate recognition on a single image and calculate cost"""
     try:
-        # Calculate input tokens
-        image_tokens = estimate_image_tokens(image_path)
-        system_tokens = estimate_text_tokens(SYSTEM_INSTRUCTION)
-        prompt_tokens = estimate_text_tokens(TEST_PROMPT)
-        input_tokens = image_tokens + system_tokens + prompt_tokens
-        
         response = MODEL_TO_USE(
             system_instruction=SYSTEM_INSTRUCTION,
             prompt=TEST_PROMPT,
             image_path=image_path
         )
         
-        # Calculate output tokens
-        output_tokens = estimate_text_tokens(response)
+        # Get actual token counts from response usage metadata
+        if hasattr(response, 'usage_metadata'):
+            input_tokens = response.usage_metadata.prompt_token_count
+            output_tokens = response.usage_metadata.candidates_token_count
+            total_tokens = response.usage_metadata.total_token_count
+        else:
+            print("Warning: No usage metadata available from response")
+            return None, 0.0
         
         # Calculate cost
         pricing = GEMINI_PRICING.get(model_name, GEMINI_PRICING["gemini_2_0_flash"])
@@ -98,7 +75,7 @@ def test_single_image(image_path, model_name="gemini_2_0_flash"):
         total_cost = input_cost + output_cost
         
         # Clean the response to ensure we only get 4 digits
-        clean_response = response.strip()
+        clean_response = response.text.strip()
         
         # Validate and extract exactly 4 digits
         if len(clean_response) == 4 and clean_response.isdigit():
@@ -127,7 +104,8 @@ def test_single_image(image_path, model_name="gemini_2_0_flash"):
             "ocr_predicted": last_4_digits,
             "cost_usd": round(total_cost, 6),
             "input_tokens": input_tokens,
-            "output_tokens": output_tokens
+            "output_tokens": output_tokens,
+            "total_tokens": total_tokens
         }
         
         return ocr_result, total_cost
@@ -198,27 +176,29 @@ def test_all_models_on_folder():
         
         for image_path in tqdm(image_files, desc=f"Number plate recognition with {model_name}"):
             try:
-                # Calculate input tokens
-                image_tokens = estimate_image_tokens(image_path)
-                system_tokens = estimate_text_tokens(SYSTEM_INSTRUCTION)
-                prompt_tokens = estimate_text_tokens(TEST_PROMPT)
-                input_tokens = image_tokens + system_tokens + prompt_tokens
-                
                 response = model_func(
                     system_instruction=SYSTEM_INSTRUCTION,
                     prompt=TEST_PROMPT,
                     image_path=image_path
                 )
                 
+                # Get actual token counts from response usage metadata
+                if hasattr(response, 'usage_metadata'):
+                    input_tokens = response.usage_metadata.prompt_token_count
+                    output_tokens = response.usage_metadata.candidates_token_count
+                    total_tokens = response.usage_metadata.total_token_count
+                else:
+                    print(f"Warning: No usage metadata available for {os.path.basename(image_path)}")
+                    continue
+                
                 # Calculate output tokens and cost
-                output_tokens = estimate_text_tokens(response)
                 pricing = GEMINI_PRICING.get(model_name, GEMINI_PRICING["gemini_2_0_flash"])
                 input_cost = (input_tokens / 1_000_000) * pricing["input"]
                 output_cost = (output_tokens / 1_000_000) * pricing["output"]
                 total_cost = input_cost + output_cost
                 
                 # Clean the response to ensure we only get 4 digits
-                clean_response = response.strip()
+                clean_response = response.text.strip()
                 
                 # Validate and extract exactly 4 digits
                 if len(clean_response) == 4 and clean_response.isdigit():
@@ -247,7 +227,8 @@ def test_all_models_on_folder():
                     "ocr_predicted": last_4_digits,
                     "cost_usd": round(total_cost, 6),
                     "input_tokens": input_tokens,
-                    "output_tokens": output_tokens
+                    "output_tokens": output_tokens,
+                    "total_tokens": total_tokens
                 }
                 
                 model_results.append(ocr_result)
