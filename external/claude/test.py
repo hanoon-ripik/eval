@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Test script for OpenAI models via OpenRouter with OCR functionality on folder of images
+Test script for Claude models via OpenRouter with OCR functionality on folder of images
 """
 
 import os
@@ -8,10 +8,10 @@ import glob
 import json
 from pathlib import Path
 from tqdm import tqdm
-from models import o4_mini, gpt_4_1, gpt_4_1_mini, gpt_4o
+from models import claude_sonnet_4, claude_3_7_sonnet, claude_3_5_haiku, claude_3_5_sonnet
 
 # Configuration
-MODEL_TO_USE = o4_mini  # Change this to test different models
+MODEL_TO_USE = claude_sonnet_4  # Change this to test different models
 FOLDER_PATH = "/Users/hanoon/Documents/eval/helper/clipped"  # Change this to your folder path
 SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp']
 
@@ -38,7 +38,7 @@ def test_single_image(image_path):
             image_path=image_path
         )
         
-        # Extract text from OpenAI response format
+        # Extract text from Claude response format
         if isinstance(response, dict) and 'choices' in response:
             ocr_text = response['choices'][0]['message']['content']
         else:
@@ -83,12 +83,12 @@ def test_folder_ocr():
     print(f"Saved {result_count} results to result.json")
 
 def test_all_models_on_folder():
-    """Test all available OpenAI models with OCR on the folder"""
+    """Test all available Claude models with OCR on the folder"""
     models = [
-        ("OpenAI O4 Mini", o4_mini),
-        ("OpenAI GPT-4.1", gpt_4_1),
-        ("OpenAI GPT-4.1 Mini", gpt_4_1_mini),
-        ("OpenAI ChatGPT-4o Latest", chatgpt_4o_latest)
+        ("Claude Sonnet 4", claude_sonnet_4),
+        ("Claude 3.7 Sonnet", claude_3_7_sonnet),
+        ("Claude 3.5 Haiku", claude_3_5_haiku),
+        ("Claude 3.5 Sonnet", claude_3_5_sonnet),
     ]
     
     image_files = get_image_files(FOLDER_PATH)
@@ -111,7 +111,7 @@ def test_all_models_on_folder():
                     image_path=image_path
                 )
                 
-                # Extract text from OpenAI response format
+                # Extract text from Claude response format
                 if isinstance(response, dict) and 'choices' in response:
                     ocr_text = response['choices'][0]['message']['content']
                 else:
@@ -154,8 +154,23 @@ def test_simple_prompt():
     except Exception as e:
         print(f"ERROR in simple test: {e}")
 
+def test_single_image_with_path(image_path):
+    """Test OCR on a specific image path"""
+    if not os.path.exists(image_path):
+        print(f"Image not found: {image_path}")
+        return
+    
+    print(f"Testing OCR on: {os.path.basename(image_path)}")
+    result = test_single_image(image_path)
+    
+    if result:
+        print("OCR Result:")
+        print(json.dumps(result, indent=2))
+    else:
+        print("Failed to process image")
+
 if __name__ == "__main__":
-    print("OpenAI Models Test Script")
+    print("Claude Models Test Script")
     print("=" * 50)
     
     # Test simple prompt first
@@ -163,9 +178,12 @@ if __name__ == "__main__":
     print("\n" + "=" * 50)
     
     # Test single model on folder
-    print("Testing OCR on image folder...")
-    test_folder_ocr()
+    # print("Testing OCR on image folder...")
+    # test_folder_ocr()
     
     # Uncomment to test all models on folder
     # print("\nTesting all models on folder...")
     # test_all_models_on_folder()
+    
+    # Uncomment to test a single specific image
+    # test_single_image_with_path("/path/to/your/image.png")
