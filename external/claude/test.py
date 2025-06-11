@@ -110,6 +110,7 @@ def test_all_models_on_folder():
                     prompt=TEST_PROMPT,
                     image_path=image_path
                 )
+                print("RESPONSE:", response)
                 
                 # Extract text from Claude response format
                 if isinstance(response, dict) and 'choices' in response:
@@ -174,16 +175,16 @@ if __name__ == "__main__":
     print("=" * 50)
     
     # Test simple prompt first
-    test_simple_prompt()
-    print("\n" + "=" * 50)
+    # test_simple_prompt()
+    # print("\n" + "=" * 50)
     
     # Test single model on folder
     # print("Testing OCR on image folder...")
     # test_folder_ocr()
     
     # Uncomment to test all models on folder
-    # print("\nTesting all models on folder...")
-    # test_all_models_on_folder()
+    print("\nTesting all models on folder...")
+    test_all_models_on_folder()
     
     # Uncomment to test a single specific image
     # test_single_image_with_path("/path/to/your/image.png")

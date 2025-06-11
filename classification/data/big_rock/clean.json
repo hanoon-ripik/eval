@@ -6,7 +6,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 33,
@@ -294,7 +294,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 34,
@@ -303,7 +303,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 35,
@@ -312,7 +312,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 37,
@@ -330,7 +330,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 38,
@@ -339,7 +339,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 39,
@@ -348,7 +348,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 40,
@@ -357,7 +357,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 41,
@@ -366,7 +366,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 42,
@@ -375,7 +375,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 43,
@@ -384,7 +384,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 44,
@@ -393,7 +393,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 45,
@@ -402,7 +402,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 46,
@@ -411,7 +411,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 47,
@@ -420,7 +420,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 48,
@@ -429,7 +429,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 49,
@@ -438,7 +438,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 50,
@@ -447,7 +447,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 51,
@@ -456,7 +456,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 52,
@@ -465,7 +465,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 53,
@@ -474,7 +474,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 54,
@@ -483,7 +483,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 55,
@@ -492,7 +492,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 56,
@@ -501,7 +501,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 57,
@@ -510,7 +510,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 58,
@@ -519,7 +519,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 59,
@@ -528,7 +528,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 60,
@@ -537,7 +537,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 61,
@@ -546,7 +546,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 62,
@@ -555,7 +555,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 63,
@@ -564,7 +564,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 64,
@@ -573,7 +573,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 65,
@@ -582,7 +582,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 66,
@@ -591,7 +591,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 67,
@@ -600,7 +600,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 68,
@@ -609,7 +609,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 69,
@@ -618,7 +618,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 70,
@@ -627,7 +627,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 71,
@@ -636,7 +636,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 72,
@@ -645,7 +645,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 73,
@@ -654,7 +654,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 74,
@@ -663,7 +663,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 75,
@@ -672,7 +672,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 76,
@@ -681,7 +681,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 77,
@@ -690,7 +690,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 78,
@@ -699,7 +699,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 79,
@@ -708,7 +708,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 80,
@@ -717,7 +717,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 81,
@@ -726,7 +726,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 82,
@@ -735,7 +735,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 83,
@@ -744,7 +744,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 84,
@@ -753,7 +753,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 85,
@@ -762,7 +762,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 86,
@@ -771,7 +771,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 87,
@@ -780,7 +780,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 88,
@@ -789,7 +789,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 89,
@@ -798,7 +798,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 90,
@@ -807,7 +807,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 91,
@@ -816,7 +816,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 92,
@@ -825,7 +825,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 93,
@@ -834,7 +834,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 94,
@@ -843,7 +843,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 95,
@@ -852,7 +852,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 96,
@@ -861,7 +861,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 97,
@@ -870,7 +870,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 98,
@@ -879,7 +879,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 99,
@@ -888,7 +888,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 100,
@@ -897,7 +897,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 101,
@@ -906,7 +906,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 102,
@@ -915,7 +915,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 103,
@@ -924,7 +924,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 104,
@@ -933,7 +933,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 105,
@@ -942,7 +942,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 106,
@@ -951,7 +951,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 107,
@@ -960,7 +960,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 108,
@@ -969,7 +969,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 109,
@@ -978,7 +978,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 110,
@@ -987,7 +987,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 111,
@@ -996,7 +996,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 112,
@@ -1005,7 +1005,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 113,
@@ -1014,7 +1014,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 114,
@@ -1023,7 +1023,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 115,
@@ -1032,7 +1032,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 116,
@@ -1041,7 +1041,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 117,
@@ -1050,7 +1050,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 118,
@@ -1059,7 +1059,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 119,
@@ -1068,7 +1068,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 120,
@@ -1077,7 +1077,7 @@
     "annotated_image": "",
     "annotated_downloaded": "",
     "big_rock_detected_predicted": false,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": ""
   },
   {
     "id": 121,
@@ -1086,7 +1086,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-22/19/rajshree1_perspectiveImage_2025-05-22_19-33-46.jpg",
     "annotated_downloaded": "downloads/annotated/true/121_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 122,
@@ -1095,7 +1096,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-22/19/rajshree1_perspectiveImage_2025-05-22_19-25-07.jpg",
     "annotated_downloaded": "downloads/annotated/true/122_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 123,
@@ -1104,7 +1106,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-19/5/rajshree1_perspectiveImage_2025-05-19_05-19-23.jpg",
     "annotated_downloaded": "downloads/annotated/true/123_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 124,
@@ -1113,7 +1116,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-15/4/rajshree1_perspectiveImage_2025-05-15_04-45-38.jpg",
     "annotated_downloaded": "downloads/annotated/true/124_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 125,
@@ -1122,7 +1126,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-11/2/rajshree1_perspectiveImage_2025-05-11_02-49-56.jpg",
     "annotated_downloaded": "downloads/annotated/true/125_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 126,
@@ -1131,7 +1136,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-11/2/rajshree1_perspectiveImage_2025-05-11_02-27-47.jpg",
     "annotated_downloaded": "downloads/annotated/true/126_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 127,
@@ -1140,7 +1146,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-10/19/rajshree1_perspectiveImage_2025-05-10_19-01-28.jpg",
     "annotated_downloaded": "downloads/annotated/true/127_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 128,
@@ -1149,7 +1156,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-09/4/rajshree1_perspectiveImage_2025-05-09_04-18-35.jpg",
     "annotated_downloaded": "downloads/annotated/true/128_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 129,
@@ -1158,7 +1166,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-08/21/rajshree1_perspectiveImage_2025-05-08_21-32-24.jpg",
     "annotated_downloaded": "downloads/annotated/true/129_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 130,
@@ -1167,7 +1176,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-08/20/rajshree1_perspectiveImage_2025-05-08_20-38-23.jpg",
     "annotated_downloaded": "downloads/annotated/true/130_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 131,
@@ -1176,7 +1186,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-08/18/rajshree1_perspectiveImage_2025-05-08_18-47-43.jpg",
     "annotated_downloaded": "downloads/annotated/true/131_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 132,
@@ -1185,7 +1196,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-08/5/rajshree1_perspectiveImage_2025-05-08_05-58-15.jpg",
     "annotated_downloaded": "downloads/annotated/true/132_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 133,
@@ -1194,7 +1206,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-01/20/rajshree1_perspectiveImage_2025-05-01_20-30-56.jpg",
     "annotated_downloaded": "downloads/annotated/true/133_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 134,
@@ -1203,7 +1216,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-05-01/20/rajshree1_perspectiveImage_2025-05-01_20-29-02.jpg",
     "annotated_downloaded": "downloads/annotated/true/134_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 135,
@@ -1212,7 +1226,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-25/3/rajshree1_perspectiveImage_2025-04-25_03-48-34.jpg",
     "annotated_downloaded": "downloads/annotated/true/135_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 136,
@@ -1221,7 +1236,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-25/3/rajshree1_perspectiveImage_2025-04-25_03-46-43.jpg",
     "annotated_downloaded": "downloads/annotated/true/136_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 137,
@@ -1230,7 +1246,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-24/18/rajshree1_perspectiveImage_2025-04-24_18-22-46.jpg",
     "annotated_downloaded": "downloads/annotated/true/137_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 138,
@@ -1239,7 +1256,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-18/4/rajshree1_perspectiveImage_2025-04-18_04-19-30.jpg",
     "annotated_downloaded": "downloads/annotated/true/138_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 139,
@@ -1248,7 +1266,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-18/4/rajshree1_perspectiveImage_2025-04-18_04-17-43.jpg",
     "annotated_downloaded": "downloads/annotated/true/139_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 140,
@@ -1257,7 +1276,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-18/3/rajshree1_perspectiveImage_2025-04-18_03-11-28.jpg",
     "annotated_downloaded": "downloads/annotated/true/140_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 141,
@@ -1266,7 +1286,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-17/20/rajshree1_perspectiveImage_2025-04-17_20-42-35.jpg",
     "annotated_downloaded": "downloads/annotated/true/141_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 142,
@@ -1275,7 +1296,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-17/20/rajshree1_perspectiveImage_2025-04-17_20-40-45.jpg",
     "annotated_downloaded": "downloads/annotated/true/142_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 143,
@@ -1284,7 +1306,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-16/5/rajshree1_perspectiveImage_2025-04-16_05-13-44.jpg",
     "annotated_downloaded": "downloads/annotated/true/143_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 144,
@@ -1293,7 +1316,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/19/rajshree1_perspectiveImage_2025-04-15_19-11-58.jpg",
     "annotated_downloaded": "downloads/annotated/true/144_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 145,
@@ -1302,7 +1326,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/19/rajshree1_perspectiveImage_2025-04-15_19-10-10.jpg",
     "annotated_downloaded": "downloads/annotated/true/145_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 146,
@@ -1311,7 +1336,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/7/rajshree1_perspectiveImage_2025-04-15_07-31-15.jpg",
     "annotated_downloaded": "downloads/annotated/true/146_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 147,
@@ -1320,7 +1346,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/7/rajshree1_perspectiveImage_2025-04-15_07-29-18.jpg",
     "annotated_downloaded": "downloads/annotated/true/147_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 148,
@@ -1329,7 +1356,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-15/7/rajshree1_perspectiveImage_2025-04-15_07-27-11.jpg",
     "annotated_downloaded": "downloads/annotated/true/148_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 149,
@@ -1338,7 +1366,8 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-14/19/rajshree1_perspectiveImage_2025-04-14_19-25-07.jpg",
     "annotated_downloaded": "downloads/annotated/true/149_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   },
   {
     "id": 150,
@@ -1347,6 +1376,7 @@
     "annotated_image": "https://rpk-clnt-in-prd.s3.ap-south-1.amazonaws.com/ultratech/loc1/coal/rajshree1/alert/perspectiveImage/2025-04-08/4/rajshree1_perspectiveImage_2025-04-08_04-01-19.jpg",
     "annotated_downloaded": "downloads/annotated/true/150_annotated.jpg",
     "big_rock_detected_predicted": true,
-    "big_rock_detected_annotated": ""
+    "big_rock_detected_truth": "",
+    "big_rock_annotated_correct": ""
   }
 ]

@@ -12,14 +12,13 @@ from pathlib import Path
 from tqdm import tqdm
 
 # Add the external/gemini directory to the Python path
-models_dir = "/Users/hanoon/Documents/eval/external/gemini"
+models_dir = "/Users/hanoon/Documents/eval/external/openai"
 if models_dir not in sys.path:
     sys.path.insert(0, models_dir)
 
-from models import gemini_1_5_pro, gemini_2_0_flash, gemini_2_5_pro_preview
-
+from models import gpt_4o, gpt_4_1_mini, gpt_4_1, o4_mini
 # Configuration
-MODEL_TO_USE = gemini_1_5_pro 
+MODEL_TO_USE = gpt_4o 
 FOLDER_PATH = "/Users/hanoon/Documents/eval/ocr/data/coil_id/downloads"  # Change this to your folder path
 SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp']
 
@@ -99,9 +98,10 @@ def test_folder_ocr():
 def test_all_models_on_folder():
     """Test all available models with coil ID recognition on the folder"""
     models = [
-        ("gemini_1_5_pro", gemini_1_5_pro),
-        # ("gemini_2_0_flash", gemini_2_0_flash),
-        # ("gemini_2_5_pro_preview", gemini_2_5_pro_preview)
+        ("gpt_4o", gpt_4o),
+        ("gpt_4_1_mini", gpt_4_1_mini),
+        ("gpt_4_1", gpt_4_1),
+        ("o4_mini", o4_mini),
     ]
     
     image_files = get_image_files(FOLDER_PATH)
@@ -124,13 +124,13 @@ def test_all_models_on_folder():
                 )
                 
                 # Clean the response to get the coil ID text
-                clean_response = response.strip()
+                # clean_response = response.strip()
                 
                 # Return empty string if no valid coil ID found
-                if not clean_response or clean_response.lower() in ['none', 'n/a', 'not found', 'no text', 'unclear']:
-                    coil_id = ""
-                else:
-                    coil_id = clean_response
+                # if not clean_response or clean_response.lower() in ['none', 'n/a', 'not found', 'no text', 'unclear']:
+                #     coil_id = ""
+                # else:
+                #     coil_id = clean_response
                 
                 # Create result
                 filename = os.path.basename(image_path)
@@ -138,7 +138,7 @@ def test_all_models_on_folder():
                 
                 ocr_result = {
                     "id": image_id,
-                    "ocr_predicted": coil_id
+                    "ocr_predicted": response['choices'][0]['message']['content'].strip()
                 }
                 
                 model_results.append(ocr_result)

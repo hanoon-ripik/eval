@@ -1,17 +1,9 @@
-#!/usr/bin/env python3
-"""
-Fill script to add ocr_annotated values from annotated.json to target JSON file.
-
-This script reads a target JSON file, finds entries by ID, and adds matching
-ocr_annotated values from the annotated.json file.
-"""
-
 import json
 import os
 from typing import List, Dict, Any
 
 # Configuration
-TARGET_JSON_FILE = "gemini_1_5_pro_coil_id.json"  # File to modify
+TARGET_JSON_FILE = "gpt_4_1_mini_coil_id.json"  # File to modify
 ANNOTATED_JSON_FILE = "annotated.json"  # Source file
 
 

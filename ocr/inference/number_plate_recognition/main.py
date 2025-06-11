@@ -12,15 +12,15 @@ from pathlib import Path
 from tqdm import tqdm
 
 # Add the external/gemini directory to the Python path
-models_dir = "/Users/hanoon/Documents/eval/external/gemini"
+models_dir = "/Users/hanoon/Documents/eval/external/claude"
 if models_dir not in sys.path:
     sys.path.insert(0, models_dir)
 
-from models import gemini_1_5_flash, gemini_1_5_pro
+from models import claude_sonnet_4, claude_3_7_sonnet, claude_3_5_haiku, claude_3_5_sonnet
 
 # Configuration
-MODEL_TO_USE = gemini_1_5_flash 
-FOLDER_PATH = "/Users/hanoon/Documents/eval/utils/ocr/data/number_plate_recognition/downloads"  # Change this to your folder path
+MODEL_TO_USE = claude_sonnet_4 
+FOLDER_PATH = "/Users/hanoon/Documents/eval/ocr/data/number_plate_recognition/downloads"  # Change this to your folder path
 SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp']
 
 # System instruction for number plate recognition
@@ -111,8 +111,10 @@ def test_folder_ocr():
 def test_all_models_on_folder():
     """Test all available models with number plate recognition on the folder"""
     models = [
-        ("gemini_1_5_flash", gemini_1_5_flash),
-        ("gemini_1_5_pro", gemini_1_5_pro),
+        ("claude_sonnet_4", claude_sonnet_4),
+        ("claude_3_7_sonnet", claude_3_7_sonnet),
+        ("claude_3_5_haiku", claude_3_5_haiku),
+        ("claude_3_5_sonnet", claude_3_5_sonnet)
     ]
     
     image_files = get_image_files(FOLDER_PATH)

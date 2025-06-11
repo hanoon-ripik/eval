@@ -71,11 +71,6 @@ def make_openrouter_request(model_name, system_instruction, prompt, image_path=N
         )
         response.raise_for_status()
         result = response.json()
-        
-        # Print usage information if available
-        if 'usage' in result:
-            print("Usage:", result['usage'])
-        
         return result
         
     except requests.exceptions.RequestException as e:

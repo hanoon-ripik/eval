@@ -12,14 +12,14 @@ from pathlib import Path
 from tqdm import tqdm
 
 # Add the external/gemini directory to the Python path
-models_dir = "/Users/hanoon/Documents/eval/external/gemini"
+models_dir = "/Users/hanoon/Documents/eval/external/openai"
 if models_dir not in sys.path:
     sys.path.insert(0, models_dir)
 
-from models import gemini_1_5_flash, gemini_1_5_pro, gemini_2_0_flash, gemini_2_5_flash_preview
+from models import gpt_4o, gpt_4_1_mini, gpt_4_1, o4_mini
 
 # Configuration
-MODEL_TO_USE = gemini_1_5_flash 
+MODEL_TO_USE = gpt_4o 
 FOLDER_PATH = "/Users/hanoon/Documents/eval/ocr/data/digital_meter_readings/birla_copper/downloads"  # Change this to your folder path
 SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp']
 
@@ -135,7 +135,10 @@ def test_folder_ocr():
 def test_all_models_on_folder():
     """Test all available models with tonnage recognition on the folder"""
     models = [
-        ("gemini_2_5_flash_preview", gemini_2_5_flash_preview),
+        ("gpt_4o", gpt_4o),
+        ("gpt_4_1_mini", gpt_4_1_mini),
+        ("gpt_4_1", gpt_4_1),
+        ("o4_mini", o4_mini)
     ]
     
     image_files = get_image_files(FOLDER_PATH)
